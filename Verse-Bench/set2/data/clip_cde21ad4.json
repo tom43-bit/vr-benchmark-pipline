@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a train passing through an urban area, with a pedestrian standing nearby. The scene is set during the day, with clear skies and typical city sounds.",
+    "audio_prompt": [
+        "A train is passing by and a horn blows"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

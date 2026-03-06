@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman on stage, likely giving a speech or presentation. She is dressed in a colorful, patterned dress and is using a microphone. The background is a stage setting with a dark blue curtain and red lighting accents. The woman is actively engaging with the audience through her gestures and speech.",
+    "audio_prompt": [
+        "A woman is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Woman",
+        "text": "You try to imagine how you would feel and what you would do."
+    }
+}

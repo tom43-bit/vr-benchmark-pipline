@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a woman enjoying a piece of fried food, dipping it into a bowl of sauce, and eating it. The setting is indoors with a dark background, and the focus is on her actions and the food.",
+    "audio_prompt": [
+        "A person is eating food"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

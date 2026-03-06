@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking on a stage with a red circular background. He is wearing a blue shirt over a white t-shirt and is using hand gestures while talking. The speech content is about recognizing when someone is defending a position rather than discovering something new.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "You can always tell quite quickly in a discussion when someone's trying to defend a position rather than actually discover"
+    }
+}

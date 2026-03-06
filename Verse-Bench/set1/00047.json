@@ -1,0 +1,10 @@
+{
+    "video_prompt": "Two boys are in a starting position on a running track, preparing to run. The boy in the blue jersey is in the foreground, while the boy in the orange jersey is in the background. After the sound of a gunshot, they quickly rush out, ready to start their race. The background features a green field, and the sound of a gunshot is heard, signaling the start of the race.",
+    "audio_prompt": [
+        "Sound of a gunshot"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

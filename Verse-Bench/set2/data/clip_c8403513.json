@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a scene of palm trees swaying in a strong wind against a cloudy sky. The camera moves horizontally, providing a view of the trees and part of a building in the foreground. The wind is audible, adding to the sense of movement and atmosphere.",
+    "audio_prompt": [
+        "Wind blowing hard"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

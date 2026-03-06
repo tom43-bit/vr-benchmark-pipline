@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video depicts a girl walking through a vast desert landscape. She is wearing a purple floral dress and a gray hoodie with red accents. Her long brown hair flows freely as she walks. The camera zooms out to reveal the expansive desert, with a large, leafless tree in the background. The ambient sounds of wind and footsteps can be heard, adding to the sense of isolation and vastness of the desert.",
+    "audio_prompt": [
+        "sound of wind",
+        "sound of steps"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

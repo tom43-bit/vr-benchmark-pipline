@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video showcases a tranquil forest scene with tall trees and bamboo, surrounded by lush green foliage. The camera remains stationary, capturing the serene atmosphere of the forest. The ambient sound of birds adds to the peaceful ambiance.",
+    "audio_prompt": [
+        "sound of birds"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

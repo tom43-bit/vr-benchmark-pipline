@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person cutting green chili peppers on a wooden cutting board in a kitchen setting. The person is using a knife to cut the chili peppers into smaller pieces. The background is a kitchen with a wooden cutting board and a knife. The ambient sound is the sound of chopping.",
+    "audio_prompt": [
+        "A person is chopping on a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

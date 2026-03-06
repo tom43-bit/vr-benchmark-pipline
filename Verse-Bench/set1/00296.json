@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features an elderly man speaking directly to the camera in a dark, indoor setting. He expresses his heartfelt wishes for someone's happiness and a fulfilling marriage. The focus remains on the man's face and his words, with no significant changes in the background or additional characters appearing.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the old man",
+        "text": "I also hope that she can be happy, truly happy, and have a marriage without regrets."
+    }
+}

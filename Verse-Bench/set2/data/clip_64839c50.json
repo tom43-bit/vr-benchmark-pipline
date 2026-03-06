@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a white parrot perched on a pink cabinet with a small bird on its back. The small bird is actively pecking or interacting with the parrot. The background is a plain white wall and a white door, suggesting an indoor setting. The overall scene is calm and focused on the interaction between the two birds.",
+    "audio_prompt": [
+        "A bird is chirping"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

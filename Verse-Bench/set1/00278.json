@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a young girl walking through a vast, golden field, holding a wicker basket with binoculars attached to it. She is looking around and shouting out, 'Where are you! I wait for a long time. Please come out!'. The camera rotates to follow her movements, capturing the serene and expansive landscape with a windmill in the distance and a line of trees and a body of water in the background. The ambient sound of wind adds to the peaceful and natural atmosphere of the scene.",
+    "audio_prompt": [
+        "Sound of wind"
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "Where are you! I wait for a long time. Please come out!"
+    }
+}

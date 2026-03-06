@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman dressed in traditional attire, speaking directly to the camera with a serious demeanor. The setting is an outdoor environment with large green leaves in the background, and the woman's speech content suggests she is providing advice or information, possibly related to health and mental well-being.",
+    "audio_prompt": [
+        "The ambient sound is likely the natural sounds of the environment, such as rustling leaves or birds chirping, complementing the outdoor setting."
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "It's just a game, so don't take it to heart. Take it from me, I'm a doctor. Excessive rumination on negative thoughts is known to cause many adverse health effects."
+    }
+}

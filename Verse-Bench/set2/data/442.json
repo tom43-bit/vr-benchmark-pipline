@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman is playing the violin in an empty auditorium. She is seated on a chair, wearing a blue top and gray pants. She is moving the bow across the strings of the violin, her fingers pressing down on the strings, and her body swaying slightly to the music. The auditorium has wooden floors and dark seating, and the background is empty. The music playing in the background adds to the atmosphere of the scene",
+    "audio_prompt": [
+        "A violin is playing a note"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

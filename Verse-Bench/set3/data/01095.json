@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features an older man speaking about skills that can help improve community membership. He is in a well-lit office or study room with shelves filled with books and some framed pictures on the walls. The speaker is wearing glasses and a checkered shirt, and he is using a microphone and headphones. The video focuses on the speaker and his speech content.",
+    "audio_prompt": [
+        "A man is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "And these skills that can help us be better community members."
+    }
+}

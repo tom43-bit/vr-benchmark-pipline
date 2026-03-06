@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a person working in a workshop, using a metalworking machine to shape a metal rod. The person is wearing a blue jacket and black pants, and the workshop is filled with various tools and equipment. The sound of the metalworking machine and the metal shavings can be heard, and there is applause in the background.",
+    "audio_prompt": [
+        "A motor vehicle engine is running, tires are squealing, and metal is scraping"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

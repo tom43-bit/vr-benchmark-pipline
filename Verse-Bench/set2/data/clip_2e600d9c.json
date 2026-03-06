@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video showcases a woman playing a traditional Chinese flute in a dark, dramatic setting. Her attire and the intricate details of her headdress and dress are highlighted, emphasizing the cultural significance of the instrument and the performance. The camera focuses on her hands and face, capturing the beauty and skill involved in playing the flute.",
+    "audio_prompt": [
+        "Music is playing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a close-up of a hand writing the name 'Bharmik' on a piece of paper with a pen. The background is plain white, and there are no other objects or characters present. The hand moves smoothly as it writes the name, and the pen is held firmly between the fingers.",
+    "audio_prompt": [
+        "Scraping on a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

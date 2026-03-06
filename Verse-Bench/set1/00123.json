@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a man giving a lecture or presentation, emphasizing the importance of self-discipline and responsibility for achieving true freedom and happiness. The setting is formal, with a blue backdrop and text indicating a judicial examination context. The man is seated at a desk with a microphone, and there is no significant movement or action in the video.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "True freedom is the freedom of self-discipline, not the freedom of indulgence. Happiness is only a by-product of responsibility. If you pursue happiness without responsibility, you will end up suffering."
+    }
+}

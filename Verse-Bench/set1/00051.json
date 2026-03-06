@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a somber scene where a boy, holding a lit oil lamp, speaks directly to the viewer. His expression and the dimly lit background suggest a sense of sadness and finality. The voice echo in the background adds to the melancholic atmosphere.",
+    "audio_prompt": [
+        "Voice echo"
+    ],
+    "speech_prompt": {
+        "speaker": "the boy",
+        "text": "This is the last time I come here. My parents do not want me to be with you anymore."
+    }
+}

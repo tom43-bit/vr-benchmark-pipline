@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video depicts an old man and a man riding horses side by side in a grassy field. The old man, dressed in a brown tunic and a red scarf, rides a white horse, while the man, also in a brown tunic and a red scarf, rides a black horse. The scene transitions from a calm ride to the old man driving the horses to run very fast, causing the horses' tweets to surround the whole grassland. The camera captures the dynamic movement of the horses and the riders, emphasizing the contrast between the calm and the sudden speed. The ambient sounds of horse tweeting and galloping add to the realism of the scene.",
+    "audio_prompt": [
+        "horse tweeting",
+        "horse galloping"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

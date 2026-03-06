@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman in a brown fringed dress walks through a dense forest, looking around and stopping to look at something in the distance. The forest is filled with green trees and scattered branches on the ground. The ambient sound includes footsteps and rustling leaves.",
+    "audio_prompt": [
+        "Birds chirp in the distance, followed by a rooster crowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

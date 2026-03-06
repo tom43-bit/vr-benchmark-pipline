@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene and detailed scene of raindrops falling onto a water surface, creating intricate ripples and splashes. The close-up perspective emphasizes the texture and movement of the water, while the ambient sound of rain and water splashes adds to the calming atmosphere.",
+    "audio_prompt": [
+        "Rain falls onto a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

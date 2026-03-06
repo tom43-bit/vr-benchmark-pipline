@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures the moment an airplane takes off from a runway. The airplane is seen moving forward on the runway, gaining speed, and then lifting off into the air. The background includes a clear sky, a runway, and grassy areas surrounding the runway. The ambient sounds include wind and engine noise.",
+    "audio_prompt": [
+        "Wind blowing into a microphone"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

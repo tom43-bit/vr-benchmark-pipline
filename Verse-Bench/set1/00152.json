@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a man in a formal suit standing in front of a chalkboard, explaining something related to a diagram drawn on the board. He is gesturing with a chalk in his hand while speaking. The background appears to be an indoor setting, possibly a classroom or lecture hall. The man is a stand-up comedian and improviser, and he shares a personal anecdote about an experience he had on a show in Chicago where he attempted to eat two Italian beef sandwiches in under a minute. The ambient sound includes the sound of a lighter, smoking, and a sigh.",
+    "audio_prompt": [
+        "Sound of lighter, smoking, and sigh."
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "You stand up all the time. I'm a stand up comedian and improviser by trade. You had me on one of the most fun experiences of my life as I was on the show in Chicago and I attempted to eat two Italian beef sandwiches in under a minute."
+    }
+}

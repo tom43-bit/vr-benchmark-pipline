@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking on a stage with a blue curtain backdrop. He is wearing a black shirt and holding a remote control. He is gesturing with his hands while speaking, and the speech content is about being on set and prompting department heads.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "When I was on set, I'm constantly prompting all my department heads."
+    }
+}

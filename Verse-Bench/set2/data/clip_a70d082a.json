@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person using a chainsaw to cut a tree in an outdoor setting. The person is wearing a safety helmet and is focused on cutting the tree. The chainsaw is making a loud noise, and wood chips are flying around as the tree is being cut. The background includes greenery and a building, indicating an outdoor work environment.",
+    "audio_prompt": [
+        "A chainsaw is being used to cut wood"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

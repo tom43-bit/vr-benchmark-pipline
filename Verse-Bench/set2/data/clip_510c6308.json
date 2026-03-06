@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a close-up view of a large swarm of bees, densely packed together and actively moving. The bees are interacting with each other, some flying and others crawling on the leaves. The background is a green leafy area, and the ambient sound is the buzzing of the bees. The camera remains focused on the bees, providing a detailed view of their movements and interactions.",
+    "audio_prompt": [
+        "Insects are buzzing and birds are chirping"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a tactical training exercise in an open field. Soldiers in camouflage uniforms move tactically, using trees for cover and throwing smoke grenades to obscure their movements. The camera follows their actions closely, capturing the dynamic and intense nature of the training. The background includes an open field with scattered trees, a stop sign, and a cloudy sky, adding to the realistic setting. Ambient sounds of footsteps, wind, gunshots, and explosions enhance the immersive experience of the training exercise.",
+    "audio_prompt": [
+        "Clip-clops of gunshots with wind blowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

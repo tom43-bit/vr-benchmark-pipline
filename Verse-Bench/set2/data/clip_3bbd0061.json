@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A fluffy white cat with orange eyes is being held by a hand. The cat is meowing and the background is filled with trees and greenery. There is also the sound of a bird chirping.",
+    "audio_prompt": [
+        "Birds chirp and a cat meows"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

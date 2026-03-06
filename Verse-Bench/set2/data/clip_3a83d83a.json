@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a competitive swimming race in a pool, with swimmers actively competing and water splashes visible. The background is a clear blue swimming pool with lane dividers, and the atmosphere is filled with applause.",
+    "audio_prompt": [
+        "A crowd of people cheering"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

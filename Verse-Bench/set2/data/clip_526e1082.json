@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a woman playing a flute in a decorative setting. She is wearing an orange sweatshirt and black pants, sitting on a chair, and her hands and mouth are actively engaged in playing the flute. The background features pink flowers and a lamp, creating a serene and artistic atmosphere. The camera remains stationary, capturing the woman's focused performance.",
+    "audio_prompt": [
+        "A flute is playing a melody"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

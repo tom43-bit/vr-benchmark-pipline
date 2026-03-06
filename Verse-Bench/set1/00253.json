@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A little girl wearing a pink helmet and sunglasses is riding a children's bicycle very fast and laughing loudly. The background shows a residential area with houses and parked cars. The ambient sound includes the sound of the girl laughing and the bicycle moving.",
+    "audio_prompt": [
+        "sound of girl laughing and bicycle moving"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

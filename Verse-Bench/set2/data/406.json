@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a tranquil scene of a stream flowing over rocks in a natural setting. The water gently moves over the rocks, creating a peaceful and soothing atmosphere. The surrounding grass and rocks add to the natural beauty of the scene.",
+    "audio_prompt": [
+        "A stream of water is flowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a small, cute Android robot holding a gift box and speaking calmly. The Android's design is simple and friendly, with a glowing heart on its chest. The background is plain, focusing attention on the Android and its actions. The speech content suggests the Android is delivering a message or greeting, possibly indicating a friendly or helpful interaction.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the android",
+        "text": "System online. Diagnostics complete. You seem tired."
+    }
+}

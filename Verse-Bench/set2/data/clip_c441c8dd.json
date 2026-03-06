@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a close-up view of a person's hands typing on a black keyboard with colorful backlighting. The hands move fluidly across the keys, indicating a focused and efficient typing session. The background is a plain white surface, emphasizing the keyboard and the hands' movements. The ambient sound of typing provides a realistic and immersive experience.",
+    "audio_prompt": [
+        "Typing on a keyboard"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

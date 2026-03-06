@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A surfer is skillfully riding a large wave in the ocean, showcasing their balance and control on the surfboard. The scene is set against a backdrop of a clear blue sky and the powerful force of the wave.",
+    "audio_prompt": [
+        "Water is rushing and gurgling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

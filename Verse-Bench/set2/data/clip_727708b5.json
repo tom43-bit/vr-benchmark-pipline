@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows two roosters standing on a tree branch, facing each other, and crowing. The background features a tree with green leaves and a wooden fence. The ambient sounds include chirping birds and a rooster crowing.",
+    "audio_prompt": [
+        "Birds chirp and a rooster crows"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person holding a drill, likely in an outdoor setting. The person is preparing to use the drill, as indicated by the close-up view of the drill bit. The background includes a concrete wall and some greenery, suggesting a construction or outdoor work environment.",
+    "audio_prompt": [
+        "A drill is being used"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

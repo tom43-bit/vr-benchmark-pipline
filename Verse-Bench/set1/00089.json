@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video is a cartoon-style video of a young girl drawing a portrait of herself in a sketchbook. The sketch girl is the main character in the video, and she is the only character present in the video. She is holding a pencil in her hand and is focused on her drawing. The background is a plain white background. There is a sketchbook and a pencil on the left side of the screen. The camera is stationary and the focus is on the sketch girl and her drawing.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "Infinite possibilities. But first of all, you need inspiration."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A young boy is giving a speech in a conference room to a group of adults. The boy, dressed in a blue sweater, holds a microphone and speaks about the Law on the Protection of Minors. The adults are seated in the background, attentively listening. The room is equipped with a projector screen displaying text, a conference table with papers and a phone, and a few chairs. The boy's speech highlights the positive impact of the law on minors' physical and mental health, but also mentions some negative social impacts.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the boy",
+        "text": "The Law on the Protection of Minors has indeed protected the physical and mental health of many minors, but it has also brought some negative social impacts."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a close-up of a baby lying on a soft surface, wearing a blue outfit. The baby is smiling and looking up at the camera, occasionally moving its mouth and eyes. The background is a soft, neutral-colored surface with a white pillow visible in the background. The ambient sound is the sound of a little baby.",
+    "audio_prompt": [
+        "Sound of little baby"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman speaking passionately in front of a blue curtain. She is dressed in a blue blazer and black top, and she uses hand gestures to emphasize her points. The scene is simple, with no additional objects or background elements, focusing solely on the speaker's delivery.",
+    "audio_prompt": [
+        "A woman is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "If we can't build, we are handing the keys to our future to those who can"
+    }
+}

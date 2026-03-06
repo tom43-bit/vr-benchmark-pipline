@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a tennis match on a grass court. Female tennis player 1 and 2 are playing. Female tennis player 1 serves the ball, and Female tennis player 2 returns it. The background shows 2 people in blue shirts and white pants, likely officials or ball boys, and there is some ambient sound of the tennis ball bouncing and the rackets hitting the ball.",
+    "audio_prompt": [
+        "A ball is hit several times"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

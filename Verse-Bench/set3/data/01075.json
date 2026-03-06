@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman with long dark hair, wearing a green patterned dress, speaking and gesturing with her hands while holding a phone in her right hand. The background is a blue curtain backdrop. The woman is discussing her dislike for the word 'hope' and how it can sometimes give people permission not to take action themselves. The video is shot in a realistic style, focusing on the woman's facial expressions and gestures as she speaks.",
+    "audio_prompt": [
+        "A woman giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "I don't like the word hope. I've been told as many youth activists many times that we give people hope and then it gives people permission to not stand up themselves."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman, dressed in professional attire with a white hard hat, is standing in front of a modern building, holding a roll of blueprints. She is speaking to the camera, explaining that the main structure of the building has been completed, but the plumbing and electrical systems in many rooms are still being installed. It is expected to be operational in a month. The background features a large glass building with a white railing, and the ambient sound is the sound of walking.",
+    "audio_prompt": [
+        "The sound of a walking"
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "The main structure of the building has been completed, but the plumbing and electrical systems in many rooms are still being installed. It is expected to be operational in a month"
+    }
+}

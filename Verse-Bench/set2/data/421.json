@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures the dynamic interaction between the ocean waves and the rocky coastline. The waves crash against the rocks, creating white foam and splashes, while the clear blue sky provides a serene backdrop. The scene is devoid of any human presence, focusing solely on the natural beauty and power of the ocean.",
+    "audio_prompt": [
+        "Waves crash against a shoreline"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

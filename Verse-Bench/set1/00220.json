@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a woman sitting next to a white car in an urban setting. She stands up, opens the car door, enters the car, and drives away. The camera zooms out to show the car moving away. The woman is wearing a black jacket over a red tank top and gray shorts. The background is a gray wall and a cobblestone street. The sound of the engine starting is heard.",
+    "audio_prompt": [
+        "The sound of the engine starting"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

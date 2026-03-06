@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person in a bedroom setting, speaking into a microphone. They are wearing a black hoodie, red glasses, and headphones. The background includes a bed with a striped blanket, wall art, and a door with a robe hanging on it. The person is speaking and occasionally gesturing with their hands.",
+    "audio_prompt": [
+        "A man is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "First of all, I grew up in a house where I laughter was very, very"
+    }
+}

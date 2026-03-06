@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman in a professional setting, likely giving a talk or interview. She is dressed in a black blazer and white hoodie, with a necklace, and is seated in a chair against a black background. Her gestures and facial expressions suggest she is engaged in a serious discussion, possibly about a significant topic. The setting and her attire indicate a formal or professional context, such as a TED talk or interview.",
+    "audio_prompt": [
+        "A woman is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Woman",
+        "text": "That's the huge kind of lift for all of us is unfortunately just kind of rests on us more that that burden is on us."
+    }
+}

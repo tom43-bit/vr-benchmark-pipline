@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person is cutting a green coconut in half on a wooden cutting board. The person uses a knife to make a clean cut through the coconut, revealing the white flesh inside. The background is a simple indoor setting with a wooden table and a dark backdrop.",
+    "audio_prompt": [
+        "Scraping and banging on a wooden surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

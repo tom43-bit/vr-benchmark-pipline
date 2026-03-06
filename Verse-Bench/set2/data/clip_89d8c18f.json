@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man in a tuxedo singing on stage, with a band playing in the background. The lighting is red, and the man appears to be deeply engaged in his performance. The scene is set on a stage with musicians and instruments, and the overall atmosphere is one of a live concert or performance.",
+    "audio_prompt": [
+        "A man sings while music plays"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

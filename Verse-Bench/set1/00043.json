@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features an old man walking down a street, reflecting on the passage of time and discussing customer expectations. The camera follows him closely, capturing his expressions and movements against an urban backdrop with trees and buildings.",
+    "audio_prompt": [
+        "No specific ambient sounds mentioned"
+    ],
+    "speech_prompt": {
+        "speaker": "the old man.",
+        "text": "It has been a long time since I left here. I didn't remember how many years. Ten or twelve maybe. What customers want is not cheap. What they want is to feel that they have taken advantage of it"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A group of adorable children are dancing festively on the stage, wearing red traditional Chinese outfits with red flower accessories. They are holding red decorative items and the camera follows them as they dance. Festive music is playing in the background.",
+    "audio_prompt": [
+        "Sound of festive music."
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

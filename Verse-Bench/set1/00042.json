@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a professional meeting where a man in a suit is presenting a new sales plan to a group of attentive individuals. The setting is a modern office with a whiteboard and brick walls, and the atmosphere is focused and serious.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the standing man.",
+        "text": "What customers want is not cheap. What they want is to feel that they have taken advantage of it"
+    }
+}

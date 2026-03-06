@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features an old man with a long white beard and a red turban, who appears to be knowledgeable about the place he has lived in for a long time. He is dressed in traditional attire and is speaking directly to the camera, inviting viewers to ask him questions about the area. The background is blurred, indicating an outdoor setting with some market stalls or street activity, and there are occasional sounds of chatter and footsteps in the distance.",
+    "audio_prompt": [
+        "The sound of distant chatter and occasional footsteps can be heard in the background."
+    ],
+    "speech_prompt": {
+        "speaker": "the old man",
+        "text": "I have been living here for a long time. No one knows more than me. You can ask me any questions about this place. "
+    }
+}

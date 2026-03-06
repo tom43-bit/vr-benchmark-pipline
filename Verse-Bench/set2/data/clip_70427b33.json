@@ -1,0 +1,10 @@
+{
+    "video_prompt": "In this video, Jackie Chan is giving a speech at an awards ceremony, holding an Oscar statuette. He is dressed in a traditional Chinese outfit and is standing behind a podium. The background is decorated with vertical lines and shiny elements, creating a formal and celebratory atmosphere. Jackie Chan is speaking and gesturing with his left hand while holding the Oscar statuette in his right hand.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Jackie Chan",
+        "text": "Long time ago, every year when I watch Oscar with my."
+    }
+}

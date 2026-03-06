@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a formal discussion or interview setting, with a man speaking passionately and a woman listening intently. The man is dressed in a dark suit and white shirt, and the woman is wearing a blue top. The background is dark, suggesting a stage or conference environment with an audience present.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Man",
+        "text": "Speaker1: So your success is not simply that like momentary I got it."
+    }
+}

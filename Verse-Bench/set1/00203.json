@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts an elderly man sitting on a concrete step outside a building, eating from a bowl with chopsticks. He is wearing a red sweater and gray pants, and he is talking and laughing, expressing his enjoyment of sitting on the roadside to eat. The background includes a building with white walls and windows, a small plant with green leaves, and a concrete step. There is no ambient sound provided.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "I just love sitting on the roadside to eat, it’s bright and comfortable. Hahahaha."
+    }
+}

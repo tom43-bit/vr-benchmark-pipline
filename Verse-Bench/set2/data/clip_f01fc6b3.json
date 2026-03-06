@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person chopping vegetables on a wooden cutting board in a kitchen setting. The person is using a knife to cut the vegetables, and the sound of chopping can be heard.",
+    "audio_prompt": [
+        "A person is chopping on a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

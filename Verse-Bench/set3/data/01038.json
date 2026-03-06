@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man wearing headphones and a light blue shirt, speaking in front of a patterned wall. The man appears to be engaged in a conversation or presentation, with his mouth movements and head gestures corresponding to the speech. The setting is indoors, with no other characters or objects visible in the frame.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "But then it what it really comes about is, is her life after."
+    }
+}

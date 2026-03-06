@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video depicts a festive scene at a night market in Japan on New Year's Eve. Three girls in traditional Japanese kimonos are enjoying the fireworks display. The girl in the front is speaking happily, while the other two girls are smiling and looking at the fireworks. The background features colorful fireworks in the sky, stalls with lanterns, and a festive atmosphere. The ambient sound includes the sound of fireworks and the ambient noise of a night market.",
+    "audio_prompt": [
+        "The sound of fireworks",
+        "The ambient noise of a night market"
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "It is new year's eve, and the fireworks are so beautiful!"
+    }
+}

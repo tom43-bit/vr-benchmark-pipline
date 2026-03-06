@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person is seen preparing dough outdoors, pressing it down with their hand and then cutting it with a knife. The scene is set in a natural environment with trees and a fire pit, and the sound of a crackling fire and wood being moved can be heard.",
+    "audio_prompt": [
+        "Crinkling and crumpling of paper"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

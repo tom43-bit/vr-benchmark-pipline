@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person cutting ginger into thin strips on a wooden cutting board in a kitchen setting. The person uses a knife to cut the ginger and moves the cut pieces to the side. The video focuses on the action of cutting and the sound of the knife on the ginger.",
+    "audio_prompt": [
+        "Scraping and scraping"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

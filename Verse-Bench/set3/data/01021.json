@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man in a black shirt and black pants standing in front of a blue curtain. He is speaking and gesturing with his hands. The background is a blue curtain, and there is no ambient sound. The man is the only character in the video, and he is the one speaking.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "They dictate not only who wins office, but then what happens once they're in office."
+    }
+}

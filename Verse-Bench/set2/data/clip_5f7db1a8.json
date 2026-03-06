@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene and cozy indoor scene during a heavy rainstorm. The focus is on the large glass door through which the rain and thunder can be seen, and the interior of the room with a wooden floor, a table with a teapot, and a coffee cup. The atmosphere is calm and peaceful, with the sound of rain and thunder adding to the ambiance.",
+    "audio_prompt": [
+        "Heavy rain and thunder"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

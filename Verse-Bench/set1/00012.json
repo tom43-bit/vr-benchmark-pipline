@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video begins with a close-up shot of a boy reading a book at the beach. The background features a serene ocean with a beautiful sunset. The boy, wearing a black t-shirt, is initially focused on his reading. As the video progresses, he raises his head and looks at the camera, speaking to the audience. The ambient sounds of the tide and waves add to the peaceful atmosphere of the scene.",
+    "audio_prompt": [
+        "The sound of the tide.",
+        "The sound of the waves."
+    ],
+    "speech_prompt": {
+        "speaker": "the boy",
+        "text": "Reading is easy. Thinking is difficult. Both of them are important."
+    }
+}

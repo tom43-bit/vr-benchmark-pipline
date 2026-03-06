@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a bald man in a light blue shirt speaking about the advent of AI. He is wearing a microphone headset and is positioned in front of a solid blue curtain. The man's head movements suggest he is engaging with an audience, possibly during a presentation or lecture.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "You know, we're told that the advent of AI"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video depicts a man sitting at a kitchen counter, writing on a piece of paper with a pen in his hand. The man has a beard and mustache, and is wearing a light brown shirt and an apron. The kitchen is cozy, with sunlight streaming in through a window, a hanging lamp, and a potted plant on the counter. The man appears to be telling a story, as indicated by his speech content. The camera focuses on the man and the objects on the counter, with the background slightly blurred to emphasize the man's actions. The ambient sound includes the gentle rustling of the potted plant and the sound of sunlight streaming in through the window",
+    "audio_prompt": [
+        "The sound of sunlight streaming in through the window",
+        "The gentle rustling of the potted plant"
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "Oh boy. Do I got a story for you?"
+    }
+}

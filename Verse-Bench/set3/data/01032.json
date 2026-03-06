@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man in a green sweater and checkered shirt, speaking and gesturing in front of a colorful background. He appears to be explaining a concept related to cement, as indicated by his speech.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "So in order to understand how to actually achieve this, we have to look at cement in a little bit more detail."
+    }
+}

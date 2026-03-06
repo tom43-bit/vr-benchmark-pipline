@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman giving a speech at a podium, dressed in a vibrant red dress with a plaid shawl and colorful accessories. She is standing against a blue curtain backdrop, and her gestures and expressions suggest she is emphasizing points in her speech. The setting appears to be a formal event, possibly a conference or presentation.",
+    "audio_prompt": [
+        "A woman is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "We will see the dust kicked up by our cows coming home."
+    }
+}

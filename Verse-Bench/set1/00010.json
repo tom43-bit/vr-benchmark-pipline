@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a monk in traditional orange robes performing a prayer over a deceased individual. The monk's focused and reverent demeanor, combined with the solemn background and the speech content, creates a profound and contemplative atmosphere. The scene emphasizes the themes of death, karma, and the cycle of existence.",
+    "audio_prompt": [
+        "The ambient sound is described as a serene and solemn atmosphere, suitable for a prayer or meditation setting."
+    ],
+    "speech_prompt": {
+        "speaker": "the monk",
+        "text": "Beings who have not yet obtained liberation have unfixed natures and consciousnesses. Their bad habits reap karma; their good habits bring rewards. Reacting to situations by doing good or evil acts causes them to turn in the Five Paths without a moment's rest."
+    }
+}

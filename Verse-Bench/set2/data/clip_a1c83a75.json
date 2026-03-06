@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video showcases a serene riverside scene with clear water flowing over rocks, surrounded by lush greenery and a peaceful atmosphere.",
+    "audio_prompt": [
+        "A stream of water flowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

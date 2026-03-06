@@ -1,0 +1,11 @@
+{
+    "video_prompt": "A young woman in a beige bikini is lounging on a wicker chair covered with a blue towel, reading a black book. She is wearing a white headband and has a relaxed posture. The background features a modern building with large windows and some greenery, including trees and plants. The ambient sounds of a poolside, including the occasional splash of water and the rustling of leaves from the wind, can be heard. The speech content is 'Love is blind and lovers cannot see the pretty follies that themselves commit.'",
+    "audio_prompt": [
+        "Ambient sounds of a poolside, including the occasional splash of water and the rustling of leaves from the wind.",
+        "Ambient sounds of a poolside, including the occasional splash of water and the rustling of leaves from the wind."
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "Love is blind and lovers cannot see the pretty follies that themselves commit."
+    }
+}

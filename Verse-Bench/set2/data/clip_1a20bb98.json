@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is seen kneeling on the ground, holding a Stihl chainsaw. He adjusts the chainsaw and starts it, causing the engine to rev. The setting appears to be an outdoor area with a concrete surface and some vehicles and equipment in the background.",
+    "audio_prompt": [
+        "A chainsaw is being used"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

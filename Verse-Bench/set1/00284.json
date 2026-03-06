@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a cleaner in an urban setting, wearing an orange uniform, sweeping the street with a broom and dustpan. The cleaner is focused on his task, and the background includes a sidewalk, a stone curb, a patterned sidewalk, a statue of a dog, trees, bushes, and a building with a blue wall and text. The cleaner's movements are deliberate and methodical, and the scene is static, with the cleaner's actions being the primary focus. The ambient sounds include the sound of the broom brushing against the ground, the occasional rustling of leaves, and the cleaner's footsteps on the sidewalk. The cleaner comments on the improvement in people's quality and the reduction in his workload.",
+    "audio_prompt": [
+        "The sound of the broom brushing against the ground, the occasional rustling of leaves, and the cleaner's footsteps on the sidewalk."
+    ],
+    "speech_prompt": {
+        "speaker": "the cleaner",
+        "text": "These days, people's quality has improved, there's less trash on the streets, and our workload has also been reduced a lot."
+    }
+}

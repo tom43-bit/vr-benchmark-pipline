@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man with an afro hairstyle, wearing a black patterned shirt and a long necklace, speaking into a microphone. He is standing against a colorful, abstract background with orange and purple hues. The man is gesturing with his hands while speaking, and the speech content is about various levels of climate discussions, from local town halls to international climate talks. The video style is realistic, and there are no ambient sounds detected.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "A man with an afro hairstyle",
+        "text": "From village town halls all the way up to the United Nations climate talks"
+    }
+}

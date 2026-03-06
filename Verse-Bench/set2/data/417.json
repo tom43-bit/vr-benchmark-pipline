@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures the process of cooking fish and cabbage in a pot on the stove. The broth is bubbling and steam is rising, indicating that the food is being cooked. The camera remains focused on the pot throughout the video, providing a close-up view of the cooking process.",
+    "audio_prompt": [
+        "Food sizzles in a pan"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

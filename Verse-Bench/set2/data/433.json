@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person playing a traditional stringed instrument of lute in a simple indoor setting. The person is wearing a light-colored shirt and dark pants, and the background includes gray curtains, a white cabinet, and some plants. The person is focused on playing the instrument of lute, with their hands moving rhythmically over the strings and frets.",
+    "audio_prompt": [
+        "A stringed instrument plays a note"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

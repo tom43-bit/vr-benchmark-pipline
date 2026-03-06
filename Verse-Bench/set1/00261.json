@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a girl jogging in a park, checking her watch and fitness tracker to monitor her exercise progress. She stops to speak to the camera, expressing her satisfaction with her improved time and encouraging others to focus on their health. The background features a serene park setting with a pond and ducks, adding to the peaceful atmosphere of the scene.",
+    "audio_prompt": [
+        "The sound of birds chirping, the rustling of leaves, and the occasional sound of footsteps on the path."
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "This time, I improved my time by 12 seconds. This year's exercise has paid off. I hope everyone can exercise more and focus on their health."
+    }
+}

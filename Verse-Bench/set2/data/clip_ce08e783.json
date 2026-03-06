@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person playing the saxophone in a dimly lit room with a warm ambiance. The person is wearing a black t-shirt with a graphic design and glasses. They are playing a golden saxophone, moving their fingers on the keys, and occasionally adjusting their posture. The background includes framed posters on the wall, a computer monitor displaying a music editing software, a microphone, a speaker, and a lava lamp on a desk. The camera remains stationary, focusing on the person and the saxophone. The sound of the saxophone, the music playing in the background, and the ambient noise of the room can be heard.",
+    "audio_prompt": [
+        "A saxophone is playing a melody"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

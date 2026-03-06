@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene scene of a boat journeying through a cold, icy ocean towards a large iceberg. The camera follows the boat's movement, highlighting the vastness of the ocean and the majestic presence of the iceberg. The ambient sounds of waves and wind add to the immersive experience of the journey.",
+    "audio_prompt": [
+        "Wind blowing hard and waves crashing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a small puppy sitting on a concrete surface next to a wall, whimpering or whining. The puppy has a white and brown coat and is wearing a collar with a tag. The background includes a concrete surface and a wall, suggesting an outdoor or semi-outdoor setting. The camera remains stationary, focusing on the puppy's actions and expressions. The ambient sound is the whimpering of the dog.",
+    "audio_prompt": [
+        "A small dog is whimpering"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

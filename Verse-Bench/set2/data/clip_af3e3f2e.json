@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a group of roosters standing near a bamboo fence. One of the roosters is crowing, and the other roosters are standing nearby. The background includes a bamboo fence, a bucket, and some trees. The ambient sound is the crowing of the rooster.",
+    "audio_prompt": [
+        "A rooster crowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man on a stage, speaking and gesturing, likely delivering a speech or presentation. The setting is a stage with curtains and lighting equipment, and the man is wearing a white polo shirt and brown trousers. The speech content is 'But here's the thing, it's all fake.'",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "But here's the thing, it's all fake."
+    }
+}

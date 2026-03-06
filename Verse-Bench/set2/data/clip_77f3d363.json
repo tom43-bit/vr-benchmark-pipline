@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person is seen moving a blue lantern and a green plastic bag from a wooden staircase to the floor in a wooden interior setting.",
+    "audio_prompt": [
+        "Plastic crumpling and crinkling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

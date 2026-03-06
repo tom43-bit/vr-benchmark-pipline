@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man delivering a speech on a stage with a vibrant backdrop. He is dressed in a casual yet professional outfit and is using expressive hand gestures to communicate his message. The setting is well-lit, and the focus is entirely on the speaker, with no other characters or objects in the frame.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "The governments, the businesses, civil society, they all had a room in the Paris house."
+    }
+}

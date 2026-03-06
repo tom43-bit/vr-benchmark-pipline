@@ -1,0 +1,11 @@
+{
+    "video_prompt": "In a classroom setting, a girl is giving an academic presentation about the first application of deep neural networks to sociological modeling, which is described as a milestone achievement. The audience is seated and attentively listening to her presentation.",
+    "audio_prompt": [
+        "The sound of the projector screen",
+        "The sound of the audience"
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "This is the first time that deep neural networks have been applied to sociological modeling, which is a milestone achievement."
+    }
+}

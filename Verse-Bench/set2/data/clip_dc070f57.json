@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a military helicopter taking off from a grassy field. The helicopter is large and green, with its rotors spinning rapidly as it lifts off the ground. The background features a cloudy sky and some distant structures, adding to the realistic setting of the scene.",
+    "audio_prompt": [
+        "Helicopter blades spinning"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

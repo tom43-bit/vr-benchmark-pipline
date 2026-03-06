@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A group of young men dressed in formal attire are playing cellos in a concert hall. They are seated in rows, with music stands in front of them. The musicians are focused on their performance, with some looking at their music sheets. The concert hall has a warm, inviting atmosphere with red seats and wooden paneling. The sound of the cellos fills the room, creating a harmonious and elegant musical experience.",
+    "audio_prompt": [
+        "Music plays a short melody"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a woman giving a speech at a TED event. She is standing on a red circular stage with a large TED logo in the background. The audience is seated in front of the stage, and the lighting is focused on the speaker. The woman is wearing a red blazer, gray pants, and white sneakers, and she has long blonde hair. She is speaking and gesturing with her hands while moving slightly on the stage. The background features a blue and orange gradient with a starry pattern. The overall style of the video is realistic, capturing the speaker and the stage environment in detail.",
+    "audio_prompt": [
+        "A woman is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Woman",
+        "text": "And this is also something newsrooms are doing and we often compare it to like the Olympics or the election."
+    }
+}

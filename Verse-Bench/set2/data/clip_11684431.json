@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person is seen pulling a rope to ring a large golden bell in a mountainous area. The bell is suspended from a hanger and is decorated with intricate designs. The person is wearing a white shirt and is standing on a stone platform. The background features a scenic view of green mountains and a cloudy sky. The sound of the bell ringing and the wind can be heard throughout the video.",
+    "audio_prompt": [
+        "A large bell rings and people speak"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

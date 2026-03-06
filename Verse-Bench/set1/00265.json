@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a tranquil moment by a river, featuring an old man with a bird perched on a wooden stick. The old man is dressed in traditional Chinese attire, including a straw hat, and the bird is perched calmly on the stick. The background is a serene river with lush green trees and mountains, creating a peaceful and natural setting. The ambient sound of birds chirping adds to the calm and serene atmosphere of the scene.",
+    "audio_prompt": [
+        "Sound of birds chirping"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

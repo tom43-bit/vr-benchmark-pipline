@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man wearing a black hat and a white shirt with red stripes is standing in a dark room, speaking into a microphone. He is gesturing with his hands while speaking. The background is dark, and there are no other visible objects or characters in the room.",
+    "audio_prompt": [
+        "A man is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "Is that a parent? Is that a teacher? Is it an older sibling?"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a pot of water boiling on a stove, with a stirring spoon inside. The water is bubbling vigorously, indicating that it is at a rolling boil. The setting is a kitchen, with the stove and pot clearly visible. There are no characters present in the video, and the focus is solely on the boiling water and the stirring spoon.",
+    "audio_prompt": [
+        "A pot of water is bubbling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

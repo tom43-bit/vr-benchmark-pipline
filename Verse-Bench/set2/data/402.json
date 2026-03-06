@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a close-up of a cicada clinging to a textured orange wall. The cicada's metallic gray body and brown and black wings with black spots are clearly visible. The background is a simple, textured orange wall, and the only sound is the chirping of the cicada. There is no movement or interaction between characters, and the video focuses solely on the cicada and its immediate surroundings.",
+    "audio_prompt": [
+        "Cicadas are chirping"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

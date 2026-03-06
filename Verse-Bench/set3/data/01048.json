@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking in a dark, possibly indoor setting with a cityscape silhouette in the background. He is wearing a black blazer, a light blue shirt, and glasses. He has a beard and is holding a small object in his right hand while speaking into a microphone attached to his ear. The speaker is gesturing with his left hand while speaking.",
+    "audio_prompt": [
+        "A man is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "And at that moment, Dr. and I realized, because he had asked this deep question."
+    }
+}

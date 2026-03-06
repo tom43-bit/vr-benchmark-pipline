@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene and natural beach scene, with the camera moving through a rock formation to provide a closer view of the ocean waves and the sandy beach. The sound of the wind and the waves adds to the peaceful atmosphere.",
+    "audio_prompt": [
+        "Water splashing and wind blowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

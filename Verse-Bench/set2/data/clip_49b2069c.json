@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a dramatic moment of lightning striking in an overcast sky above a cityscape. The lightning illuminates the scene briefly, highlighting the power lines and buildings below. The ambient sounds of thunder and rain add to the intensity of the moment.",
+    "audio_prompt": [
+        "An explosion occurs"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

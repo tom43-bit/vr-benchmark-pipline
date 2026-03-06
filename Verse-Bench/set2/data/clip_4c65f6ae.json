@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features Thomas the Tank Engine, a blue steam locomotive from the children's television series 'Thomas & Friends.' He is stationary on the train tracks, with steam coming out of the chimney. The background is a rural landscape with fields, grass, and some buildings and trees. The sky is overcast, and the scene remains static with no significant changes. The ambient sound includes the steam whistle and background noise.",
+    "audio_prompt": [
+        "A steam whistle blows as a train passes by"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

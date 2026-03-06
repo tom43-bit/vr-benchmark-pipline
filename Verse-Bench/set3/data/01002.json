@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man in a gray suit and hat is giving a speech on a stage. He is gesturing with his hands while speaking about the data showing that married people report higher life satisfaction. The background is a stage with a presentation screen displaying text.",
+    "audio_prompt": [
+        "An adult male is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker",
+        "text": "The get married advocates like to point to data that show that married people report higher life satisfaction"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a young boy playing a small musical instrument in a classroom setting. He is focused on his performance, using two mallets to strike the keys of the instrument. The classroom environment is visible in the background, with desks, chairs, and electronic devices. The video captures the boy's actions and the sound of the instrument being played.",
+    "audio_prompt": [
+        "An instrument is being played"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

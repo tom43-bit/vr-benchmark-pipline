@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man stands on a rocky cliff, watching the waves crash against the rocks below. The wind is blowing, and the sound of the waves crashing against the rocks is loud. The man is shirtless and wearing red shorts. The ocean is vast and blue, with waves crashing against the rocks. The sky is clear and blue, indicating a sunny day.",
+    "audio_prompt": [
+        "The wind is blowing hard and waves are crashing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

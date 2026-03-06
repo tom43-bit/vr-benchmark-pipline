@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene scene at a port, showcasing a large ship and a smaller boat docked. A crane is visible in the background, and the water is calm with small waves. The shore is visible with pebbles and some debris. The camera pans across the port, providing a detailed view of the ships and the surrounding environment.",
+    "audio_prompt": [
+        "A loud horn is triggered several times"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

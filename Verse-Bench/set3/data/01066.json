@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man standing on a stage, talking about a talent ladder and how he came up with the idea. He is wearing a light blue shirt and dark trousers, and is using a microphone headset. The background is a blue backdrop with a pattern of light blue shapes. The speaker is gesturing with his hands as he talks.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker",
+        "text": "What is a talent ladder and how did I come upon the idea?"
+    }
+}

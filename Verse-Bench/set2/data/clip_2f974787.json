@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person in a beige raincoat and black boots getting out of a white SUV in a forested area. It is raining heavily, and the person closes the door of the SUV and walks away. The background features a forested area with trees, a small stream, and a rock. The ambient sounds include rain falling and water flowing in the stream.",
+    "audio_prompt": [
+        "Rain falling on a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

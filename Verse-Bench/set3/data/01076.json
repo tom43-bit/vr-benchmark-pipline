@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking in front of a geometric background, likely delivering a presentation or speech. He is wearing a black polo shirt and glasses, and is using hand gestures to emphasize his points. The background is dark green with a pattern of hexagons and lines, and there are no other visible characters or objects in the scene.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "He said, I'm going to use that technology to enhance my career."
+    }
+}

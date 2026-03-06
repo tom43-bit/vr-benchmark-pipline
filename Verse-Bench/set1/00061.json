@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a close-up of a baby wearing a pink shirt with the text 'GIRLS RULE' on it. The baby is looking at the camera and making sounds, possibly babbling or cooing. The background is an indoor setting with a neutral-colored wall and a piece of furniture in the background. The camera remains stationary throughout the video, focusing on the baby's face and upper body. The ambient sound is the sound of the baby.",
+    "audio_prompt": [
+        "Sound of baby"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

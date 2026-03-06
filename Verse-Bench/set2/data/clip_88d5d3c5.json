@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video begins with a close-up of a vibrant flame flickering against a black background. The flame dances and moves, creating a dynamic and abstract visual. The background sound of rain and thunder adds to the dramatic atmosphere.",
+    "audio_prompt": [
+        "Fire crackling and crackling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

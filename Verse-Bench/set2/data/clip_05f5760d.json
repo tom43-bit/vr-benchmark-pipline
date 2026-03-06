@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene moment of two musicians playing a Yamaha piano together. The focus is on their hands and the piano keys, with a calm and harmonious atmosphere created by the soft music.",
+    "audio_prompt": [
+        "A piano is playing a melody"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

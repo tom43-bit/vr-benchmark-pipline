@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a girl standing in a lavender field during a sunset, with a serene and picturesque background. The girl, dressed in a white shirt, has long blonde hair and a serious expression. The ambient sound of singing adds to the tranquil atmosphere of the scene.",
+    "audio_prompt": [
+        "Sound of singing"
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "Tell me the weight of all these years that smooth green band has seen"
+    }
+}

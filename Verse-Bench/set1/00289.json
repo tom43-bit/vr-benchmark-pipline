@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a tense moment of a woman in a desert setting, preparing to release an arrow with a bow. Her focused expression and the visible dirt and scratches on her body suggest she has been through a challenging situation. The camera zooms in on her face and the bow, highlighting the intensity of the moment. The ambient sound of archery adds to the dramatic atmosphere.",
+    "audio_prompt": [
+        "Sound of archery"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

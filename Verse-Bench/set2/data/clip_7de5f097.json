@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a small, light brown puppy with fluffy fur and large eyes. The puppy is indoors, standing on a tiled floor near a glass door. It is looking at the camera and moving its head, possibly reacting to something off-screen. The background includes a yellow container on the floor and a black metal frame. The puppy appears curious and attentive.",
+    "audio_prompt": [
+        "A small dog is barking"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

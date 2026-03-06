@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a close-up of a vintage rotary dial telephone with a person's hand, adorned with green nail polish, dialing a number. The background is minimal, featuring a plain wall and a red surface. The focus is on the action of dialing, with the sound of the rotary dial adding to the realism of the scene.",
+    "audio_prompt": [
+        "A dialtone is being turned on and off"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

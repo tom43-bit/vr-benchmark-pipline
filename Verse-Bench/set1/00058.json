@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a girl in a dilapidated house, wearing a cracked dress. She stands still, looking directly at the camera with a haunting expression. The setting is eerie, with peeling walls and an abandoned atmosphere. The girl's speech adds to the unsettling mood, with phrases like 'You look at me and see only steel, don't you? Armor, blade, unyielding resolve.'",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "You look at me and see only steel, don't you? Armor, blade, unyielding resolve."
+    }
+}

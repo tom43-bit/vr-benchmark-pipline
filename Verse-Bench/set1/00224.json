@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures the moment a civilian airliner prepares for and executes takeoff on a wide, open runway. The scene is set against a backdrop of a flat landscape and a partly cloudy sky, with the sound of the plane's engine providing an immersive audio experience. The airliner moves from a stationary position to full speed, and finally lifts off, showcasing the power and precision of modern aviation.",
+    "audio_prompt": [
+        "The sound of the plane's engine roars"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

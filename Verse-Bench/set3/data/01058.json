@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man standing on a beach, speaking about the situation of missing youth and the grief of their families. The background includes boats, palm trees, and a clear sky, creating a serene yet somber atmosphere.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "A man",
+        "text": "And there are thousands of youth whose whereabouts are still unknown and their families are still mourning for their loved ones."
+    }
+}

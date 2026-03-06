@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is sitting on a rocky terrain, picking plants. He is wearing a white t-shirt with 'TRAVELLER' printed on it and black shorts. The background consists of large rocks and some greenery. The man is excited about a new project he is working on, stating that it will be a game-changer in the industry.",
+    "audio_prompt": [
+        "A person walks on leaves"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

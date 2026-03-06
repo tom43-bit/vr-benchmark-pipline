@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is walking through a dense forest, using walking sticks for support. He is wearing a camouflage jacket, dark pants, and a hat, and carrying a backpack. The forest is lush with tall trees and greenery, and it is raining, with the sound of rain and leaves rustling in the background. The man appears to be exploring or hiking through the forest.",
+    "audio_prompt": [
+        "Rain falling on a surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

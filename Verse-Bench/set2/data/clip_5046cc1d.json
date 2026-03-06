@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man wearing a striped shirt is playing the violin with a bow. He is standing in front of a plain white background. The man is moving his hands and body while playing the violin. There is music playing in the background.",
+    "audio_prompt": [
+        "A violin is playing a note"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

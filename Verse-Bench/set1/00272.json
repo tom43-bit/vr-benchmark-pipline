@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A Peking Opera actor performs a traditional routine, holding a fan with floral design. The character is dressed in a traditional costume with an intricate headpiece and makeup. The background is black, and the ambient sound is theatrical songs.",
+    "audio_prompt": [
+        "Theatrical songs"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

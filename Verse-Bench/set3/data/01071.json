@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features an older man speaking about the importance of being a generous listener. He is wearing glasses and a light blue shirt, and he is gesturing with his hands while talking. The background is a solid teal color with a TED logo in the bottom right corner. The speaker emphasizes the importance of ignoring traditional barriers of titles and hierarchy, asking and listening, and learning from others.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "Generous listeners ignore the traditional barriers of titles and hierarchy. They ask and listen. They listen to learn."
+    }
+}

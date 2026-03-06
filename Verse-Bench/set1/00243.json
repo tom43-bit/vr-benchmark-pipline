@@ -1,0 +1,10 @@
+{
+    "video_prompt": "An anime-style girl is sitting at a table in a restaurant, eating a bowl of noodles with chopsticks. She is wearing a green cardigan over a white dress with black lace trim. The girl has long black hair with star-shaped hairpins. She is talking about how spicy the noodles are. The background shows a clock on the wall and a man sitting at a table. The ambient sound is the sound of eating noodles.",
+    "audio_prompt": [
+        "Sound of eating noodles"
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "It's so spicy. It's so spicy."
+    }
+}

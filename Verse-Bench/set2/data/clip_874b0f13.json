@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A large ship is moving through a body of water, creating significant waves. The ship is accompanied by a crane in the background, and the scene is set in an industrial area with grass and a road nearby. The ambient sounds include the splashing of water and the operation of the crane.",
+    "audio_prompt": [
+        "A large motor is running, metal clanks, and an adult male speaks in the background"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

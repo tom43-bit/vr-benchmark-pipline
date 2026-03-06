@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman in a cozy, well-decorated room, speaking directly to the camera with enthusiasm. She is wearing a casual outfit and has a microphone attached to her chest, suggesting she is recording a vlog or tutorial. The background includes plants, a lamp, and artwork, adding to the warm and inviting atmosphere of the scene.",
+    "audio_prompt": [
+        "No specific ambient sounds mentioned"
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "Hello guys. Welcome back to my channel. I know a lot of you have tried much watch a movie in english without subtitles"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a scene where a man in a suit is speaking to two other men in suits. The setting is outdoors, possibly near an office building. The man in the foreground is the main speaker, while the other two men are listening attentively. The scene is static with no significant movement or action.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Man in a suit",
+        "text": "Wear one tomorrow, though, okay? Because tomorrow's going to be."
+    }
+}

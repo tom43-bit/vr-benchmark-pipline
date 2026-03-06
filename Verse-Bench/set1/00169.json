@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video depicts a peaceful gardening scene where a girl is writing in her notebook while a woman is arranging flower pots. The setting is a lush garden with various plants and trees, creating a serene and natural environment. The ambient sounds of rustling leaves and bird chirping add to the tranquil atmosphere. The characters are engaged in their respective tasks, with the girl focused on her notebook and the woman meticulously arranging the flower pots.",
+    "audio_prompt": [
+        "The sound of rustling leaves.",
+        "The gentle chirping of birds."
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "Growing flowers well is my greatest achievement."
+    }
+}

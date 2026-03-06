@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person working with a glowing glass object using tongs in a dark, industrial setting. The person is wearing a red shirt and is focused on manipulating the glass object, which glows brightly as it is being shaped.",
+    "audio_prompt": [
+        "Clicking and tapping"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

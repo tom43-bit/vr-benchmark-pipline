@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A young girl is playing the violin on a beach, her hands moving with the bow as she plays. The background is a blurred view of the ocean with waves crashing, creating a serene and musical atmosphere.",
+    "audio_prompt": [
+        "A violin is playing a note"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is riding a horse. He is shouting. Then the troops behind him rush forward and charge the enemy. The camera zooms out and shoots from above. The sound of fighting on the battlefield.",
+    "audio_prompt": [
+        "Sound of battle shout."
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "go go go!"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman speaking on a stage or presentation area, with a plain blue curtain in the background. She is wearing glasses and a blue shirt, and she is using hand gestures to emphasize her points. The speech content is about organisms expelling algae when stressed by heat. The overall style of the video is realistic, focusing on the woman's speech and gestures.",
+    "audio_prompt": [
+        "A woman is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Woman",
+        "text": "When stressed by heat, they expel the algae that nourish them."
+    }
+}

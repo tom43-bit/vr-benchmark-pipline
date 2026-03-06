@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features an elderly man in a city street, pointing at a building labeled 'Dr. Cowen' and speaking about his toothache. The scene is in black and white, giving it a realistic and timeless feel. The man's attire and the urban setting suggest a historical or nostalgic context.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the old man",
+        "text": "I will meet my doctor today because I have toothache for many days."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A little girl is playing the violin in a serene outdoor setting. She is dressed in a white dress with a light pink cardigan and has long blonde hair adorned with a pink flower. Her hands move gracefully over the strings of the violin as she plays. The background is a blurred scene of greenery and a distant structure, possibly a hill or a small mountain. The sound of the violin fills the air, creating a peaceful and melodic atmosphere.",
+    "audio_prompt": [
+        "Sound of violin"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

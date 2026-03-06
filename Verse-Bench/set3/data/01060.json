@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is giving a speech in front of a blue curtain. He is wearing a black blazer over a light blue shirt and has a beard. He is speaking and gesturing with his hands. The speech content is 'They thought this was ridiculous, so they protested the zone outside of the zone.'",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "They thought this was ridiculous, so they protested the zone outside of the zone."
+    }
+}

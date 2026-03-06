@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A cartoon bunny wearing a blue jacket and carrying a brown backpack is standing on a dirt path surrounded by colorful flowers. The bunny is looking around and possibly talking to the camera about picking carrots and sharing them with parents. The background is a picturesque outdoor setting with a dirt path, colorful flowers, and a blurred background of houses and trees, suggesting a rural or countryside environment.",
+    "audio_prompt": [
+        "No specific ambient sounds provided"
+    ],
+    "speech_prompt": {
+        "speaker": "the rabbit.",
+        "text": "I picked a lot of carrots today and will share them with my parents when I get home."
+    }
+}

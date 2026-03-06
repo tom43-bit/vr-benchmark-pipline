@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a scene inside a rustic wooden cabin. A red teapot is placed on a ledge, and smoke is rising from it. The cabin has a small window that allows light to enter, and the walls are made of wood. The ambient sound includes a police siren and the roar of an engine, suggesting urgency outside the cabin.",
+    "audio_prompt": [
+        "A whistling sound is followed by a high pitched whistle"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

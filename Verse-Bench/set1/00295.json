@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man in a beige work uniform and white gloves is seen repairing an electrical panel. He is using a tool and appears to be explaining the process to the camera. The background is a plain white wall with a wooden door frame. The man speaks to the camera, saying 'No problem. It works now.'",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "No problem. It works now."
+    }
+}

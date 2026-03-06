@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a chef in a professional kitchen setting, meticulously decorating a dessert with a slice of chocolate cake, a strawberry, and a mint leaf. The chef, wearing a white chef's hat and coat, is focused on achieving a perfect balance of flavors and presentation. The camera focuses on the chef's hands and the plate, highlighting the careful and precise movements involved in the dessert decoration process. The background features a professional kitchen setting with stainless steel surfaces and kitchen equipment, adding to the authenticity of the scene. The ambient sound includes the subtle sounds of kitchen utensils and the chef's breathing, enhancing the immersive experience of the video.",
+    "audio_prompt": [
+        "The sound of kitchen utensils and the chef's breathing"
+    ],
+    "speech_prompt": {
+        "speaker": "the chef",
+        "text": "Here! A perfect balance of flavors and presentation."
+    }
+}

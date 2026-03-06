@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video begins with a close-up shot of a red rotary telephone placed on a white surface. The camera remains stationary as the telephone rings, and the sound of the ring is clearly audible. The background is a plain wall, and there are no other objects or characters present in the frame.",
+    "audio_prompt": [
+        "A telephone rings"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

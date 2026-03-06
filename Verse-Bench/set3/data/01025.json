@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking about Nicole's success with exposure therapy. He is dressed in a light blue shirt and a black hat, and he uses hand gestures to communicate his points. The setting appears to be a formal presentation or lecture, with a dark background and no visible audience.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "Speaker1: Nicole overcame her obsessions with exposure therapy."
+    }
+}

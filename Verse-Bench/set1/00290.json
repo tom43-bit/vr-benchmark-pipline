@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a girl on a stage, dressed in a football-themed outfit, holding colorful pom-poms. The background is a plain blue, and the ambient sound is pop music. The girl appears to be preparing for a performance or dance routine.",
+    "audio_prompt": [
+        "Sound of pop music"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

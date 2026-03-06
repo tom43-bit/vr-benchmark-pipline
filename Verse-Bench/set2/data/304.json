@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a dramatic night scene with a series of lightning strikes illuminating the dark sky and revealing the city lights below. The clouds move across the sky, and the lightning strikes again, followed by a thunderclap",
+    "audio_prompt": [
+        "A thunderstorm and rain falling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

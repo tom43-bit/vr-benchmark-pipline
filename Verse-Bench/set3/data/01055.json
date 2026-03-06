@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking about the concept of applied history, using hand gestures to emphasize his points. The background is colorful and abstract, with no other characters or objects present.",
+    "audio_prompt": [
+        "A man is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "Now the idea of learning from history, what's sometimes called applied history, is far from new."
+    }
+}

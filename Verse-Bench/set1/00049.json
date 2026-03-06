@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a cute, orange cat with large, expressive eyes and a wide, open mouth showing its teeth. The cat is speaking directly to the camera, saying 'We're turning up the quality of your characters. Stay tuned! The future is bright!'. The background shows a street with buildings and a parked car. The overall style of the video is cartoonish and playful.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the cat",
+        "text": "We're turning up the quality of your characters. Stay tuned! The future is bright!"
+    }
+}

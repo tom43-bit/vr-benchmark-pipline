@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking on a stage, discussing the use of light to transform infrastructure and change perceptions. He is dressed in a dark blue jacket and shirt, and is holding a microphone while gesturing with his hands. The background is a dark stage with some blurred lights and a curtain.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "So we thought how can we use light to transform this piece of infrastructure and change people's perceptions of it."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a young girl sitting in front of a bookshelf filled with books and a world map on the wall. She covers her face with her hands, then lowers her hands and looks at the camera with a sad expression. The girl is wearing a light-colored sleeveless top and has long dark hair. There is no ambient sound in the video.",
+    "audio_prompt": [
+        "A person is breathing heavily"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

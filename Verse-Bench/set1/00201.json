@@ -1,0 +1,11 @@
+{
+    "video_prompt": "A steam locomotive is seen traveling through a desert landscape, pulling a train along the tracks. The locomotive emits a large plume of smoke as it moves forward, and the surrounding environment is a vast desert with sparse vegetation and a cloudy sky. The ambient sounds include the sound of the train running and the wind.",
+    "audio_prompt": [
+        "Sound of train running",
+        "Wind"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

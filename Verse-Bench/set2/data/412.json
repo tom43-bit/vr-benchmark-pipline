@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a scene where a hammer is used to break a black bowl, causing it to shatter into pieces. The broken pieces are scattered around the bowl, and the hammer continues to hit the bowl multiple times. The background features a gray metal door with decorative patterns and a concrete floor, with some stacked colorful vases and a white vase nearby. The sound of the hammer hitting the bowl and the glass shattering can be heard throughout the video.",
+    "audio_prompt": [
+        "Glass breaking and shattering"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

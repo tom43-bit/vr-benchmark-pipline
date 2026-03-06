@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a musical performance by two individuals playing a Yamaha piano together. The setting is a simple indoor environment, and the focus is on the hands of the performers as they play the piano. The music playing in the background adds to the overall atmosphere of the scene.",
+    "audio_prompt": [
+        "A piano is playing a melody"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

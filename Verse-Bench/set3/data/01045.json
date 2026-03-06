@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman is giving a speech on a stage, addressing an audience. She is wearing a floral dress and has long braided hair. The audience is seated in rows, and the background is dark. The woman is speaking about her personal experience and trauma, expressing her desire to prevent others from going through what she has been through.",
+    "audio_prompt": [
+        "A woman speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Woman",
+        "text": "But in reality, I started it because I was traumatized, and I didn't want anyone to go through what I had been through."
+    }
+}

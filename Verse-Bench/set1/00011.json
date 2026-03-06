@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A black and white video capturing a crowded subway scene. Passengers of various ages and appearances are standing close together, holding onto handrails for support. The subway interior features advertisements on the walls and overhead lighting. The scene is static, with no significant movement or changes in the environment. The ambient sound is the continuous noise of the subway train running.",
+    "audio_prompt": [
+        "Sound of subway train running"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a girl singing and moving her arms in front of the camera in a modern indoor setting. She is wearing a pink sleeveless top with a floral design in the center. The background includes a white ceiling, a framed picture on the wall, and a mirror reflecting part of the room. The girl's expressions change as she sings, and the ambient sound is the sound of singing.",
+    "audio_prompt": [
+        "Sound singing"
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "Being in love with someone who cares about you is all about your heart. Crossing 101 is the ideal benchmark. My eyes constantly reveal messages. My heart loves, loves, loves."
+    }
+}

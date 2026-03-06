@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person is cutting a pie into slices on a wooden cutting board in an outdoor setting with trees and grass. The person holds a knife and makes precise cuts through the pie, creating several slices. The ambient sound of the cutting is audible throughout the video.",
+    "audio_prompt": [
+        "Scraping and scraping"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

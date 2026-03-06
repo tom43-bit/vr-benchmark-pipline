@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man in a blue shirt with white polka dots, sitting in a well-organized office or study room. He is speaking directly to the camera, likely addressing an audience about the current popularity of immigration issues. The background includes shelves filled with books, awards, and framed pictures, as well as a desk with a laptop and a mug. The man's facial expressions and gestures indicate he is engaged in delivering a message or presentation. There are no ambient sounds mentioned in the audio description.",
+    "audio_prompt": [
+        "A man speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "You know we're in a moment right now where it seems like immigration is is unpopular it's not on average but it is for many governments."
+    }
+}

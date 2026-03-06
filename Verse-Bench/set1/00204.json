@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a group of people performing aerobics in a park setting. The characters are dressed in athletic wear and are stepping on step platforms in unison. The background features a park-like environment with trees, grass, and a staircase. The ambient sound is that of dance music, adding to the energetic atmosphere of the scene.",
+    "audio_prompt": [
+        "Sound of dance music"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

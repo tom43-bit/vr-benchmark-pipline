@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A tranquil scene of a girl sitting by the sea, quietly enjoying the soothing sounds of the waves and the rocks. The video captures the serene atmosphere of the coastal environment, with the gentle movement of the waves and the girl's stillness creating a peaceful and reflective mood.",
+    "audio_prompt": [
+        "The sound of waves hitting the rocks"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

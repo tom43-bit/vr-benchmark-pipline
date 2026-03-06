@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a close-up of a menacing-looking devil in a dense forest, speaking about the advancements in AI technology. The setting is eerie and atmospheric, with soft, diffused lighting and a sense of mystery.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the devil",
+        "text": "Breaking news. AI is getting so powerful that you could turn photos to videos and to."
+    }
+}

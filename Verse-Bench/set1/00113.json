@@ -1,0 +1,10 @@
+{
+    "video_prompt": "In this cartoon video, a kale man with a surprised expression is speaking to the viewer. He is surrounded by a lush garden with various green plants and a blurred background of trees and foliage. The kale man is gesturing with his hands while speaking, emphasizing his message about the importance of eating more vegetables. The overall style of the video is whimsical and engaging, with a focus on the character's expressive face and body language.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the cabbage",
+        "text": "Oh, how did you find me? Although it is a bit inappropriate, for the sake of your health, I hope you remember to eat more vegetables."
+    }
+}

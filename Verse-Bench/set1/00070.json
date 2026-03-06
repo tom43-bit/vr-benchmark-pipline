@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking in front of a bookshelf filled with books and a panda poster. He is wearing glasses and a black t-shirt. The setting appears to be an indoor space, possibly a home office or study room. The man is likely delivering a speech or presentation, discussing an article by Professor Feng Yujun about Russia's defeat. There is no significant movement or action taking place in the video.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "Recently, Professor Feng Yujun, an expert on Russian issues at Peking University, published an article in the famous British magazine The Economist saying that Russia's defeat is inevitable."
+    }
+}

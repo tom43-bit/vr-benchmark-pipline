@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman in a green dress speaking about concepts related to memory, cognition, and impulse control in the context of hospice care. She uses hand gestures to emphasize her points, and the setting appears to be a formal indoor environment.",
+    "audio_prompt": [
+        "A woman is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "Memory, cognition, impulse control. In hospice, we call this grief brain."
+    }
+}

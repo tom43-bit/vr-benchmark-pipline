@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a fishing boat moving through rough waters with waves crashing against it. Seagulls are flying around the boat, and the sky is overcast. The boat is moving forward, creating waves and splashes. The ambient sounds include wind, waves, and seagulls.",
+    "audio_prompt": [
+        "A boat motor is running, water is splashing, and the wind is blowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

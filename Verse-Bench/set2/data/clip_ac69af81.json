@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A young man is playing the piano in a well-lit room. He is wearing a green T-shirt and glasses, sitting on a black piano bench. The room has large windows covered by blinds, a bookshelf filled with books on the right side, and a carpeted floor. The young man is focused on playing the piano, his hands moving rhythmically over the keys, and he occasionally glances at the sheet music. The background music is soft and adds to the serene atmosphere of the room.",
+    "audio_prompt": [
+        "A piano is playing a melody"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man in a tuxedo is giving a speech at a formal event, holding an award and speaking into a microphone. The background is a blurred, colorful backdrop with bokeh effects, suggesting a celebratory atmosphere. The man is the main focus of the video, and there are no other characters or objects in the scene.",
+    "audio_prompt": [
+        "A man giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Man in a tuxedo",
+        "text": "The Revenant was a product of the tireless efforts of an unbelievable cast"
+    }
+}

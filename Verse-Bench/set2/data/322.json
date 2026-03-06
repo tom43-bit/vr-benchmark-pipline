@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman is playing a flute in a dark, indoor setting. She is wearing a pink blazer and a patterned blouse. Her hands are moving rhythmically over the keys of the flute as she plays. The background is blurred, suggesting an indoor environment with soft lighting. The only sound is the soft, melodic music of the flute.",
+    "audio_prompt": [
+        "A flute is playing a note"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

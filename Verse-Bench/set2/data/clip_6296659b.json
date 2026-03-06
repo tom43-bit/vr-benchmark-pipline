@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A pianist dressed in a black suit is playing a Kawai piano in a dimly lit room with a wooden floor. The pianist's hands move rhythmically across the keys, creating a soothing melody. The background is quiet, with only the soft sound of the piano music.",
+    "audio_prompt": [
+        "A piano is playing a melody"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person sewing a piece of brown leather using a sewing machine. The person is wearing a red shirt and is carefully guiding the leather through the machine. The background is an indoor setting, likely a workshop or home, and the sound of the sewing machine is prominent.",
+    "audio_prompt": [
+        "A sewing machine is being used"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

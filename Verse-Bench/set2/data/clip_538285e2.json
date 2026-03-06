@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person cutting a tomato into small pieces on a wooden cutting board. The person holds the tomato and a knife, and the knife moves back and forth to slice the tomato. The pieces of tomato fall onto the cutting board. The background shows a few whole tomatoes. The video has a realistic style.",
+    "audio_prompt": [
+        "Birds chirp in the background as a tomato is being sliced"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

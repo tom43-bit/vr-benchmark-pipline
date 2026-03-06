@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman is working on a computer in an office setting. She is wearing a red and black checkered shirt, yellow headphones, and glasses. She is typing rapidly on a laptop, with her hands moving quickly over the keyboard. The monitor displays lines of code, indicating she is working on a computer program. The background features a large window with a view of a cityscape, a desk with a laptop and a monitor, and a white wall. The ambient sound is the sound of typing.",
+    "audio_prompt": [
+        "The sound of typing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

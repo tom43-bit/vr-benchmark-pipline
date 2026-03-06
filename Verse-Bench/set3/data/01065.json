@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features an older man wearing a yellow blazer, black shirt, and glasses, standing in front of a blue curtain. He is speaking and gesturing with his hands, moving slightly as he talks. The background is a blue curtain, and there are no ambient sounds. The man is the main focus of the video, and his actions and speech are the primary elements.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "I told Rob we were ready. The actors came back now knowing their lines, walking much faster, and they walk fifty feet beyond where I'm lit."
+    }
+}

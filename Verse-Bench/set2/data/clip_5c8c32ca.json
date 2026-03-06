@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A monster truck driver performs a wheelie in a large stadium, with the crowd cheering and the engine roaring. The scene is filled with excitement and energy.",
+    "audio_prompt": [
+        "A truck engine revving and then revving as a crowd cheers"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

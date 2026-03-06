@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a woman playing the violin in a dramatic and focused setting. She is dressed in a shiny black dress, and the background is dark with a warm, golden light source behind her, creating a striking contrast. The video emphasizes her skill and passion for playing the violin, with her movements and expressions conveying a sense of emotion and intensity.",
+    "audio_prompt": [
+        "Sound of the violin music"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

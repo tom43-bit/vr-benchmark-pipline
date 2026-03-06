@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene and somewhat melancholic rainy night scene. The camera remains stationary, focusing on the trees and the street as the rain falls heavily. The ambient sounds of rain and wind add to the peaceful yet somber atmosphere.",
+    "audio_prompt": [
+        "Rain falling on a surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

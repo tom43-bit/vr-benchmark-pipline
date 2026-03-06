@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures the moment a water droplet falls into a calm body of water, creating a mesmerizing display of ripples. The scene is tranquil, with the water droplet's impact being the focal point, and the ripples gradually spreading outwards.",
+    "audio_prompt": [
+        "Water splashing followed by a series of water droplets falling on a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

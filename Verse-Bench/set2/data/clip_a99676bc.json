@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A young boy is playing the drums in a room decorated with posters of bands and musicians. He is wearing a yellow t-shirt with a geometric pattern and black shorts, and he is wearing headphones. The boy is actively playing the drums, hitting the drums and cymbals rhythmically. The room has dark gray walls, a carpeted floor, and posters of bands and musicians on the wall. The background music is playing throughout the video.",
+    "audio_prompt": [
+        "A drum beat is playing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

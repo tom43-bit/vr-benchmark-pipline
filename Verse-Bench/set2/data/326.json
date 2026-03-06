@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene forest scene with tall trees and a cloudy sky. Leaves are falling from the trees, creating a peaceful and natural atmosphere. The camera remains stationary, focusing on the trees and the falling leaves.",
+    "audio_prompt": [
+        "Rain falling on a surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

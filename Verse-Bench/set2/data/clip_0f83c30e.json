@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A black and tan Rottweiler with a gold chain collar is shown in an outdoor setting. The dog is growling and barking, showing its teeth and looking aggressive. The background is an outdoor setting with a concrete ground and some greenery. The dog's mouth opens and closes rapidly, showing its teeth and growling.",
+    "audio_prompt": [
+        "A dog barks and growls"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

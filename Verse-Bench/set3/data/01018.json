@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman is giving a speech on a stage, likely at a TEDx event, discussing scenarios that some people find disgusting. She is dressed in a light green cardigan and black pants, and is using a microphone to address the audience. The stage is decorated with large white letters spelling 'NAS' and a red 'X' on the left side.",
+    "audio_prompt": [
+        "A woman is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Woman",
+        "text": "Some people find the scenarios in these questions extremely disgusting."
+    }
+}

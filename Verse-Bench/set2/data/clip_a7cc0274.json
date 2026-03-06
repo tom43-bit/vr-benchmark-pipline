@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a view from an airplane window as it taxis on a runway at an airport. The scene includes the airplane wing, the runway, airport buildings, and distant mountains under a partly cloudy sky. The airplane is moving forward and slightly to the right, with the sound of wind and engine noise in the background.",
+    "audio_prompt": [
+        "An aircraft engine is idling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a yellow helicopter with 'SAMU' written on it, parked on a helipad in a city setting. The helicopter is stationary and its engine is starting with roar of the engine, and there are no visible characters or significant actions taking place. The background includes buildings and parked cars, suggesting an urban environment.",
+    "audio_prompt": [
+        "An aircraft engine running idle"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

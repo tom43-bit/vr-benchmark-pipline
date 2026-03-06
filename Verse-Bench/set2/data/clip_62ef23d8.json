@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person is seen pouring hot water from a red teapot with floral patterns into a wooden cup with intricate carvings on a wooden table. The background is a rustic wooden interior with a window. The person is wearing a blue jacket and dark pants. The scene is calm and focused on the act of pouring hot water, with steam rising from the cup. The ambient sound includes the gurgling of the water and the noise of the steam.",
+    "audio_prompt": [
+        "Water is pouring from a faucet"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

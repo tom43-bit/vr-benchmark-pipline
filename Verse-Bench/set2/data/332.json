@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person in a kitchen setting, cutting a green bell pepper into small pieces on a wooden cutting board. Various vegetables such as a red bell pepper, onion, and celery are also present on the cutting board. The person is using a knife to cut the pepper, and the sound of the knife cutting can be heard. The background is slightly noisy, indicating a typical kitchen environment.",
+    "audio_prompt": [
+        "Clanking and scraping with some light banging"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

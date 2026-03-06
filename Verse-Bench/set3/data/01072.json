@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking on a stage, expressing uncertainty about trust and reality. The setting is simple with a red circular object and a blue curtain in the background. The speaker uses hand gestures to emphasize his points.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "We don't know what to trust anymore. We don't know what is real, what is fake."
+    }
+}

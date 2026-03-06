@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a windmill on top of a blue roof spinning rapidly due to the wind. The background is a clear blue sky with white clouds. There are no characters present in the video.",
+    "audio_prompt": [
+        "Wind blowing hard"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

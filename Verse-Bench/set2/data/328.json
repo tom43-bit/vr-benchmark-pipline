@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a dramatic scene of a stormy landscape with heavy rain and dark clouds. The camera remains stationary, focusing on a winding road surrounded by mountains and trees. The atmosphere is tense and foreboding, with the sound of rain and thunder adding to the intensity of the scene. A bolt of lightning strikes, illuminating the sky momentarily.",
+    "audio_prompt": [
+        "Rain falls and thunder roars"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

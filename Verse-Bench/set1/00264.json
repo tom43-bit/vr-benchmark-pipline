@@ -1,0 +1,10 @@
+{
+    "video_prompt": "In a cartoon-style video, a girl with long brown hair is sitting among flowers in a garden. She is wearing a blue dress with a white collar and a blue bow on her chest. Several blue butterflies are flying around her, and a castle can be seen in the background. The scene is peaceful, with the sound of birds chirping and wind blowing.",
+    "audio_prompt": [
+        "Sound of birds chirping and wind blowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

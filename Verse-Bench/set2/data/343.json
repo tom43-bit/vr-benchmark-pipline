@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows an airplane flying overhead against a backdrop of a clear blue sky with scattered white clouds. The airplane is the main focus, moving smoothly from left to right across the frame. The scene is calm and serene, with no other characters or objects present.",
+    "audio_prompt": [
+        "An aircraft flies overhead"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

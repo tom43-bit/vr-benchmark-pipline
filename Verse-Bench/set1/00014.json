@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman playing the guitar in a cozy, well-lit room. She is dressed casually in a denim jacket and skirt, and her long, wavy brown hair frames her face. The background includes string lights and two guitars mounted on the wall, adding to the intimate and relaxed setting. The woman's gentle smile and the soft sound of the guitar create a warm and inviting atmosphere.",
+    "audio_prompt": [
+        "The sound of the guitar playing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man in a suit speaking at a podium with two flags in the background. He is gesturing with his hands while speaking. The speech content is about something being put in place since he left office and expressing delight that they are there and making an impact.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "A man in a suit",
+        "text": "been put in place since I left office and I'm delighted that they're there and they make the"
+    }
+}

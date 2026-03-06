@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person wearing gloves is operating industrial machinery, specifically adjusting a conveyor belt system. A cardboard box is seen moving along the conveyor belt. The background is an industrial setting with various machinery and equipment. The person is focused on ensuring the machinery operates smoothly, with the conveyor belt system being a central element of the video.",
+    "audio_prompt": [
+        "An engine is idling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

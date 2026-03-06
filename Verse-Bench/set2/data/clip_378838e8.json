@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a man playing the piano in a realistic setting. The man is seated on a black piano bench, wearing a gray shirt and gray pants. His long hair is tied back. The background features a wooden floor and a wall with a window, suggesting an indoor environment. The man's hands move rhythmically across the piano keys, creating a musical performance. The ambient sound is the music playing in the background.",
+    "audio_prompt": [
+        "A piano is playing a melody"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

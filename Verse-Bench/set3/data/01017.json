@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking and gesturing against a plain blue background. He is wearing a gray sweater over a white collared shirt and is likely discussing a topic related to metrics and averages. The TED logo in the bottom right corner suggests that this is a TED talk or presentation.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "One, is the average the right metric? Two, am I focusing on the right average?"
+    }
+}

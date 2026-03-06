@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a green parrot with a red beak and white eyes interacting with a smartphone. The parrot pecks at the phone and then looks around. The background is a blurred outdoor setting with a textured surface. The ambient sound includes meowing.",
+    "audio_prompt": [
+        "A bird meowing followed by a woman speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

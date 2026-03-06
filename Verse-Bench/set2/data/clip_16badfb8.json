@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A small bird with brown and yellow feathers is perched on a branch inside a white cage, singing. The bird moves its head slightly while singing, and the background is a white cage with vertical bars.",
+    "audio_prompt": [
+        "A bird is chirping"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

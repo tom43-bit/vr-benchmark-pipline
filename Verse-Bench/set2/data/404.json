@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a spectacular display of fireworks lighting up the night sky. The fireworks explode in various colors and patterns, creating a dazzling and dynamic visual effect. The background is a dark night sky, providing a stark contrast to the bright, colorful bursts of light. There are no characters or objects present in the video, and the focus is solely on the fireworks and their explosive display.",
+    "audio_prompt": [
+        "Several loud bursts of fireworks"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

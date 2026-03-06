@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a close-up of a glass and a bottle. Water is being poured from the bottle into the glass, creating ripples and splashes. The background is black, emphasizing the clarity and movement of the water.",
+    "audio_prompt": [
+        "Water is being poured into a container"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

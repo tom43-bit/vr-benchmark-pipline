@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video captures a serene moment of a woman in traditional Chinese attire reading a book while seated in a wooden boat on a calm body of water. The setting is tranquil, with lush greenery and mountains in the background, and the atmosphere is peaceful, enhanced by the gentle sounds of water and nature.",
+    "audio_prompt": [
+        "The gentle lapping of water against the boat",
+        "The rustling of leaves in the background"
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "The orioles are singing on the island in the river. A beautiful lady is the ideal match for the gentleman."
+    }
+}

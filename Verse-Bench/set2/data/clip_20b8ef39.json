@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a steam train traveling through a snowy, forested landscape. The train is emitting smoke as it moves along the railway track, which is surrounded by snow-covered trees. The sky is overcast with clouds, adding to the wintry atmosphere. The ambient sounds of the steam engine chugging and the clickety-clack of the train wheels on the tracks can be heard throughout the video.",
+    "audio_prompt": [
+        "A steam engine chugging followed by a train whistle blowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

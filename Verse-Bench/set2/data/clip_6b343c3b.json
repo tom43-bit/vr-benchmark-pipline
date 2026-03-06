@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person wearing a blue wingsuit glides down a mountainous terrain using a wingsuit. The background consists of rocky cliffs and sparse vegetation. The person moves from the top of the mountain to the bottom, showcasing the thrill and beauty of wingsuit flying.",
+    "audio_prompt": [
+        "Wind blowing hard with a man speaking in the background"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

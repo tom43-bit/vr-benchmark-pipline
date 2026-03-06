@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video begins with a close-up of a woman with short brown hair, wearing a blue dress with a red belt, standing and looking at the fireworks in the sky. The camera then pulls away, revealing a wider view of the night sky filled with colorful fireworks. The sound of fireworks exploding can be heard throughout the video.",
+    "audio_prompt": [
+        "Sound of fireworks exploding"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

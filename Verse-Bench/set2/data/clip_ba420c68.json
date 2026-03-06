@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a table tennis match between Fan and Filus. Fan serves the ball, and Filus returns it. The players are actively engaged in the game, moving around the table and hitting the ball back and forth. The background shows a table tennis court with advertisements and a scoreboard. The camera remains stationary, focusing on the players and the table tennis table.",
+    "audio_prompt": [
+        "A ball is bouncing on a surface and people are talking in the background"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

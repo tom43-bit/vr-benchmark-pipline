@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a girl in an ancient costume, holding a small black jug, taking a sip, and wiping her mouth. The setting is a natural outdoor environment with rocks and greenery. The girl's actions and the ambient sounds create a serene and reflective atmosphere.",
+    "audio_prompt": [
+        "Ambient sounds of nature, possibly birds or wind"
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "Since ancient times, all saints and wise men have been lonely, only drinkers have left their names"
+    }
+}

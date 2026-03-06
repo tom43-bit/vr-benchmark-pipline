@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person typing on a black keyboard with colorful backlighting. The person's hands move across the keyboard, pressing various keys. The background is a plain white desk. The person is speaking, saying 'I'm not sure what you're asking. Could you please provide more context or clarify your question?'",
+    "audio_prompt": [
+        "Typing on a keyboard"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man in traditional Chinese attire standing in a field of tall grass. He is clasping his hands and speaking, with a calm and reflective expression. The background is a serene field with a warm, golden sky, creating a peaceful and contemplative atmosphere. There is no ambient sound provided.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "If a person has no dreams, what is the difference between him and a salted fish"
+    }
+}

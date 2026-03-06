@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a large explosion occurring in a forested area. The explosion creates a massive fire and smoke that rises into the sky. The scene is devoid of any human presence, focusing solely on the dramatic event and its aftermath.",
+    "audio_prompt": [
+        "A loud explosion"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man with long hair and a beard is chopping a tree with an ax in a forest. The forest is filled with bare trees and there is a small fire in the background. The man is wearing a brown coat and black pants. The sound of chopping wood and crackling fire can be heard. The man is focused on chopping the tree and wood chips are flying around.",
+    "audio_prompt": [
+        "Someone is chopping wood"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

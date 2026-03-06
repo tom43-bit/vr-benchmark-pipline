@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A little girl is playing the piano in a room with a black curtain in the background. She is wearing a red dress and white shoes, and her hands are moving on the piano keys. The music is playing in the background.",
+    "audio_prompt": [
+        "A piano is played"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

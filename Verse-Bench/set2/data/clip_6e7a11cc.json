@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a woman in a state of distress, crying and holding her head, with a plain, dark-colored wall in the background. The scene is focused on the woman's emotional state, with no other characters or significant objects present.",
+    "audio_prompt": [
+        "A woman is crying"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "In the cabin of a civil aircraft, a flight attendant is explaining to passengers how to use oxygen masks. The flight attendant, dressed in a blue uniform, holds an oxygen mask and demonstrates its usage, instructing passengers to fix the rope above their head with one hand and put the mask over their mouth and nose with the other, ensuring they breathe normally. The passengers, seated in rows, are attentively listening and observing the demonstration. The background is the interior of a modern airplane cabin, with overhead compartments and a well-lit environment. The ambient sound includes the soft conversations of the passengers and occasional announcements from the airplane.",
+    "audio_prompt": [
+        "Ambient noise of the airplane cabin, including soft conversations and occasional announcements."
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "Fix the rope above your head with one hand, put the oxygen mask over your mouth and nose with the other hand, and breathe normally."
+    }
+}

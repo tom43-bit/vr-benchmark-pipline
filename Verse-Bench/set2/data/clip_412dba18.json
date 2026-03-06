@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man in a black suit with a bow tie and glasses is playing an acoustic guitar and singing in a dimly lit room. The camera focuses on his hands and face as he strums the guitar and sings. There is a glass of drink on a table in the foreground, and a spotlight illuminates the scene. The background is dark, with a spotlight providing the only source of light.",
+    "audio_prompt": [
+        "A guitar is being played"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

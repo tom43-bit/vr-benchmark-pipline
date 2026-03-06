@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a man in a modern office setting, speaking into a microphone branded with 'iHeart Radio'. He is wearing a maroon shirt with a plaid collar and has short brown hair. The background shows glass walls and doors, with a visible hallway. The man is smiling and appears to be conducting an interview or recording a podcast. The ambient sound includes the sound of a motor engine, adding to the professional and dynamic atmosphere of the scene.",
+    "audio_prompt": [
+        "Sound of motor engine"
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "Bring your characters to life with Hedra."
+    }
+}

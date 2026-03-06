@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a stunning aerial view of a mountainous region, featuring a valley, trees, and a lake. The camera smoothly pans across the landscape, highlighting the natural beauty and tranquility of the scene. The clear sky and the presence of wind and bird calls add to the serene atmosphere.",
+    "audio_prompt": [
+        "Wind blowing and water splashing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a woman sitting in the driver's seat of a car, adjusting her jacket. The setting is the interior of a car, with the woman being the main focus. The background shows trees and greenery outside the car windows, indicating a natural setting. There is no speech or ambient sound in the video.",
+    "audio_prompt": [
+        "Paper is being crumpled"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a girl in a snowy landscape, wearing a white kimono and holding a pink umbrella with a floral design. She stands still for a moment, then turns and walks towards a building in front. The background is a snowy landscape with a blurred background, suggesting a cold and serene environment. The sound of snowing can be heard throughout the video.",
+    "audio_prompt": [
+        "Sound of snowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

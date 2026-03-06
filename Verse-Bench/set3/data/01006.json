@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a man giving a TED Talk, discussing the idea of reducing waste in mining. He is dressed in a black sweater and uses hand gestures to engage with the audience. The background features a vibrant, abstract design with a prominent 'TED' logo, indicating the setting of a TED Talk event.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker",
+        "text": "Wouldn't it be great if there was a way to meet that demand by simply wasting less of what we're already mining?"
+    }
+}

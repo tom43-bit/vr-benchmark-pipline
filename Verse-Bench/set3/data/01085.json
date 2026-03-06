@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman speaking in a formal setting, likely delivering a speech or presentation. She is dressed in a colorful floral jacket and is standing against a blue curtain backdrop. The focus is on her speech, with no significant background activity or sound.",
+    "audio_prompt": [
+        "A woman is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "And as a result, many of them were held back."
+    }
+}

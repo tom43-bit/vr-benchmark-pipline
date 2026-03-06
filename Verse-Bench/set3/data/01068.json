@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking on a stage or in a presentation room. He is wearing a white t-shirt and a green cap, and he is using hand gestures to emphasize his points. The background includes a blue curtain and a shelf with some items on it. The man is discussing the concept of becoming narrow-minded and expressing that it is something they do not like.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "And also you're going to generally become very narrow-minded, right? We don't like being narrow-minded."
+    }
+}

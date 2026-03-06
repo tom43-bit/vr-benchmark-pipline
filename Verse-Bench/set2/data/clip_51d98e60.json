@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person holding a classic mobile phone, navigating through its menu options. The person presses buttons on the keypad, and the screen displays different menu options. The background is dark, suggesting an indoor setting. The person speaks, saying 'Hello, how can I assist you today?'",
+    "audio_prompt": [
+        "A series of electronic beeps"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

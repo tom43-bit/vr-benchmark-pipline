@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a woman in a classroom setting, holding a red book and preparing to write on a teal chalkboard. She is wearing a brown sleeveless jacket over a pink top, paired with blue pants. The background includes several books and a container of colored pencils on a white ledge below the chalkboard. The woman is smiling and appears to be in a teaching or learning environment. The ambient sound is the sound of chalk writing, indicating the woman is about to write on the chalkboard.",
+    "audio_prompt": [
+        "The sound of chalk writing."
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "Attention Is All You Need."
+    }
+}

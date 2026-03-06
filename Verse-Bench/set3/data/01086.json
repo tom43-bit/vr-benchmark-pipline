@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman speaking about the unique shopping experience at Trader Joe's. She is dressed in a bright pink blouse and a gold necklace, standing against a solid blue background. Her gestures and facial expressions suggest she is engaged in delivering her message.",
+    "audio_prompt": [
+        "A woman is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Woman",
+        "text": "If you've been to a Trader Joe's, you know it just feels different shopping there."
+    }
+}

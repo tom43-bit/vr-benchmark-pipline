@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man in a formal setting, likely giving a speech or interview. He is wearing glasses, a blue blazer, and a white shirt. The background includes wooden furniture and a bookshelf, suggesting an indoor setting. The man is speaking about an election in Germany, indicating a serious and informative tone.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Man",
+        "text": "I would also say that this election in Germany wasn't surprising."
+    }
+}

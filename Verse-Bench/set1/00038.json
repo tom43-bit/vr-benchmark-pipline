@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a moment of joy and playfulness as a young girl stands on a wet pavement in an urban setting, her skirt and flyer being blown by the wind. She is wearing a pink t-shirt with a cartoon character and a red skirt, and her happy expression suggests she is enjoying the moment. The background features modern glass buildings and a decorative gold structure, adding to the urban atmosphere. The sound of wind complements the visual elements, creating a lively and dynamic scene.",
+    "audio_prompt": [
+        "Sound of wind"
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "Mom, look, my skirt is floating."
+    }
+}

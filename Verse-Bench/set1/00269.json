@@ -1,0 +1,12 @@
+{
+    "video_prompt": "The video depicts a bustling urban intersection during cherry blossom season. A yellow bus passes through the intersection, while cars wait in line for the red light. The scene is set against a backdrop of cherry blossom trees in full bloom, creating a beautiful contrast with the urban environment. The ambient sounds of the city and the gentle rustling of the cherry blossoms add to the lively yet serene atmosphere.",
+    "audio_prompt": [
+        "Noisy street sounds",
+        "Roar of cars",
+        "Cherry blossom rustling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

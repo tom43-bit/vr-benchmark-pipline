@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman is jumping rope in a park, the sound of jumping rope can be heard, the background is a brick-paved ground, a tree, and a wall",
+    "audio_prompt": [
+        "Sound of jumping rope"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

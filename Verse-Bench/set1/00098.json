@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman in a professional setting, expressing satisfaction with her day and looking forward to a meal after work. The office environment is modern and well-lit, with a focus on the woman's confident demeanor.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "Today is another fulfilling day. After finishing work, I will have a good meal."
+    }
+}

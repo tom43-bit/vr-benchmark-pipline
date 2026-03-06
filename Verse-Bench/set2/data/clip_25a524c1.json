@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a train arriving at a station. The train is blue and yellow, and it is moving along the tracks. The platform is visible, and there is a fence separating the tracks from the platform. The sky is clear and blue, suggesting a sunny day. The train horn is sounded as it approaches the platform.",
+    "audio_prompt": [
+        "A train horn is triggered and a train passes by"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man giving a speech on a stage, emphasizing the point that aid doesn't have to be costly to be effective. He is wearing a blue suit and a white shirt, and is using hand gestures to communicate his message. The background is a stage with a blue curtain and red lighting.",
+    "audio_prompt": [
+        "A man giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "And the lesson of my talk is aid doesn't have to be costly to be effective"
+    }
+}

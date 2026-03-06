@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A lively scene of a traditional Chinese festival where a woman is energetically playing a large drum, accompanied by a man holding a gong. The background shows a street with buildings, trees, and spectators, creating a festive atmosphere.",
+    "audio_prompt": [
+        "Sound of drums"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

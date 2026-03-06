@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene scene of two white sheep grazing in a grassy field. The sheep are fluffy and white, and they are standing close to each other. They occasionally look up and around, and then they begin to walk towards the camera. The background includes a wooden fence and a dirt path, with some trees and bushes in the distance. The lighting suggests it is daytime, and the sound of the sheep can be heard throughout the video.",
+    "audio_prompt": [
+        "Sound of sheep"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

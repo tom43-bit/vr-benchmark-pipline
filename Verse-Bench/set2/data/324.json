@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A young child is playing a drum set in a living room, creating a cheerful and lively atmosphere. The child is smiling and appears to be enjoying the activity. The background includes a black leather sofa, white curtains, and a potted plant on a table, adding to the cozy and homey setting.",
+    "audio_prompt": [
+        "A drum is being played"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

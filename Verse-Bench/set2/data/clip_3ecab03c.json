@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a woman eating a large plate of food with her hands. She is seen picking up pieces of meat and rice, bringing them to her mouth, and chewing them. The background is a simple indoor setting, and the only sound is the chewing of the food. The video focuses on the woman's actions and the food she is eating.",
+    "audio_prompt": [
+        "A person is chewing and eating food"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

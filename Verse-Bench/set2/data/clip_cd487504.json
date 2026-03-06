@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a woman at a camping site, engaged in setting up or adjusting something near her tent. The scene is calm and focused, with the woman's actions being the primary focus. The background is a natural outdoor setting, suggesting a peaceful camping experience.",
+    "audio_prompt": [
+        "Someone is tapping on a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

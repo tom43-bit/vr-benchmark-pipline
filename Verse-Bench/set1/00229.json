@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman speaking directly to the camera, with a background of a window and a partly cloudy sky. She is wearing a black tank top and has her hand on her head, possibly indicating a thoughtful or concerned expression. The video style is realistic, and the woman's speech content suggests she is engaging with her audience on the internet.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "Hello people from the Internets. I always are making videos because I like talk with people about me. "
+    }
+}

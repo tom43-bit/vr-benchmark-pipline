@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts an elderly woman sitting on a balcony, looking out and occasionally glancing at a small black and white dog beside her. The background features a weathered, textured wall with peeling paint, indicating an older building. The woman is wearing a red dress and sitting on a chair, while the dog remains still beside her. The ambient sound includes the sound of a dog barking. The woman speaks, saying, 'It will be rainy. Have you brought umbrella with you children?'",
+    "audio_prompt": [
+        "Sound of dog barks"
+    ],
+    "speech_prompt": {
+        "speaker": "the old woman",
+        "text": "It will be rainy. Have you brought umbrella with you children?"
+    }
+}

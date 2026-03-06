@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman speaking on stage, discussing a complex merger. She is dressed in a black blazer over a green top and black pants, and she is using a microphone and a remote control. The background is a stage setting with a large circular design and a blue and green abstract design. The woman is gesturing with her hands as she speaks, emphasizing her points.",
+    "audio_prompt": [
+        "A woman speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "They were undergoing a complex messy merger and it was clear that while a lot of attention was being placed on the technical integration."
+    }
+}

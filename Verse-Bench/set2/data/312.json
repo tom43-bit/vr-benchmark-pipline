@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a close-up of a hand pointing at the Suzuki logo on the steering wheel of a car. The hand moves from the left side of the steering wheel to the center, where the logo is located. The background is the interior of the car, with a focus on the steering wheel and dashboard. There is a brief moment of silence followed by a car horn sound.",
+    "audio_prompt": [
+        "A vehicle horn honking"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

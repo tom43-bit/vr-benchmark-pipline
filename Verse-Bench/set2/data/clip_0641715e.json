@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person is cooking in a kitchen, stirring food in a wok with a spatula. The food is sizzling and bubbling in the wok, and there is a pot on the stove in the background. The kitchen has tiled walls and a stove. The ambient sound includes the sizzling and frying of the food.",
+    "audio_prompt": [
+        "Sizzling and crackling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is playing the violin in a room filled with violins and books. He is wearing a black t-shirt with a red 'Supreme' logo. The man is focused on playing the violin, moving the bow across the strings and his fingers along the strings. The room has shelves containing various violins and books, and a framed sheet music on the wall. The sound of the violin being played can be heard.",
+    "audio_prompt": [
+        "A violin is playing a note"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

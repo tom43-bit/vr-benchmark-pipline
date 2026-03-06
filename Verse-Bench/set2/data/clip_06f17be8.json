@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a whale breaching the water, with seagulls flying around it. The background is a vast ocean with waves and a clear sky. The ambient sounds include the sound of waves and seagulls.",
+    "audio_prompt": [
+        "Waves crashing and birds chirping"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

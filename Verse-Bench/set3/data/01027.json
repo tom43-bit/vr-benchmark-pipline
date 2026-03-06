@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman speaking in front of a blue background with an orange and white design. She is wearing a black turtleneck sweater and has shoulder-length brown hair. She is gesturing with her hands while speaking. The speech content is 'But that summer it didn't look like much. As a folklorist, I felt a premature sense of loss.'",
+    "audio_prompt": [
+        "A woman speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "But that summer it didn't look like much. As a folklorist, I felt a premature sense of loss."
+    }
+}

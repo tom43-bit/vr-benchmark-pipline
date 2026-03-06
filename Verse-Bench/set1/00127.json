@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a girl walking on a beach, her tears streaming down her face, creating a poignant and emotional scene. The background features a clear blue sky with fluffy clouds and a distant lighthouse, adding to the serene yet melancholic atmosphere. The camera follows her, capturing her movements and the surrounding environment, emphasizing her emotional state.",
+    "audio_prompt": [
+        "The sound of the girl crying"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

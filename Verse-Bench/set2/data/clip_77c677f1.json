@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a construction scene where a man is using a jackhammer to break a brick wall, while another man works with a wheelbarrow in the background. The environment is a construction site with tiled walls and scattered debris. The sound of the jackhammer and the wheelbarrow moving can be heard throughout the video.",
+    "audio_prompt": [
+        "A power tool is being used"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

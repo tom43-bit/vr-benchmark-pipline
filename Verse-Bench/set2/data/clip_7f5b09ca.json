@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person is chopping wood in a forest setting. The person is wearing a brown jacket and black pants. They are using an axe to chop a tree stump, causing wood chips to fly off. The background is a forest setting with blurred trees and leaves on the ground. The sound of wood chopping and background forest noise can be heard.",
+    "audio_prompt": [
+        "Someone is chopping wood"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

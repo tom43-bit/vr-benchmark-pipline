@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video is a close-up commercial showcasing a woman applying liquid foundation to her face. She uses a makeup sponge to ensure even coverage, demonstrating the product's application process. The background is simple and neutral, focusing attention on the product and the application technique. The woman's actions are deliberate and precise, highlighting the ease of use and the desired result of the foundation.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "No matter what your skin type is, this foundation will definitely make you look radiant."
+    }
+}

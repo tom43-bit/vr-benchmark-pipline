@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a moment of celebration and disbelief as a woman in a graduation cap and gown expresses her excitement about graduating from Harvard University. The setting is simple and clean, focusing entirely on the woman's emotional reaction.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "I can't beleave, I graduated from Harvard. O, I must be dreaming."
+    }
+}

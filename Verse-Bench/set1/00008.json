@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A little boy is playing the keyboard fluently and happily in a simple room. The camera remains stationary, capturing the boy's focused expression and the rhythmic movement of his hands on the keys. The background is minimal, with a bed and a plain wall, and the only sound is the keyboard playing.",
+    "audio_prompt": [
+        "The sound of the keyboard playing can be heard."
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a formal meeting between two men in a well-furnished room. Speaker1 is passionately discussing a ceasefire and its consequences, while Speaker2 listens intently. The setting and body language suggest a serious and important conversation.",
+    "audio_prompt": [
+        "A man giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "This ceasefire, he killed our people and he didn't exchange prisoners. We."
+    }
+}

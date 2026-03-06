@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a tender moment between a parent and a baby. The parent is gently caring for the baby by wiping its mouth with a cloth while the baby lies on a checkered pillow. The setting is indoors, with a wooden floor and a cozy atmosphere. The parent's actions are gentle and caring, reflecting a nurturing moment between the two.",
+    "audio_prompt": [
+        "A baby is crying"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

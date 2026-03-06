@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman dressed in a brown dress with fringe details is cutting a branch in a lush green forest. She is wearing a headband with colorful beads and has long blonde hair. The scene is peaceful with the sound of leaves rustling and birds chirping in the background.",
+    "audio_prompt": [
+        "Rustling and birds chirping"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "background_consistency": [
+        0.9338559907058189,
+        [
+            {
+                "video_path": "/nfs/xtjin/benchmark/datas/outputs/row_4_A_dim,_cluttered_storage_space_lined_with_weathere_704x1280_42_3_20260209_090804.mp4",
+                "video_results": 0.9481209590517241,
+                "video_sim": 137.4775390625,
+                "cnt_per_video": 145
+            },
+            {
+                "video_path": "/nfs/xtjin/benchmark/datas/outputs/row_1_A_dim,_cluttered_storage_space_lined_with_weathere_704x1280_42_0_20260209_090759.mp4",
+                "video_results": 0.9203714304956897,
+                "video_sim": 133.453857421875,
+                "cnt_per_video": 145
+            },
+            {
+                "video_path": "/nfs/xtjin/benchmark/datas/outputs/row_3_A_dim,_cluttered_storage_space_lined_with_weathere_704x1280_42_2_20260209_090804.mp4",
+                "video_results": 0.9349659886853449,
+                "video_sim": 135.570068359375,
+                "cnt_per_video": 145
+            },
+            {
+                "video_path": "/nfs/xtjin/benchmark/datas/outputs/row_2_A_dim,_cluttered_storage_space_lined_with_weathere_704x1280_42_1_20260209_090757.mp4",
+                "video_results": 0.9319655845905173,
+                "video_sim": 135.135009765625,
+                "cnt_per_video": 145
+            }
+        ]
+    ]
+}

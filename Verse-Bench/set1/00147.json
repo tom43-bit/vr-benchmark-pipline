@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a cartoon television with a smiling face, large eyes, and a red frame. The television is speaking, with the speech content being 'even wild characters create them all in one place with Hedra.' The background is a plain blue wall, and there is no ambient sound provided. The television remains stationary throughout the video, with the face on the screen speaking.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the television",
+        "text": "even wild characters create them all in one place with Hedra."
+    }
+}

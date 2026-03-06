@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman speaking against a blue background. She is wearing a black sleeveless dress, glasses, and a necklace. She is gesturing with her hands while speaking, suggesting she is explaining or emphasizing a point. The background is a solid blue with vertical lines, and there are no ambient sounds.",
+    "audio_prompt": [
+        "An adult female is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "But here's something I also believe. The Luddites had a point."
+    }
+}

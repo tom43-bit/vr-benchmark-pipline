@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a close-up of a black pot on a stove, containing cooked cabbage and pork belly in a red sauce. A wooden spoon is used to stir the ingredients, mixing the sauce and moving the food around in the pot. The sizzling sound of the food cooking can be heard in the background.",
+    "audio_prompt": [
+        "A sizzling sound"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

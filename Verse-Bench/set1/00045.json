@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman playing a red electric guitar while seated on a white chair. She is dressed in a white tank top and beige shorts, with a tattoo visible on her leg. The setting is a simple indoor environment with a white wall and a window with white curtains. The camera remains stationary, capturing the woman's focused performance on the guitar. The ambient sound is the sound of the electric guitar being played.",
+    "audio_prompt": [
+        "Sound of electric guitar"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

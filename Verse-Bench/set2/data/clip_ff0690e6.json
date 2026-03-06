@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features Ariana Grande performing on stage, accompanied by a group of musicians. She is singing into a microphone, and the musicians are playing various instruments, including a trumpet, flute, and violin. The background is dark with colorful lights, creating a vibrant and dynamic atmosphere. The camera focuses on Ariana Grande, capturing her facial expressions and movements, while the musicians are positioned behind her, creating a harmonious and energetic performance.",
+    "audio_prompt": [
+        "Music is playing and a woman is singing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man in a black hoodie drinking water from a clear plastic bottle with a blue label. The background is plain black, and the man is the only character present. The video focuses on the action of drinking, with the man lifting the bottle to his mouth and swallowing the water. The ambient sound is the gurgling and swallowing of the water.",
+    "audio_prompt": [
+        "Water is gurgling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman standing in front of a bookshelf filled with old books, holding a vintage Polaroid camera. She is speaking directly to the camera, saying 'Look at me.' The scene is static, with no significant movement or action taking place. The background is a warm and inviting indoor setting, with soft natural lighting. The woman is wearing a sleeveless dress with a floral pattern and has short, curly black hair. The camera is focused on her upper body and face, capturing her as she prepares to take a photo.",
+    "audio_prompt": [
+        "Camera photo sound"
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "Look at me."
+    }
+}

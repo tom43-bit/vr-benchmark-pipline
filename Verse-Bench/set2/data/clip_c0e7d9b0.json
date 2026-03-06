@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person preparing ingredients outdoors. The person is slicing a red onion on a wooden chopping board and placing the slices into a wooden bowl. The setting is a natural outdoor environment with greenery and sunlight.",
+    "audio_prompt": [
+        "Metal scraping and scraping with some light banging"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

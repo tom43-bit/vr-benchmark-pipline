@@ -1,0 +1,10 @@
+{
+    "video_prompt": "An elderly man is riding a bicycle through a park, singing a song about spring and peach blossoms. The park is filled with lush green trees and a paved path, creating a serene and peaceful atmosphere. The man's movements are smooth and deliberate as he pedals along, enjoying the beauty of the surroundings. The ambient sounds of nature and the occasional bicycle bell add to the tranquil ambiance of the scene.",
+    "audio_prompt": [
+        "The sound of birds chirping, the rustling of leaves, and the occasional bicycle bell"
+    ],
+    "speech_prompt": {
+        "speaker": "the old man",
+        "text": "You are like a painting in spring, with red peach blossoms all over the mountains."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking into a microphone in a TED talk setting. He is wearing glasses, a black blazer, and a light green shirt. The background is blurred, showing an indoor setting with plants and a wooden panel. The man is discussing the importance of data and information in a way that suggests everything works from data.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Man",
+        "text": "It's also true that in a way, you know, everything works from data. You like you need information."
+    }
+}

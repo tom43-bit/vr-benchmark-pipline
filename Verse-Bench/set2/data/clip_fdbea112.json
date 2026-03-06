@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a scene in a residential parking lot where a bicycle is suddenly thrown into the air. The bicycle lands on the ground, causing a splash of water. The surrounding environment includes cars, a white picket fence, trees, and a garden area. The weather appears to be rainy or wet, contributing to the splash effect.",
+    "audio_prompt": [
+        "A crash occurs, followed by an explosion"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

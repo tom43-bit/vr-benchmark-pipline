@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is standing on a stage, speaking and gesturing with his hands. He is wearing a gray blazer, a dark blue shirt, and beige pants. The background is blue with a red circular object to the left. The man is talking about something being crazy and questioning why they are doing it.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "So this is crazy. Why are we doing it?"
+    }
+}

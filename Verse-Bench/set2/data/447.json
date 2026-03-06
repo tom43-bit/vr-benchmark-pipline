@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene scene of a person standing on a bridge overlooking a majestic waterfall in a lush forest. The person remains stationary, observing the natural beauty of the waterfall and the surrounding environment. The sound of water flowing and wind adds to the peaceful ambiance of the scene.",
+    "audio_prompt": [
+        "A stream of water is flowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

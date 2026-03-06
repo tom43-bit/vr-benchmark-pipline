@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A young girl is playing the violin in a serene outdoor setting. She is wearing a pink dress with white polka dots and a pink flower headband, along with glasses. Her curly hair is visible. The background is a natural outdoor setting with trees and greenery. The girl is focused on playing the violin, moving the bow across the strings with concentration. The music being played is the main ambient sound.",
+    "audio_prompt": [
+        "A violin is playing a melody"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man in a residential area approaching a truck. He starts walking, then runs towards the truck, and the truck door opens. The scene is captured from a fixed camera angle, and the background includes houses and parked vehicles.",
+    "audio_prompt": [
+        "An explosion occurs, and the wind blows"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

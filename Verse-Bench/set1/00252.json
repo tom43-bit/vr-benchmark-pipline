@@ -1,0 +1,11 @@
+{
+    "video_prompt": "A woman is leaning out of a moving train, her hair flowing in the wind. She is wearing a white floral dress and light-colored sneakers. The train is running through a lush green landscape with tall grass and trees. The woman is smiling at the viewer, and the sound of the train running and her laughter can be heard in the background",
+    "audio_prompt": [
+        "Sound of the train running",
+        "Woman laughing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

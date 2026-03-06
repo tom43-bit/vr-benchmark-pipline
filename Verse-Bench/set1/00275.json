@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video captures a first-person perspective of a motorcyclist speeding down a winding road through a dense forest. The motorcyclist, dressed in a black leather jacket and gloves, grips the handlebars tightly as they navigate the curves. The speedometer shows the increasing speed, and the motorcycle leans into the turns. The background is filled with tall trees and a clear blue sky, creating a serene and natural environment. The sound of the motor engine and the wind rushing past add to the immersive experience.",
+    "audio_prompt": [
+        "Sound of motor engine",
+        "Wind rushing past"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

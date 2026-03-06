@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman in a professional setting, likely giving a talk or presentation. She is seated in a chair, wearing a green blazer and a black top, and is using hand gestures to communicate her thoughts. The background is dark, with a TED logo visible, indicating a formal or professional environment. The woman's speech content suggests she is discussing a personal or life stage-related topic.",
+    "audio_prompt": [
+        "A woman is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Woman",
+        "text": "To be in this very surreal position of like, wow, I'm in a stage of life."
+    }
+}

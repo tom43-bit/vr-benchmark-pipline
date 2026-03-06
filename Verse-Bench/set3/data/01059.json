@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman is speaking in front of a blue and red abstract background, gesturing with her hands as she talks about stopping farming if a solution is not provided.",
+    "audio_prompt": [
+        "A woman speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "If you don't give me a solution, I'll stop farming."
+    }
+}

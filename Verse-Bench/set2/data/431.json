@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a close-up of a human hand knocking on a white door with visible water droplets. The hand knocks on the door multiple times, and the sound of the knocking is audible.",
+    "audio_prompt": [
+        "Someone knocks on a door"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is giving a presentation or speech on a stage, discussing topics related to pollinators, permafrost, and coral reefs. He is dressed in a black shirt and pants, and is using hand gestures to emphasize his points. The background is a simple blue curtain, and there are no other visible objects or characters in the scene.",
+    "audio_prompt": [
+        "A man is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "The pollinators, the permafrost, the coral reefs."
+    }
+}

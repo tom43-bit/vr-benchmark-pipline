@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a woman sitting in a car, speaking with a serious expression. The background shows the interior of the car and a glimpse of the outside environment, which appears to be a residential area. The woman's appearance and the ambient sound of a baby crying suggest a moment of personal reflection or concern.",
+    "audio_prompt": [
+        "The sound of a baby crying"
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "No one will talks about overwhelming. Since a piece of win get. When protecting your piece just a little bit hard. That is overwhelming."
+    }
+}

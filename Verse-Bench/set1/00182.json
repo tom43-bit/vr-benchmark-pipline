@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man with long hair is playing an electric guitar in a room with several guitars hanging on the wall and a Fender amplifier on the floor. He is wearing a red and black checkered shirt over a black t-shirt and dark blue pants. The man is focused on playing the guitar, his hands moving rhythmically over the strings and frets. The sound of the electric guitar music fills the room.",
+    "audio_prompt": [
+        "Sound of an electric guitar music"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman playing an acoustic guitar in a cozy, warmly lit room. She is dressed in a white blouse and a pearl necklace, and her long brown hair flows freely. The room is decorated with string lights, a red electric guitar, and a ukulele hanging on the wall. A floral-patterned cushion is visible on a chair in the background. The woman occasionally looks at the camera with a smile while playing the guitar, creating a melodic tune. The camera remains focused on her, capturing her expressions and movements. The ambient sound is the music of the guitar, adding to the cozy and intimate atmosphere of the scene",
+    "audio_prompt": [
+        "The sound of the guitar music"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

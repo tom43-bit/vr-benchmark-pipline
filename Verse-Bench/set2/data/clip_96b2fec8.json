@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a female singer performing on a dark, circular stage with a glowing white ring at the top. She is accompanied by a male guitarist, keyboardist, and drummer, who are playing their instruments in the background. The stage is surrounded by tall grass and flowers, creating a serene and artistic atmosphere. The female singer is singing passionately, and the male guitarist strums his guitar, the male keyboardist plays the keyboard, and the male drummer keeps the rhythm.",
+    "audio_prompt": [
+        "A woman sings as music plays"
+    ],
+    "speech_prompt": {
+        "speaker": "Female Singer",
+        "text": "Oh, baby, so don't you be scared."
+    }
+}

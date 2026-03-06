@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man giving a speech on a stage, wearing a blue blazer and white shirt. He is gesturing with his hands while speaking. The background is a red curtain with a TED logo. The man is the only character in the video, and he is speaking about avoiding flattening something and leaving it rich so he can grieve all of them.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "It avoids flattening them and leaves them their richness, so I can grieve all of them."
+    }
+}

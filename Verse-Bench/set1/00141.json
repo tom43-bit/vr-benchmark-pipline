@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man sitting at a table in a well-lit room, speaking about historical events. He is wearing a black shirt, glasses, and a white undershirt. The background includes a vase with green plants, a lamp, a small table with various items, and a plush toy. The man gestures with his hand while speaking, and the camera remains stationary throughout the video.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "Emperor Renzong of the Northern Song Dynasty was in Bianliang. The emperor was upright, his ministers were virtuous, and the people were living in peace. Unfortunately, the invasion of Western Xia caused the Central Plains to be engulfed in flames."
+    }
+}

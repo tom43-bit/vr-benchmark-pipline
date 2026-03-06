@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man with long black hair, wearing a traditional light gray robe, speaking angrily about having been searching for someone for ten years. The setting is a dimly lit room with blurred wooden elements, and the man's serious and determined expression is emphasized through his red eyes and slight frown. The video focuses on the man's speech and expression, with no additional ambient sounds provided.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "I really have been looking for you for ten years. I have been looking for you for ten years."
+    }
+}

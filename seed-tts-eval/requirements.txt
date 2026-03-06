@@ -1,0 +1,8 @@
+funasr
+zhconv
+modelscope
+librosa
+torch
+torchaudio
+jiwer==3.0.0
+transformers

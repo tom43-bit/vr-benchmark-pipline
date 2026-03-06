@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a man swimming in a calm river. The man has short, dark hair and is partially submerged in the water, with his upper body visible above the surface. The river water is clear, with gentle ripples and reflections of the surrounding environment. The ambient sound of water splashing adds to the serene atmosphere of the scene.",
+    "audio_prompt": [
+        "Sound of water splashing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

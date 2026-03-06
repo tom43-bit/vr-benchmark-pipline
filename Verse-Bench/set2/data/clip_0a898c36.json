@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a tranquil indoor setting with a view of a rainy outdoor scene. The room features a wooden floor, a large window, a balcony with potted plants, and a chair. The weather outside is rainy, with raindrops visible on the window and thunder heard in the distance. The umbrella on the balcony is slightly swaying due to the wind. The scene remains static, with no characters present.",
+    "audio_prompt": [
+        "Rain falls and thunder roars"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

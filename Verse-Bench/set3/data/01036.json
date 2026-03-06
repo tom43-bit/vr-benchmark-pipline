@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman speaking in front of a blue curtain. She is wearing a black blouse and green pants, and her long brown hair is visible. She is gesturing with her hands as she speaks, and the speech content is 'They could just decide what to do with an afternoon'. The background is a simple blue curtain, and there are no other objects or characters present in the video.",
+    "audio_prompt": [
+        "A woman speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "They could just decide what to do with an afternoon"
+    }
+}

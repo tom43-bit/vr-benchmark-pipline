@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man and a dog walking through a snowy forest. The man is wearing a black jacket with a red backpack, and the dog is carrying a green bag in its mouth. The scene is calm and peaceful, with the sound of rain falling in the background. The forest is covered in snow, and the trees have some green leaves visible through the snow.",
+    "audio_prompt": [
+        "Rain falling on a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

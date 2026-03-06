@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a close-up of a pianist's hands playing a piano, with the focus on the movement and technique. The dark background and the presence of background music suggest a professional or artistic setting.",
+    "audio_prompt": [
+        "A piano is playing a melody"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

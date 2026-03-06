@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man sitting on a rock near a campfire, holding a glass bottle and drinking from it. The setting appears to be outdoors, possibly in a forest or camping area. The man is wearing a white t-shirt with a graphic design, black shorts, and black sneakers. The flames of the campfire are flickering, and the man appears to be enjoying the moment. The background includes a backpack and some rocks around the fire. The ambient sound includes the crackling of the campfire and the man drinking from the bottle.",
+    "audio_prompt": [
+        "Sizzling and crackling are present, and thumping occurs"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}
