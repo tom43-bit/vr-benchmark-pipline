@@ -1,11 +1,68 @@
 import torch
-import os
+import sys, os
 from vbench import VBench
 from vbench.distributed import dist_init, print0
 from datetime import datetime
 import argparse
 import json
 import torch.distributed as dist
+import gc, psutil
+
+
+def print_memory():
+    process = psutil.Process()
+    mem = process.memory_info()
+    print(f"RSS: {mem.rss / 1024**3:.2f} GB")
+    if torch.cuda.is_available():
+        print(f"GPU显存: {torch.cuda.memory_allocated() / 1024**3:.2f} GB")
+
+def cleanup_vbench_completely():
+    """彻底清理 VBench 相关的所有缓存和模块"""
+    
+    # 1. 查找并清理所有 vbench 模块的全局缓存
+    vbench_modules = [name for name in sys.modules if 'vbench' in name]
+    for module_name in vbench_modules:
+        module = sys.modules[module_name]
+        
+        # 常见的缓存变量名
+        cache_names = ['_MODEL_CACHE', '_CACHE', 'model_cache', 'MODELS', 'model_zoo']
+        for cache_name in cache_names:
+            if hasattr(module, cache_name):
+                print(f"清理 {module_name}.{cache_name}")
+                getattr(module, cache_name).clear()
+                delattr(module, cache_name)
+    
+    # 2. 强制垃圾回收
+    for _ in range(3):
+        gc.collect()
+    
+    # 3. 清空 CUDA 缓存
+    if torch.cuda.is_available():
+        torch.cuda.synchronize()
+        torch.cuda.empty_cache()
+        torch.cuda.ipc_collect()
+
+def cleanup_vbench(vbench_obj):
+    """递归删除 VBench 对象的所有属性"""
+    if vbench_obj is None:
+        return
+    
+    # 获取所有属性
+    for attr_name in dir(vbench_obj):
+        if attr_name.startswith('_'):
+            continue
+        try:
+            attr = getattr(vbench_obj, attr_name)
+            # 如果是模型对象，尝试删除
+            if 'model' in attr_name.lower() or 'net' in attr_name.lower():
+                if hasattr(attr, 'cpu'):
+                    attr.cpu()  # 确保在 CPU
+                del attr
+        except:
+            pass
+    
+    # 删除对象本身
+    del vbench_obj
 
 def parse_args():
 
@@ -113,6 +170,7 @@ def video_eval(args):
 
     print0(f'args: {args}')
     device = torch.device("cuda")
+    
     my_VBench = VBench(device, args.full_json_dir, args.output_path)
     
     print0(f'start evaluation')

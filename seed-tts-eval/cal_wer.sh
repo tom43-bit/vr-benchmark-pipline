@@ -13,13 +13,13 @@ python3 get_wav_res_ref_text.py $meta_lst $output_dir $wav_wav_text
 python3 prepare_ckpt.py
 
 timestamp=$(date +%s)
-thread_dir=/tmp/thread_metas_$timestamp/
+thread_dir=./seedtts_testset/thread/thread_metas_$timestamp/
 mkdir $thread_dir
 num_job=8
 num=`wc -l $wav_wav_text | awk -F' ' '{print $1}'`
-num_per_thread=`expr $num / $num_job + 1`
+num_per_thread= 1 #`expr $num / $num_job + 1`
 sudo split -l $num_per_thread --additional-suffix=.lst -d $wav_wav_text $thread_dir/thread-
-out_dir=/tmp/thread_metas_$timestamp/results/
+out_dir=./seedtts_testset/thread/thread_metas_$timestamp/results/
 mkdir $out_dir
 
 num_job_minus_1=`expr $num_job - 1`
