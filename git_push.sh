@@ -1,6 +1,6 @@
 #!/bin/bash
 # 文件名: git_push_advanced.sh
-# 功能: 高级Git提交脚本，支持选择性提交
+# 功能: 高级Git提交脚本，支持选择性提交，专为OVItest优化
 
 set -e
 
@@ -22,6 +22,7 @@ show_help() {
     echo "  -f, --force      强制推送"
     echo "  -b, --branch     指定分支"
     echo "  -d, --dry-run    试运行（不实际提交）"
+    echo "  -s, --set-upstream 设置上游分支"
     echo "  -h, --help       显示帮助"
 }
 
@@ -30,6 +31,7 @@ FORCE_PUSH=0
 DRY_RUN=0
 BRANCH=""
 COMMIT_MSG=""
+SET_UPSTREAM=0
 
 while [[ $# -gt 0 ]]; do
     case $1 in
@@ -49,6 +51,10 @@ while [[ $# -gt 0 ]]; do
             DRY_RUN=1
             shift
             ;;
+        -s|--set-upstream)
+            SET_UPSTREAM=1
+            shift
+            ;;
         -h|--help)
             show_help
             exit 0
@@ -62,7 +68,7 @@ while [[ $# -gt 0 ]]; do
 done
 
 echo -e "${BLUE}========================================${NC}"
-echo -e "${GREEN}Git 高级提交脚本${NC}"
+echo -e "${GREEN}Git 高级提交脚本 - OVItest 专用${NC}"
 echo -e "${BLUE}========================================${NC}"
 echo -e "仓库: $(pwd)"
 echo -e "分支: $(git branch --show-current)"
@@ -118,8 +124,47 @@ else
     echo -e "${GREEN}✓ 提交完成${NC}"
 fi
 
-# 7. 拉取更新
-echo -e "\n${YELLOW}7. 拉取远程更新...${NC}"
+# 7. 检查并设置上游分支
+echo -e "\n${YELLOW}7. 检查上游分支...${NC}"
+CURRENT_BRANCH=$(git branch --show-current)
+
+# 检查是否有上游分支
+if ! git rev-parse --abbrev-ref --symbolic-full-name @{u} >/dev/null 2>&1; then
+    echo -e "${YELLOW}当前分支 '$CURRENT_BRANCH' 没有设置上游分支${NC}"
+    
+    # 如果指定了分支，使用指定的
+    if [ ! -z "$BRANCH" ]; then
+        REMOTE_BRANCH="$BRANCH"
+    else
+        # 尝试常见的远程分支名
+        for remote_branch in main master develop; do
+            if git show-ref --verify --quiet refs/remotes/origin/$remote_branch; then
+                REMOTE_BRANCH=$remote_branch
+                break
+            fi
+        done
+    fi
+    
+    if [ ! -z "$REMOTE_BRANCH" ]; then
+        echo -e "${GREEN}找到远程分支: origin/$REMOTE_BRANCH${NC}"
+        if [ $SET_UPSTREAM -eq 1 ] || [ $DRY_RUN -eq 0 ]; then
+            echo -e "${YELLOW}设置上游分支: origin/$REMOTE_BRANCH${NC}"
+            git branch --set-upstream-to=origin/$REMOTE_BRANCH $CURRENT_BRANCH
+            echo -e "${GREEN}✓ 上游分支设置完成${NC}"
+        else
+            echo -e "${YELLOW}[试运行] 将设置上游分支: origin/$REMOTE_BRANCH${NC}"
+        fi
+    else
+        echo -e "${RED}✗ 未找到远程分支，请手动指定: git branch --set-upstream-to=origin/<branch>${NC}"
+        exit 1
+    fi
+else
+    UPSTREAM=$(git rev-parse --abbrev-ref --symbolic-full-name @{u})
+    echo -e "${GREEN}✓ 上游分支已设置: $UPSTREAM${NC}"
+fi
+
+# 8. 拉取更新
+echo -e "\n${YELLOW}8. 拉取远程更新...${NC}"
 if [ $DRY_RUN -eq 1 ]; then
     echo -e "${YELLOW}[试运行] git pull --rebase${NC}"
 else
@@ -127,36 +172,43 @@ else
         echo -e "${GREEN}✓ 拉取完成${NC}"
     else
         echo -e "${RED}✗ 拉取失败，请手动解决冲突${NC}"
+        echo -e "${YELLOW}提示: 可能需要手动运行: git pull origin $REMOTE_BRANCH${NC}"
         exit 1
     fi
 fi
 
-# 8. 推送
-echo -e "\n${YELLOW}8. 推送到远程...${NC}"
+# 9. 推送
+echo -e "\n${YELLOW}9. 推送到远程...${NC}"
 PUSH_CMD="git push"
 if [ ! -z "$BRANCH" ]; then
     PUSH_CMD="$PUSH_CMD origin $BRANCH"
 fi
 if [ $FORCE_PUSH -eq 1 ]; then
     PUSH_CMD="$PUSH_CMD --force"
+    echo -e "${RED}警告: 使用强制推送可能会覆盖远程修改！${NC}"
 fi
 
 if [ $DRY_RUN -eq 1 ]; then
     echo -e "${YELLOW}[试运行] $PUSH_CMD${NC}"
 else
+    echo -e "${YELLOW}执行: $PUSH_CMD${NC}"
     if $PUSH_CMD; then
         echo -e "${GREEN}✓ 推送完成${NC}"
     else
         echo -e "${RED}✗ 推送失败${NC}"
+        echo -e "${YELLOW}提示: 如果是因为没有上游分支，请添加 -s 参数:${NC}"
+        echo -e "${YELLOW}  ./git_push_advanced.sh -m \"$COMMIT_MSG\" -s${NC}"
         exit 1
     fi
 fi
 
-# 9. 显示结果
+# 10. 显示结果
 echo -e "\n${BLUE}========================================${NC}"
 echo -e "${GREEN}✓ 操作成功完成！${NC}"
 echo -e "${BLUE}========================================${NC}"
 echo -e "提交信息: $COMMIT_MSG"
+echo -e "分支: $CURRENT_BRANCH"
+echo -e "远程分支: $(git rev-parse --abbrev-ref --symbolic-full-name @{u} 2>/dev/null || echo '未设置')"
 echo -e "最新提交:"
 git log --oneline -3
 echo -e "${BLUE}========================================${NC}"
