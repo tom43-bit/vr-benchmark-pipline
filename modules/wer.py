@@ -127,8 +127,9 @@ def process_one(hypo, truth):
 def calculate_wer(video_path,video_list,dialogue_dict,result_csv):
     processor, model = load_en_model()
     for video in tqdm(video_list):
+        #计算wer一系参数
         dialogue = ' '.join(dialogue_dict[video]['dialogue'])
-        print(dialogue)
+        #print(dialogue)
         total_path = os.path.join(video_path,video)
         #wav, sr = extract_audio_from_mp4(mp4_path = total_path)
         wav, sr = extract_audio_with_tempfile(mp4_path = total_path)
@@ -141,8 +142,11 @@ def calculate_wer(video_path,video_list,dialogue_dict,result_csv):
         forced_decoder_ids = processor.get_decoder_prompt_ids(language="english", task="transcribe")
         predicted_ids = model.generate(input_features, forced_decoder_ids=forced_decoder_ids)
         transcription = processor.batch_decode(predicted_ids, skip_special_tokens=True)[0]
+        #print(f"+++++++++++++++++++++transcription++++++++++++++++++++++\n{transcription}\n+++++++++++++++++++++dialogue++++++++++++++++++++++\n{dialogue}")
         raw_truth, raw_hypo, wer, subs, dele, inse = process_one(transcription, dialogue)
         result_csv.loc[result_csv['video_name'] == video,'wer'] = wer 
         result_csv.loc[result_csv['video_name'] == video,'subs'] = subs
         result_csv.loc[result_csv['video_name'] == video,'dele'] = dele
         result_csv.loc[result_csv['video_name'] == video,'inse'] = inse  
+
+        

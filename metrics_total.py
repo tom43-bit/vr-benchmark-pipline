@@ -2,7 +2,9 @@ import modules.read_csv as my_csv
 import modules.video_eval as video_eval
 import modules.args as my_args
 import modules.wer as wer
-import os
+
+import subprocess
+import os,sys
 import torch
 from vbench import VBench
 from vbench.distributed import dist_init, print0
@@ -17,6 +19,8 @@ import psutil
 import multiprocessing
 import pickle
 import queue
+import base64
+import cloudpickle
 
 # 设置显示选项，显示所有行和列
 pd.set_option('display.max_rows', None)  # 显示所有行
@@ -25,6 +29,109 @@ pd.set_option('display.width', None)  # 自动检测宽度
 pd.set_option('display.max_colwidth', None)  # 显示完整单元格内容
 
 torch.serialization.add_safe_globals([OrderedDict])
+
+def run_av_bench_in_base(video_list, video_dict, video_path, output_cache_path, unpaired=False, if_ref_video=False, if_ref_audio=False):
+    """在 base 环境中启动子进程执行（只传字典）"""
+    print("正在 base 环境中启动子进程...")
+    
+    # 只打包数据字典
+    data = {
+        'video_list': video_list,
+        'video_dict': video_dict,
+        'video_path': video_path,
+        'output_cache_path': output_cache_path,
+        'unpaired': unpaired,
+        'if_ref_video': if_ref_video,
+        'if_ref_audio': if_ref_audio
+    }
+    
+    # 序列化字典
+    serialized_data = base64.b64encode(cloudpickle.dumps(data)).decode()
+    
+    # 在子进程中重新定义函数
+    script = f"""
+import base64
+import cloudpickle
+import sys
+import os
+from pathlib import Path
+
+# 添加项目路径
+sys.path.append('/nfs/xtjin/benchmark')
+
+# 反序列化数据字典
+serialized_data = base64.b64decode({repr(serialized_data)})
+data = cloudpickle.loads(serialized_data)
+
+print("[base环境子进程] 开始执行...")
+
+# 导入必要的模块
+import modules.extract_modality as extract
+from av_bench.evaluate import evaluate
+
+print(data['video_list'])
+video_paths = [os.path.join(data['video_path'],f) for f in data['video_list'] if f.endswith('.mp4')]
+print(video_paths)
+# 提取特征
+extract.extract_all_features(
+    video_list=data['video_list'],
+    video_dict=data['video_dict'],
+    video_path=data['video_path'],
+    output_cache_path=data['output_cache_path'],
+    if_ref_video=data['if_ref_video'],
+    if_ref_audio=data['if_ref_audio']
+)
+
+num_samples = 1
+gt_cache = Path(os.path.join(data['output_cache_path'],'gt_cache'))
+pred_cache = Path(os.path.join(data['output_cache_path'],'pred_cache'))
+
+# 评估，返回字典
+output_metrics = evaluate(
+    gt_audio_cache=gt_cache,
+    pred_audio_cache=pred_cache,
+    num_samples=num_samples,
+    is_paired=not data['unpaired']
+)
+
+# 直接序列化结果字典
+result_bytes = base64.b64encode(cloudpickle.dumps(output_metrics)).decode()
+print("__RESULT__:" + result_bytes)
+"""
+    
+    # 在 base 环境中执行
+    cmd = ['conda', 'run', '-n', 'base', 'python', '-c', script]
+    
+    try:
+        
+        proc = subprocess.run(cmd, capture_output=True, text=True, timeout=7200)
+
+        # 打印子进程的所有输出
+        if proc.stdout:
+            print("子进程输出:")
+            print(proc.stdout)
+        
+        if proc.returncode != 0:
+            print(f" 子进程执行失败，错误码: {proc.returncode}")
+            print(f"错误输出: {proc.stderr}")
+            return None
+        
+        # 解析结果
+        for line in proc.stdout.split('\n'):
+            if line.startswith('__RESULT__:'):
+                result_data = line[11:]
+                return cloudpickle.loads(base64.b64decode(result_data))
+        
+        print("子进程输出:")
+        print(proc.stdout)
+        return None
+        
+    except subprocess.TimeoutExpired:
+        print(" 子进程执行超时")
+        return None
+    except Exception as e:
+        print(f" 执行出错: {e}")
+        return None
 
 def calculate_wer_average_exclude_total(df, metrics, total_identifier='total_datas', video_col='video_name'):
     
@@ -105,8 +212,11 @@ if __name__ == '__main__':
     video_path = '/nfs/xtjin/benchmark/datas/outputs'
     prompt_path = '/nfs/xtjin/benchmark/datas/prompts/TI2AV_ref_remin1.csv'
     mode_list = ['subject_consistency', 'background_consistency', 'motion_smoothness', 'dynamic_degree', 'aesthetic_quality', 'imaging_quality']
-    metrics_list = ['wer','subs','dele','inse','FD_VGG','FD_PANN','FD_PASST','KL-PANNS-softmax','KL-PASST-softmax','ISC-PANNS-mean/std',
-                    'ISC-PASST-mean/std','IB-Score','DeSync','LAION-CLAP-Score','MS-CLAP-Score']
+    metrics_list = ['wer','subs','dele','inse','FD_VGG','FD_PANN','FD_PASST','KL-PANNS-softmax','KL-PASST-softmax','ISC-PANNS-mean','ISC-PANNS-std',
+                    'ISC-PASST-mean','ISC-PASST-std','IB-Score','DeSync','LAION-CLAP-Score','MS-CLAP-Score']
+    output_cache_path = '/nfs/xtjin/benchmark/feature_cache'
+    if_ref_video=False
+    if_ref_audio=False
 
     video_list, video_dict = my_csv.video_info(video_path,prompt_path)
     result_csv = pd.DataFrame(columns=(['video_name'] + mode_list + metrics_list))
@@ -127,6 +237,18 @@ if __name__ == '__main__':
     new_row_list[video_col_index] = 'total_datas'
     new_row_tuple = tuple(new_row_list)
     result_csv.loc[len(result_csv)] = new_row_tuple
+
+    metrics_dict = run_av_bench_in_base(video_list = video_list, video_dict = video_dict, video_path = video_path, output_cache_path = output_cache_path, unpaired=False,
+                                        if_ref_video=if_ref_video,if_ref_audio=if_ref_video)
+    if if_ref_audio:
+        for i in ['FD_VGG','FD_PANN','FD_PASST','KL-PANNS-softmax','KL-PASST-softmax','ISC-PANNS-mean/std',
+                    'ISC-PASST-mean/std','IB-Score','DeSync','LAION-CLAP-Score','MS-CLAP-Score']:
+            result_csv.iloc[-1, result_csv.columns.get_loc(i)] = metrics_dict[i]
+    else:
+        for i in ['ISC-PANNS-mean','ISC-PANNS-std','ISC-PASST-mean','ISC-PASST-std','IB-Score','DeSync','LAION-CLAP-Score','MS-CLAP-Score']:
+            result_csv.iloc[-1, result_csv.columns.get_loc(i)] = metrics_dict[i]
+
+    print(result_csv.iloc[-1])
 
     parser_eval = my_args.parse_args()
     print_memory()
@@ -165,13 +287,11 @@ if __name__ == '__main__':
         print(df)
         """
 
-    print_memory()
-    gc.collect()
-    torch.cuda.empty_cache()
-    print_memory()
-
     wer.calculate_wer(video_path,video_list,video_dict,result_csv)
 
+    wer_means = result_csv.iloc[-1][['wer','subs','dele','inse']].mean()
+    result_csv.loc[result_csv.index[-1],['wer','subs','dele','inse']] = wer_means
+    result_csv.to_csv('eval_results.csv', index=False)
     print(result_csv)
 
 

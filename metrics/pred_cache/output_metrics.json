@@ -1,15 +1,10 @@
 {
-    "FD-VGG": -2.9893496709121337e-06,
-    "FD-PANN": -1,
-    "FD-PASST": -1,
-    "KL-PANNS-softmax": 0.0,
-    "KL-PASST-softmax": 0.0,
     "ISC-PANNS-mean": NaN,
     "ISC-PANNS-std": NaN,
     "ISC-PASST-mean": NaN,
     "ISC-PASST-std": NaN,
-    "IB-Score": 0.3298874497413635,
+    "IB-Score": 0.3148989975452423,
     "DeSync": 0.0,
-    "LAION-CLAP-Score": -0.06404750049114227,
-    "MS-CLAP-Score": 0.0030847564339637756
+    "LAION-CLAP-Score": -0.057409629225730896,
+    "MS-CLAP-Score": 0.0030847666785120964
 }

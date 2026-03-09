@@ -52,6 +52,7 @@ def extract(args):
         caption = row['caption']
 
         text_data = [caption]
+        print(text_data)
         text_embed = laion_clap_model.get_text_embedding(text_data, use_tensor=True)
         all_laion_clap[name] = text_embed.cpu().squeeze()
 

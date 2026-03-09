@@ -161,8 +161,6 @@ def extract(args):
 
         ib_features = cmp_encode_video_with_imagebind(imagebind, ib_video)
 
-        print(prof.key_averages().table(sort_by="cuda_time_total", row_limit=50))
-
         sync_features = sync_features.cpu().detach()
         ib_features = ib_features.cpu().detach()
 

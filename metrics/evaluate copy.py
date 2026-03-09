@@ -70,7 +70,7 @@ def main(args):
     log.info(f'Unpaired: {unpaired}')
 
     # extract for GT if needed
-    if (gt_cache / 'passt_features_embed.pth').exists() or recompute_gt_cache:
+    if not (gt_cache / 'passt_features_embed.pth').exists() or recompute_gt_cache:
         log.info('Extracting GT cache...')
         if gt_audio is None:
             raise ValueError('Must specify gt_audio to compute gt_cache')

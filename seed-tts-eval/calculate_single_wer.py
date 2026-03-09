@@ -12,7 +12,7 @@ from zhon.hanzi import punctuation
 import string
 
 # 设置参数
-wav_path = "/nfs/xtjin/benchmark/seed-tts-eval/seedtts_testset/test/wavs/output.wav"
+wav_path = "/nfs/xtjin/benchmark/seed-tts-eval/seedtts_testset/test/wavs/row4.wav"
 reference_text = "You trust me. I trust you, right? This is the guy. THIS IS THE GUY!"
 lang = "en"
 device = "cuda:0"

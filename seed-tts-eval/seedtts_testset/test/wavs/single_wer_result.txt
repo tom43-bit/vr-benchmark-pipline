@@ -1,7 +1,7 @@
-音频文件: /nfs/xtjin/benchmark/seed-tts-eval/seedtts_testset/test/wavs/output.wav
+音频文件: /nfs/xtjin/benchmark/seed-tts-eval/seedtts_testset/test/wavs/row4.wav
 参考文本: You trust me. I trust you, right? This is the guy. THIS IS THE GUY!
-识别文本:  You trust me. I trust you, right? This is the guy. This is the guy.
-WER: 0.0000 (0.00%)
-Substitutions: 0.0000
-Deletions: 0.0000
+识别文本:  Trust me, I trust you, right? This is the guy. This is Jeff.
+WER: 0.2000 (20.00%)
+Substitutions: 0.0667
+Deletions: 0.1333
 Insertions: 0.0000

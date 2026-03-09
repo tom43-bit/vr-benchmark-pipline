@@ -51,7 +51,7 @@ def extract(audio_path: Path,
             skip_video_related: bool = False,
             skip_clap: bool = False):
 
-    audios = sorted(list(audio_path.glob('*.wav')) + list(audio_path.glob('*.flac')),
+    audios = sorted(list(audio_path.glob('*.wav')) + list(audio_path.glob('*.flac')) + list(audio_path.glob('*.mp4')),
                     key=lambda x: x.stem)
 
     log.info(f'{len(audios)} audios found in {audio_path}')
