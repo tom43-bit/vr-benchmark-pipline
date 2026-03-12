@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a group of men running together on a dirt path, with man3 slightly ahead of the others. The background features a dirt path surrounded by trees and a cloudy sky. The camera follows their movement, capturing their running pace and the surrounding environment. The ambient sounds include running sounds and wind.",
+    "audio_prompt": [
+        "A music is playing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

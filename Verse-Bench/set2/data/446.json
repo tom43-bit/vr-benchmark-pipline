@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man playing an acoustic guitar indoors. He is wearing a red jacket and gray pants. The camera focuses on his hands as he strums and presses the guitar strings, creating a musical melody. The background is a simple indoor setting with a neutral-colored wall and a curtain.",
+    "audio_prompt": [
+        "A guitar is being played on a guitar"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

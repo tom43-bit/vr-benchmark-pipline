@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a scene at a train station in India. A man walks past the train as it arrives, and the train conductor signals its imminent departure. Passengers are seen waiting on the platform. The train horn blares loudly, and the background chatter adds to the bustling atmosphere of the station.",
+    "audio_prompt": [
+        "A train horn honking as it passes by"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

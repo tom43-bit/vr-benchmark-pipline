@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person is playing the violin in a room with a fish tank, a blue cabinet, and a dog bed with a dog sleeping in it. The violinist is wearing a black shirt and has a focused expression. The background music is playing, and the room is silent except for the sound of the violin.",
+    "audio_prompt": [
+        "A violin is playing a melody"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

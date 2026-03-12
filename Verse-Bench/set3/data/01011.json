@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man in a cozy room, speaking into a microphone while wearing headphones. He appears to be recording or broadcasting, and his facial expressions change slightly as he speaks. The room has a warm and inviting atmosphere with wooden beams, a wall-mounted lamp, and a window with a plant on the sill.",
+    "audio_prompt": [
+        "A man is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "It's much harder when it's I'm in pain."
+    }
+}

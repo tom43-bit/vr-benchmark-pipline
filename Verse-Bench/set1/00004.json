@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a tense scene from a historical drama, where a middle-aged man, likely a high-ranking official or general, is delivering a stern warning to someone off-screen. The background is dimly lit with traditional Chinese architecture and torches, creating a dramatic and serious atmosphere. The soldiers holding torches stand silently, adding to the intensity of the scene. The sound of horses in the background suggests a military context, possibly a confrontation or a threat of violence.",
+    "audio_prompt": [
+        "The sound of horses"
+    ],
+    "speech_prompt": {
+        "speaker": "the middle-aged man",
+        "text": "Don’t think that I won’t do anything to you just because you are a general favored by the emperor. Get off your horse!"
+    }
+}

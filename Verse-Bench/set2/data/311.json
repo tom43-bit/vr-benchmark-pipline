@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is sitting in a forest, talking about the benefits of breath work. He is wearing a black t-shirt and gray pants, and the forest around him is lush and green with sunlight filtering through the leaves. The man gestures with his hands as he speaks, and at one point, he clasps his hands together.",
+    "audio_prompt": [
+        "A man is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "man",
+        "text": "I can't believe all this came through just doing breath work. So it's such a beautiful"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman in a leopard print coat speaking into a microphone with a green label that reads '金典 SATINE'. She is standing in front of a large screen displaying text, likely in a studio or event setting. The woman is addressing the camera or an audience, discussing her mother's comments about her age and her thoughts on Dilraba Dilmurat's marriage status. The scene is static with no significant movement or changes in the background.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "My mom always tells me that I am so old, if I don’t find a partner, how will I get married in the future? I told my mom how could Dilraba Dilmurat not get married."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a young, light-colored puppy sitting on a couch in an indoor setting. The puppy is wearing a red collar and is looking around, moving its head. The background includes a couch with a blanket and a toy. The audio contains a person saying 'It's a dog.'",
+    "audio_prompt": [
+        "A small dog whimpers"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

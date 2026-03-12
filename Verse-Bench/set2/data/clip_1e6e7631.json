@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A live performance by a female singer on stage, with a large audience in a stadium. The singer is wearing a yellow top and pink skirt, holding a microphone, and actively engaging with the audience while singing. The background features bright lights and a screen displaying 'Scottish Gas'. The atmosphere is energetic, with music and audience cheering.",
+    "audio_prompt": [
+        "Music is playing and a woman is singing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

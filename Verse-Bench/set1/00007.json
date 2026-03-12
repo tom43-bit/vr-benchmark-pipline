@@ -1,0 +1,10 @@
+{
+    "video_prompt": "An anime-style girl is sitting in a car, experiencing a stomachache and a painful expression. She then vomits, with the scene capturing her in the act of vomiting. The car interior is visible, and the ambient sounds include the sound of the car running and the sound of vomiting.",
+    "audio_prompt": [
+        "The sound of car running. The sound of vomiting."
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

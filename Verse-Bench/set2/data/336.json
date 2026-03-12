@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A hand is seen holding a collection of colorful marbles. The hand then releases the marbles, causing them to scatter across a light gray wooden floor. The marbles are of various colors, including blue, pink, yellow, and green. The scene is simple and focuses on the action of releasing the marbles.",
+    "audio_prompt": [
+        "Water is falling onto a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

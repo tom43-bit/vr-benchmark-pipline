@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman is giving a speech on a dark stage with purple lighting. She is wearing a purple sweater and a pearl necklace. The audience seating is visible in the background, but the focus is on the woman as she speaks into a microphone. The speech content is 'What's a busy psychiatrist to recommend?'",
+    "audio_prompt": [
+        "A woman speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Woman",
+        "text": "What's a busy psychiatrist to recommend?"
+    }
+}

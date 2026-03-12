@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts an astronaut floating in space, wearing a white spacesuit with NASA insignia and American flags on the arms. The astronaut is holding onto a piece of equipment, and the camera focuses on the astronaut, capturing the serene and awe-inspiring view of Earth below. The astronaut expresses a sense of contentment and admiration for the beauty of Earth. The ambient sound includes the sound of a lighter, smoking, and a sigh, adding to the atmosphere of the scene.",
+    "audio_prompt": [
+        "Sound of lighter, smoking, and sigh"
+    ],
+    "speech_prompt": {
+        "speaker": "the astronaut",
+        "text": "I feels good now. Our planet is so beautiful."
+    }
+}

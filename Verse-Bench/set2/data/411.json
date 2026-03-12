@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A small black cat with fluffy fur and green eyes is sitting on a concrete surface in a grassy area. The cat looks around and meows, moving its head and body. The background is a grassy area with some flowers and a blurred background. The ambient sound includes the cat meowing and some background noise.",
+    "audio_prompt": [
+        "A cat meows several times"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

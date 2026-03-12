@@ -1,0 +1,10 @@
+{
+    "video_prompt": "In this fantasy-themed video, Alice, dressed in a colorful clown costume, cautiously approaches a narrow doorway in a dark, gothic-style corridor. The Clown, also in a clown costume, stands in the doorway with a mischievous grin, watching Alice as she bends down to pass through the narrow space. The dim lighting and ornate stonework create a mysterious and slightly eerie atmosphere, while the sound of footsteps adds to the tension. Alice's speech, 'It is so narrow,' highlights her cautious approach as she navigates the tight space.",
+    "audio_prompt": [
+        "Sound of footsteps"
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "It is so narrow."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a formal graduation ceremony where a woman is delivering a speech about the world macroeconomic environment. The setting is simple, with a plain wall and a few other individuals in graduation attire standing in the background. The woman is standing at a podium, speaking into a microphone, while the other individuals observe attentively.",
+    "audio_prompt": [
+        "A woman giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker 1",
+        "text": "debates on the world macroeconomic environment that today so govern and impact"
+    }
+}

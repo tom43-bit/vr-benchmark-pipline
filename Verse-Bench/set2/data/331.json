@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures the process of cooking a dish in a frying pan. The pan is filled with boiling liquid, green vegetables, and meat pieces. The liquid is bubbling intensely, suggesting that the food is being cooked at a high temperature. The scene is set in a kitchen, with the stove and frying pan as the main focus. There are no characters or dialogue in the video, only the sound of boiling liquid.",
+    "audio_prompt": [
+        "Sizzling and crackling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

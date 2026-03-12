@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A worker is seen in a workshop environment, wearing a welding helmet and gloves, using a power tool to cut a piece of metal. Sparks fly as the tool makes contact with the metal, creating a dynamic and intense scene. The background shows various tools and equipment, indicating a busy and active workshop setting.",
+    "audio_prompt": [
+        "sound of the power tool cutting metal"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

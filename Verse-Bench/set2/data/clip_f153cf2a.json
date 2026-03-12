@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a nighttime scene on a rainy street, with the camera moving forward, capturing the reflections of the street lights on the wet road. The atmosphere is dark and moody, with occasional flashes of lightning illuminating the scene.",
+    "audio_prompt": [
+        "Heavy rain and thunder"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

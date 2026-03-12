@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a moment of preparation in a lively setting, with the girl adjusting her headset and focusing on the microphone. The background is filled with colorful lights, enhancing the vibrant atmosphere. The girl's actions and the ambient sound of happy pop music contribute to the overall energetic and engaging scene.",
+    "audio_prompt": [
+        "The sound of very happy pop music is playing in the background."
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

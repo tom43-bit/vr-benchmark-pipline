@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man sitting in a chair, speaking about building confidence from positive comments. He is dressed in a black jacket, white shirt, and gray pants, and is using hand gestures to communicate. The background is black with a TED logo visible, indicating a formal or professional setting.",
+    "audio_prompt": [
+        "A man is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Man",
+        "text": "I start to create my foundation of confidence from those positive comments."
+    }
+}

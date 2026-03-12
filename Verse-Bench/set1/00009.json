@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man with curly hair and glasses, surrounded by a variety of colorful flowers. He is speaking, expressing his determination not to forsake his professor and his willingness to face a problem he must eventually deal with. The scene is filled with vibrant flowers, creating a visually rich and dynamic environment.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "I won't forsake my professor, nor do I intend to run from a problem that I must face sooner or later. Give me one night to make my decision."
+    }
+}

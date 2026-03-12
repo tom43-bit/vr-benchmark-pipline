@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman speaking about a human-scale mock-up of a space habitat that was brought on a road show across the country. She is wearing a black dress and standing in front of a blue curtain. The woman is gesturing with her hands while speaking.",
+    "audio_prompt": [
+        "A woman speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "And last year, we built a human-scale mock-up of our space habitat, and we brought it on a road show across the country."
+    }
+}

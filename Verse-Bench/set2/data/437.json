@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures the dramatic moment of a rocket launch, with the rocket ascending into the sky amidst a cloud of fire and smoke. The scene is set against a clear sky, emphasizing the power and scale of the launch.",
+    "audio_prompt": [
+        "An explosion is going off in the distance"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

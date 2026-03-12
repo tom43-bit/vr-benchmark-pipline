@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video captures a scene on a ring road where the left lane is congested due to a traffic jam, causing drivers to honk impatiently. The right lane remains clear, providing a stark contrast to the left. The background features a cityscape with tall buildings and a clear sky during sunset, adding a serene backdrop to the otherwise tense traffic situation.",
+    "audio_prompt": [
+        "Car horns",
+        "Sound of passing cars"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

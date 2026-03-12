@@ -1,0 +1,10 @@
+{
+    "video_prompt": "An older man with long gray hair, wearing a white shirt and glasses, is playing a saxophone in front of a stone building with an arched doorway and a plaque on the wall. The camera is rotating around him, capturing different angles of his performance. The ambient sound is the sound of SACHS music. There are a few people in the background, one wearing a red cap and another wearing a blue cap.",
+    "audio_prompt": [
+        "Sound of SACHS music"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

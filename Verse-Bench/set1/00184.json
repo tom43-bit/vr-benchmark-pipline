@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is sitting at a table with a laptop, looking directly at the camera with a slight smile, and speaking. He is wearing a blue and white checkered shirt over a white t-shirt, glasses, and a gray chair behind him. The background is a plain white background, a gray chair, and a wooden table with a laptop on it. The man is speaking about taking on a big case and feeling a little uneasy about handling it well.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "I took on a big case today, and I'm still a little uneasy. I'm not sure if I can handle it well."
+    }
+}

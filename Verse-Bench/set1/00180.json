@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts an old man sitting on a sandy beach, sharing a local legend about deceased relatives appearing on the beach during low tide. The scene is set against a backdrop of the vast ocean, with the tide receding and the sound of the waves providing a serene yet somber atmosphere.",
+    "audio_prompt": [
+        "The sound of the tide receding"
+    ],
+    "speech_prompt": {
+        "speaker": "the old man",
+        "text": "There is story in my town. When the tide recedes, your deceased relatives may appear along the beach and stay there for one night."
+    }
+}

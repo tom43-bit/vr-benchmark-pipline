@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A black steam locomotive is moving along a set of railroad tracks in a rural setting. The train is emitting black smoke as it travels forward. The background features green grass, trees, and a clear blue sky with white clouds. The ambient sounds include the steam whistle and the clickety-clack of the train wheels on the tracks.",
+    "audio_prompt": [
+        "A steam engine is chugging along and a train whistle blows"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

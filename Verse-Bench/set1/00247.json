@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a moment of a female cheerleader in a stadium setting, wearing a red and black sequined outfit with a matching headband. She has long dark hair and white nail polish. The cheerleader is standing and appears to be preparing for a performance or event, possibly dancing or performing a routine. The background shows a stadium setting with spectators in the stands, a scoreboard, and a blue floor. The ambient sound is the sound of pop music.",
+    "audio_prompt": [
+        "Sound of pop music"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

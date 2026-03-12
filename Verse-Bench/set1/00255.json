@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman is cleaning the kitchen stove with a sponge, wearing a white long-sleeve shirt, a gray apron, and pink rubber gloves. The kitchen is modern with white cabinets, a sink, and various kitchen utensils and appliances. The woman is focused on her task, moving the sponge around the stove burner. The ambient sound includes the sound of water running in the sink and the clinking of dishes.",
+    "audio_prompt": [
+        "The sound of water running in the sink, the clinking of dishes"
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "It is so clear. I can see my reflection in it."
+    }
+}

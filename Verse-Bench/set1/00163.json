@@ -1,0 +1,8 @@
+{
+    "video_prompt": "The video features a close-up of an old radio with a wooden casing and a fabric-covered front panel. The camera zooms in on the radio, highlighting its intricate details and vintage design. The background is a simple, neutral-toned wooden surface, providing a warm and nostalgic atmosphere. There is no speech or ambient sound in the video.",
+    "audio_prompt": [],
+    "speech_prompt": {
+        "speaker": "the old radio",
+        "text": "突发！今天早上九点十五分，一个不明飞行物从东海上空飞入上海领空。有关部门在正密切关注"
+    }
+}

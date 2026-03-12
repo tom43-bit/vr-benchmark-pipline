@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man wearing a green hooded cloak is kneeling in the snow, looking down. A black dog with wet fur is standing nearby. The background is snowy with scattered leaves and wooden sticks, and a tarp is on the ground. The man is speaking, saying 'It's raining.'",
+    "audio_prompt": [
+        "Rain is falling and a dog barks"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

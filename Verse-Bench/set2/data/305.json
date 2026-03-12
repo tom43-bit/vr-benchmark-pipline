@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a serene scene of rain falling in a forest. The camera focuses on the raindrops hitting the ground, creating small splashes. The background shows trees and greenery, indicating a natural setting. The sound of rain and wind adds to the peaceful ambiance.",
+    "audio_prompt": [
+        "Rain falling on a surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

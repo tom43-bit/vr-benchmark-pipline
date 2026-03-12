@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking about the impact of Kickstarter on funding new ideas. He is dressed in a black shirt and glasses, and is using a microphone. The background is a simple blue curtain, and there are no other characters or objects present. The man's gestures and facial expressions suggest he is engaged in delivering an informative speech.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "After Kickstarter, millions of people have exchanged billions of dollars in support of new ideas."
+    }
+}

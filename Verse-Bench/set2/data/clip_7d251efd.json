@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is seen in a rustic wooden interior, placing a wooden plank into a stove and adjusting it. He then sits on a wooden bench and leans over the stove, possibly tending to it. The background features wooden walls, a shelf with a kettle, and logs on the floor. The scene is quiet except for the sound of applause.",
+    "audio_prompt": [
+        "A click and then a whoosh"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

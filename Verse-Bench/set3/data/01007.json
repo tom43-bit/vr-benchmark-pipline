@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman speaking on stage, likely delivering a presentation or lecture. She is dressed in a white shirt and black jacket, and her gestures suggest she is emphasizing the importance of the process in achieving results. The background is simple and professional, with a blue backdrop and a large circular design.",
+    "audio_prompt": [
+        "A woman speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Woman",
+        "text": "The process is as important as the end result."
+    }
+}

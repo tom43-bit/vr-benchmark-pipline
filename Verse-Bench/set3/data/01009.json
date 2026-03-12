@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is giving a speech on a stage, gesturing with his hands and speaking about something that can be written down or kept in one's head. The background includes a drum set and a whiteboard with the text 'STAY CURIOUS LONGER'.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "This is the real thing, so actually think of something you can write it down if you want or you can just keep it in your head"
+    }
+}

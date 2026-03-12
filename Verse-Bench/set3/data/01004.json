@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking on a stage, likely delivering a speech or presentation. He is dressed in a gray polo shirt with white stripes on the sleeves and is gesturing with his hands while speaking. The background is dark with blurred lights and structures, suggesting an indoor event setting.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "I'm here to help me is the great Wendy Whalen."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A young man is playing an acoustic guitar in a room with blue walls, two large speakers, and string lights in the background. He is wearing glasses, a maroon shirt, and a white undershirt. The video focuses on his hands moving along the fretboard and strumming the strings, with background music and guitar strumming audible.",
+    "audio_prompt": [
+        "A guitar is being played"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

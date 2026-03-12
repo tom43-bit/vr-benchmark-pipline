@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a close-up view of intense flames burning, with the sound of burning wood providing an ambient backdrop. The flames are dynamic, with visible movement and flickering, creating a vivid and dramatic scene.",
+    "audio_prompt": [
+        "The sound of burning wood"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

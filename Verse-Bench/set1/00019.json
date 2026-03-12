@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene and intimate moment of a woman playing the piano in a cozy, well-decorated room. Her focused and graceful performance is highlighted by the soft sound of the piano and the warm ambiance created by the red roses and the framed picture of a rabbit.",
+    "audio_prompt": [
+        "Sound of piano"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman in a red sweater speaking directly to the camera in a cozy indoor setting. She is discussing how to practice speaking and talking skills in public. The background includes a couch, a plant, and some decorative lights, creating a warm and inviting atmosphere. The woman's gestures and facial expressions add emphasis to her speech, making the video engaging and informative.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "Hello everybody. And today we are making another video how to practice you speaking and talking skills in public"
+    }
+}

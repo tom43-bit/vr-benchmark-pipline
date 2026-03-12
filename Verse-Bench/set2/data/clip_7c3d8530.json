@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man in a forest, shirtless and holding a small fish. He appears to be examining the fish closely. The background is a dense forest with green foliage and trees. The ambient sounds include crickets chirping and rustling leaves. The man's actions are minimal, primarily focused on holding and looking at the fish.",
+    "audio_prompt": [
+        "Crickets chirp in the distance, followed by a person breathing heavily and crickets chirping"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

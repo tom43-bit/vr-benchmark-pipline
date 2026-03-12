@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is playing an accordion in a room. He is wearing a red cap with 'MOTUL' written on it, a blue shirt, green pants, and black sandals. The room has a wooden floor, a white door, and a sink. The man is focused on playing the accordion, moving his fingers on the keys and buttons. The background music is from the accordion.",
+    "audio_prompt": [
+        "music from the accordion"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

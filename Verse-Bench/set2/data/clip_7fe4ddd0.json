@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene winter scene with a white wolf howling in a snowy landscape. The wolf's thick, fluffy fur contrasts with the cold, white snow, and its howling adds a sense of emotion and communication to the scene. The background features trees and rocks, enhancing the natural setting. The ambient sound of the wolf's howling and the wind contribute to the overall peaceful and cold atmosphere.",
+    "audio_prompt": [
+        "A wolf howls loudly"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

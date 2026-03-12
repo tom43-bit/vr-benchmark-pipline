@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman on a stage, likely giving a presentation or speech. She is wearing a colorful patterned dress, has a microphone headset, and is holding a remote control. The background is a stage with a blue and red abstract design, indicating a formal or professional setting. The woman is speaking and gesturing with her hands, suggesting she is engaged in delivering her message.",
+    "audio_prompt": [
+        "A woman is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "And I encountered the first Israeli who is not a soldier."
+    }
+}

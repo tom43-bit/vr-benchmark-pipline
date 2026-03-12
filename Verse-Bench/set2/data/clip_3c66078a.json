@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman is preparing firewood in a grassy field. She is squatting and using a knife to cut grass and prepare firewood. The background is a natural setting with trees and bushes. The ambient sounds include birds chirping and leaves rustling.",
+    "audio_prompt": [
+        "Birds chirping and leaves rustling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

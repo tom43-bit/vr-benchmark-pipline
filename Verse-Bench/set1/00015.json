@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a woman in a casual dining setting, eating and speaking to the camera with a mix of curiosity and concern. The scene is set indoors, with a focus on the woman's actions and expressions. The background includes other diners and ambient sounds of a restaurant.",
+    "audio_prompt": [
+        "The sound of cutlery and dishes, faint conversation in the background"
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "You've been staring at me for a long time. What's the matter? Are you interested in me and want to do something bad to me?"
+    }
+}

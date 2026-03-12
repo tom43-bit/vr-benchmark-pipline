@@ -1,0 +1,10 @@
+{
+    "video_prompt": "Donald Trump is giving a speech at Liberty University, wearing a blue suit and a red tie, standing at a podium with a microphone. He is speaking and gesturing with his hands, and the camera remains focused on him. The background is a blue background with the words 'LIBERTY UNIVERSITY' in large letters, and a pattern of stars. There are no ambient sounds mentioned.",
+    "audio_prompt": [
+        "A man giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Donald Trump",
+        "text": "It was great. I have great relationships with Mexico, with the Mexican people."
+    }
+}

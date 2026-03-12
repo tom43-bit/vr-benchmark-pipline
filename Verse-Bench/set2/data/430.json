@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a yellow bird perched on a wooden stick within a cage, set against a blurred green background. The bird occasionally moves its head and beak, creating a peaceful and natural atmosphere.",
+    "audio_prompt": [
+        "A bird is chirping"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man with curly hair and a beard is sitting on a couch, playing an acoustic guitar. He is focused on his performance, strumming the guitar with his right hand while holding the neck with his left hand. The setting is a cozy indoor space with a table in the background that has books and a cup on it. The ambient sound is the sound of the guitar being played.",
+    "audio_prompt": [
+        "Sound of guitar"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

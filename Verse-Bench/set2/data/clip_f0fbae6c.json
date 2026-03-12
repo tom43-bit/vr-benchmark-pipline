@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A group of people are running on a red road with trees and rivers on both sides. There are mountains and sky in the distance, and the video is accompanied by background music.",
+    "audio_prompt": [
+        "Rain is falling on a surface and music is playing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person typing on a retro-style keyboard with round keys. The person's hands are visible, and they have painted nails. The background is a wooden desk surface. The person is speaking, but the content of the speech is not clear. The typing sounds are audible throughout the video.",
+    "audio_prompt": [
+        "Typing on a computer keyboard"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

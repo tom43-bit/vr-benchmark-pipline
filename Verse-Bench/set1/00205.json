@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a scene of two firefighters actively working to extinguish a large fire. Firefighter 1 is using a fire extinguisher, while Firefighter 2 observes and assists. The background is filled with intense flames and smoke, emphasizing the urgency and danger of the situation. The sound of the fire and the fire extinguisher adds to the realism of the scene.",
+    "audio_prompt": [
+        "Sound of flames and fire extinguisher"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

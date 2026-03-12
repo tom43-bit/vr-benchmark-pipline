@@ -1,0 +1,23 @@
+{
+    "motion_smoothness": [
+        0.9940359987966723,
+        [
+            {
+                "video_path": "/nfs/xtjin/eval_pipline/datas/outputs/row_4_A_dim,_cluttered_storage_space_lined_with_weathere_704x1280_42_3_20260209_090804.mp4",
+                "video_results": 0.9949109279798534
+            },
+            {
+                "video_path": "/nfs/xtjin/eval_pipline/datas/outputs/row_1_A_dim,_cluttered_storage_space_lined_with_weathere_704x1280_42_0_20260209_090759.mp4",
+                "video_results": 0.9931730222207781
+            },
+            {
+                "video_path": "/nfs/xtjin/eval_pipline/datas/outputs/row_3_A_dim,_cluttered_storage_space_lined_with_weathere_704x1280_42_2_20260209_090804.mp4",
+                "video_results": 0.9942845406358829
+            },
+            {
+                "video_path": "/nfs/xtjin/eval_pipline/datas/outputs/row_2_A_dim,_cluttered_storage_space_lined_with_weathere_704x1280_42_1_20260209_090757.mp4",
+                "video_results": 0.9937755043501743
+            }
+        ]
+    ]
+}

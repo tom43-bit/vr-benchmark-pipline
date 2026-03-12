@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts two elderly men playing table tennis indoors. The scene is set in a simple, well-lit room with wooden flooring and plain white walls. The men are dressed in matching blue jackets and black pants with white stripes. The video captures the moment Old Man 1 serves the ball, and Old Man 2 prepares to return it. The ambient sound of the table tennis ball bouncing and hitting the paddle adds to the realism of the scene.",
+    "audio_prompt": [
+        "Sound of table tennis ball bouncing and hitting the paddle."
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

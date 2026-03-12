@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene forest scene with a clear blue sky and trees with leaves in various shades of green, yellow, and red. The wind is blowing, causing the leaves to rustle gently. The camera remains stationary, providing a peaceful and tranquil view of the natural environment.",
+    "audio_prompt": [
+        "Wind blows and leaves rustle"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

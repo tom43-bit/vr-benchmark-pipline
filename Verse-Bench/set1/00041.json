@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman playing a traditional Chinese wind instrument called a suona. She is dressed in a traditional outfit with a pink and black color scheme. The setting is an indoor space with a wooden floor, a vase of flowers, and a curtain in the background. The woman is focused on playing the suona, holding it with both hands and blowing into it. The ambient sound is the sound of the suona being played.",
+    "audio_prompt": [
+        "Sound of suona"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a confident girl walking down a sunny urban street, engaging with the camera as she speaks. She is dressed in a stylish black outfit, and the background includes parked cars, buildings, and other pedestrians. The sound of an engine starting and occasional city noise adds to the urban atmosphere.",
+    "audio_prompt": [
+        "Sound of engine starts, footsteps, and occasional city noise."
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "Don't underestimate a small chip, it is actually as big as a mustard seed. Everything you have in your world, we have here"
+    }
+}

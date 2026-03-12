@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A little girl wearing a yellow hat and a white dress with colorful polka dots is standing in a field of purple flowers. She is looking at the camera and smiling. The background shows a scenic view of a town with buildings and greenery in the distance. The ambient sound is the sound of wind blowing through the flowers.",
+    "audio_prompt": [
+        "The sound of wind blowing through the flowers"
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "Mom, come here quickly. The flowers here are so beautiful."
+    }
+}

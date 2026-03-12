@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man wearing a red helmet, black jacket, and orange gloves is cutting a tree with a chainsaw in a forested area. The chainsaw's engine revs up as he starts cutting the tree.",
+    "audio_prompt": [
+        "A chainsaw is being used to cut a tree"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

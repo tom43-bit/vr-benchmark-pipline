@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a girl sitting on a red cushion, holding her arms crossed, and looking serious. She picks up a drink in a paper cup with a straw, takes a sip, and then puts the cup back down on the ground. The background is a plain, neutral-colored gradient, and the ambient sound is the sound of drinking water.",
+    "audio_prompt": [
+        "The sound of drinking water"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

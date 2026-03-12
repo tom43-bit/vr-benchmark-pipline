@@ -1,0 +1,802 @@
+{
+    "set3/01000.mp4": {
+        "url": "https://www.youtube.com/watch?v=-k-bg0q3NNw",
+        "source": "youtube",
+        "start_time": "00:03:49.728",
+        "end_time": "00:03:53.026",
+        "duration": "00:00:03.297",
+        "reference_frame_idx": 0
+    },
+    "set3/01001.mp4": {
+        "url": "https://www.youtube.com/watch?v=0-F3ufYQgNk",
+        "source": "youtube",
+        "start_time": "00:11:12.100",
+        "end_time": "00:11:18.033",
+        "duration": "00:00:05.933",
+        "reference_frame_idx": 0
+    },
+    "set3/01002.mp4": {
+        "url": "https://www.youtube.com/watch?v=0ZLLoNYEYfs",
+        "source": "youtube",
+        "start_time": "00:02:31.609",
+        "end_time": "00:02:39.075",
+        "duration": "00:00:07.465",
+        "reference_frame_idx": 0
+    },
+    "set3/01003.mp4": {
+        "url": "https://www.youtube.com/watch?v=1IAaKLAVysQ",
+        "source": "youtube",
+        "start_time": "00:09:22.562",
+        "end_time": "00:09:27.692",
+        "duration": "00:00:05.130",
+        "reference_frame_idx": 0
+    },
+    "set3/01004.mp4": {
+        "url": "https://www.youtube.com/watch?v=30SmyLqZ1vw",
+        "source": "youtube",
+        "start_time": "00:04:11.709",
+        "end_time": "00:04:16.756",
+        "duration": "00:00:05.046",
+        "reference_frame_idx": 0
+    },
+    "set3/01005.mp4": {
+        "url": "https://www.youtube.com/watch?v=3kkMPD744dY",
+        "source": "youtube",
+        "start_time": "00:01:00.975",
+        "end_time": "00:01:06.254",
+        "duration": "00:00:05.278",
+        "reference_frame_idx": 0
+    },
+    "set3/01006.mp4": {
+        "url": "https://www.youtube.com/watch?v=4fOWQfzWHbc",
+        "source": "youtube",
+        "start_time": "00:03:15.479",
+        "end_time": "00:03:22.439",
+        "duration": "00:00:06.960",
+        "reference_frame_idx": 0
+    },
+    "set3/01007.mp4": {
+        "url": "https://www.youtube.com/watch?v=4NzfiiMDtYo",
+        "source": "youtube",
+        "start_time": "00:08:41.480",
+        "end_time": "00:08:45.639",
+        "duration": "00:00:04.159",
+        "reference_frame_idx": 0
+    },
+    "set3/01008.mp4": {
+        "url": "https://www.youtube.com/watch?v=5GVqOpLDA8c",
+        "source": "youtube",
+        "start_time": "00:01:48.116",
+        "end_time": "00:01:52.291",
+        "duration": "00:00:04.175",
+        "reference_frame_idx": 0
+    },
+    "set3/01009.mp4": {
+        "url": "https://www.youtube.com/watch?v=5gVTwb3ebAI",
+        "source": "youtube",
+        "start_time": "00:10:55.196",
+        "end_time": "00:11:00.826",
+        "duration": "00:00:05.630",
+        "reference_frame_idx": 0
+    },
+    "set3/01010.mp4": {
+        "url": "https://www.youtube.com/watch?v=5MyCtvSBATI",
+        "source": "youtube",
+        "start_time": "00:02:34.463",
+        "end_time": "00:02:39.210",
+        "duration": "00:00:04.747",
+        "reference_frame_idx": 0
+    },
+    "set3/01011.mp4": {
+        "url": "https://www.youtube.com/watch?v=6cJViq5lGBw",
+        "source": "youtube",
+        "start_time": "00:18:26.605",
+        "end_time": "00:18:30.067",
+        "duration": "00:00:03.461",
+        "reference_frame_idx": 0
+    },
+    "set3/01012.mp4": {
+        "url": "https://www.youtube.com/watch?v=6kPHnl-RsVI",
+        "source": "youtube",
+        "start_time": "00:09:00.601",
+        "end_time": "00:09:03.639",
+        "duration": "00:00:03.038",
+        "reference_frame_idx": 0
+    },
+    "set3/01013.mp4": {
+        "url": "https://www.youtube.com/watch?v=6wCml0g2mRE",
+        "source": "youtube",
+        "start_time": "00:05:02.920",
+        "end_time": "00:05:07.360",
+        "duration": "00:00:04.439",
+        "reference_frame_idx": 0
+    },
+    "set3/01014.mp4": {
+        "url": "https://www.youtube.com/watch?v=7-svUM0cX78",
+        "source": "youtube",
+        "start_time": "00:02:09.067",
+        "end_time": "00:02:13.645",
+        "duration": "00:00:04.577",
+        "reference_frame_idx": 0
+    },
+    "set3/01015.mp4": {
+        "url": "https://www.youtube.com/watch?v=7Yhft2Tuyeg",
+        "source": "youtube",
+        "start_time": "00:03:49.604",
+        "end_time": "00:03:52.482",
+        "duration": "00:00:02.877",
+        "reference_frame_idx": 0
+    },
+    "set3/01016.mp4": {
+        "url": "https://www.youtube.com/watch?v=9IFo0WjDvL4",
+        "source": "youtube",
+        "start_time": "00:03:36.159",
+        "end_time": "00:03:40.840",
+        "duration": "00:00:04.680",
+        "reference_frame_idx": 0
+    },
+    "set3/01017.mp4": {
+        "url": "https://www.youtube.com/watch?v=ADAmTm_45uk",
+        "source": "youtube",
+        "start_time": "00:01:25.502",
+        "end_time": "00:01:31.257",
+        "duration": "00:00:05.755",
+        "reference_frame_idx": 0
+    },
+    "set3/01018.mp4": {
+        "url": "https://www.youtube.com/watch?v=aJVZQqAAlzw",
+        "source": "youtube",
+        "start_time": "00:07:48.814",
+        "end_time": "00:07:53.455",
+        "duration": "00:00:04.641",
+        "reference_frame_idx": 0
+    },
+    "set3/01019.mp4": {
+        "url": "https://www.youtube.com/watch?v=akXpn8xHwkY",
+        "source": "youtube",
+        "start_time": "00:01:49.719",
+        "end_time": "00:01:55.531",
+        "duration": "00:00:05.811",
+        "reference_frame_idx": 0
+    },
+    "set3/01020.mp4": {
+        "url": "https://www.youtube.com/watch?v=aZ5Kuowfc4g",
+        "source": "youtube",
+        "start_time": "00:02:00.748",
+        "end_time": "00:02:04.122",
+        "duration": "00:00:03.374",
+        "reference_frame_idx": 0
+    },
+    "set3/01021.mp4": {
+        "url": "https://www.youtube.com/watch?v=BeUTAFHlKQ0",
+        "source": "youtube",
+        "start_time": "00:02:35.280",
+        "end_time": "00:02:40.827",
+        "duration": "00:00:05.547",
+        "reference_frame_idx": 0
+    },
+    "set3/01022.mp4": {
+        "url": "https://www.youtube.com/watch?v=bRyFB4mQHzY",
+        "source": "youtube",
+        "start_time": "00:26:39.099",
+        "end_time": "00:26:42.566",
+        "duration": "00:00:03.466",
+        "reference_frame_idx": 0
+    },
+    "set3/01023.mp4": {
+        "url": "https://www.youtube.com/watch?v=C4QMPhiF_as",
+        "source": "youtube",
+        "start_time": "00:00:27.444",
+        "end_time": "00:00:31.448",
+        "duration": "00:00:04.003",
+        "reference_frame_idx": 0
+    },
+    "set3/01024.mp4": {
+        "url": "https://www.youtube.com/watch?v=caNLVaD25pU",
+        "source": "youtube",
+        "start_time": "00:02:57.677",
+        "end_time": "00:03:03.808",
+        "duration": "00:00:06.131",
+        "reference_frame_idx": 0
+    },
+    "set3/01025.mp4": {
+        "url": "https://www.youtube.com/watch?v=cTnPqgL8ZPs",
+        "source": "youtube",
+        "start_time": "00:04:04.140",
+        "end_time": "00:04:10.016",
+        "duration": "00:00:05.876",
+        "reference_frame_idx": 0
+    },
+    "set3/01026.mp4": {
+        "url": "https://www.youtube.com/watch?v=D3I8ZeiLX2s",
+        "source": "youtube",
+        "start_time": "00:02:12.765",
+        "end_time": "00:02:16.806",
+        "duration": "00:00:04.041",
+        "reference_frame_idx": 0
+    },
+    "set3/01027.mp4": {
+        "url": "https://www.youtube.com/watch?v=d7IVBOBd3BI",
+        "source": "youtube",
+        "start_time": "00:01:04.480",
+        "end_time": "00:01:10.719",
+        "duration": "00:00:06.239",
+        "reference_frame_idx": 0
+    },
+    "set3/01028.mp4": {
+        "url": "https://www.youtube.com/watch?v=DEBo0hG8shE",
+        "source": "youtube",
+        "start_time": "00:00:54.861",
+        "end_time": "00:00:58.603",
+        "duration": "00:00:03.742",
+        "reference_frame_idx": 0
+    },
+    "set3/01029.mp4": {
+        "url": "https://www.youtube.com/watch?v=DM6UVe5jsxA",
+        "source": "youtube",
+        "start_time": "00:01:28.372",
+        "end_time": "00:01:32.449",
+        "duration": "00:00:04.076",
+        "reference_frame_idx": 0
+    },
+    "set3/01030.mp4": {
+        "url": "https://www.youtube.com/watch?v=DUfobESjj6s",
+        "source": "youtube",
+        "start_time": "00:10:11.556",
+        "end_time": "00:10:15.497",
+        "duration": "00:00:03.941",
+        "reference_frame_idx": 0
+    },
+    "set3/01031.mp4": {
+        "url": "https://www.youtube.com/watch?v=E74FQTMWPVw",
+        "source": "youtube",
+        "start_time": "00:01:35.359",
+        "end_time": "00:01:39.079",
+        "duration": "00:00:03.719",
+        "reference_frame_idx": 0
+    },
+    "set3/01032.mp4": {
+        "url": "https://www.youtube.com/watch?v=eMiPKpXbm9A",
+        "source": "youtube",
+        "start_time": "00:01:50.719",
+        "end_time": "00:01:39.079",
+        "duration": "00:59:48.360",
+        "reference_frame_idx": 0
+    },
+    "set3/01033.mp4": {
+        "url": "https://www.youtube.com/watch?v=fkOMupkw5D8",
+        "source": "youtube",
+        "start_time": "00:00:55.945",
+        "end_time": "00:00:59.853",
+        "duration": "00:00:03.907",
+        "reference_frame_idx": 0
+    },
+    "set3/01034.mp4": {
+        "url": "https://www.youtube.com/watch?v=FvKeHcpps1Y",
+        "source": "youtube",
+        "start_time": "00:05:38.212",
+        "end_time": "00:05:43.426",
+        "duration": "00:00:05.213",
+        "reference_frame_idx": 0
+    },
+    "set3/01035.mp4": {
+        "url": "https://www.youtube.com/watch?v=g1KQ9SCKkVk",
+        "source": "youtube",
+        "start_time": "00:02:25.840",
+        "end_time": "00:02:29.649",
+        "duration": "00:00:03.808",
+        "reference_frame_idx": 0
+    },
+    "set3/01036.mp4": {
+        "url": "https://www.youtube.com/watch?v=gN07gbipMoY",
+        "source": "youtube",
+        "start_time": "00:00:49.649",
+        "end_time": "00:00:53.190",
+        "duration": "00:00:03.541",
+        "reference_frame_idx": 0
+    },
+    "set3/01037.mp4": {
+        "url": "https://www.youtube.com/watch?v=gssX0xSDb8k",
+        "source": "youtube",
+        "start_time": "00:05:00.279",
+        "end_time": "00:05:04.800",
+        "duration": "00:00:04.520",
+        "reference_frame_idx": 0
+    },
+    "set3/01038.mp4": {
+        "url": "https://www.youtube.com/watch?v=GU2KgpW0SOE",
+        "source": "youtube",
+        "start_time": "00:17:54.740",
+        "end_time": "00:17:58.535",
+        "duration": "00:00:03.795",
+        "reference_frame_idx": 0
+    },
+    "set3/01039.mp4": {
+        "url": "https://www.youtube.com/watch?v=GZKU7TgR6IU",
+        "source": "youtube",
+        "start_time": "00:03:15.492",
+        "end_time": "00:03:21.135",
+        "duration": "00:00:05.642",
+        "reference_frame_idx": 0
+    },
+    "set3/01040.mp4": {
+        "url": "https://www.youtube.com/watch?v=h6gBU7BnQeY",
+        "source": "youtube",
+        "start_time": "00:02:00.748",
+        "end_time": "00:02:06.060",
+        "duration": "00:00:05.312",
+        "reference_frame_idx": 0
+    },
+    "set3/01041.mp4": {
+        "url": "https://www.youtube.com/watch?v=hnygd-8rriU",
+        "source": "youtube",
+        "start_time": "00:31:02.633",
+        "end_time": "00:31:09.633",
+        "duration": "00:00:07.000",
+        "reference_frame_idx": 0
+    },
+    "set3/01042.mp4": {
+        "url": "https://www.youtube.com/watch?v=hqpKUkYqreM",
+        "source": "youtube",
+        "start_time": "00:15:18.083",
+        "end_time": "00:15:25.090",
+        "duration": "00:00:07.007",
+        "reference_frame_idx": 0
+    },
+    "set3/01043.mp4": {
+        "url": "https://www.youtube.com/watch?v=IHrGK3Mu5K4",
+        "source": "youtube",
+        "start_time": "00:05:32.832",
+        "end_time": "00:05:40.113",
+        "duration": "00:00:07.281",
+        "reference_frame_idx": 0
+    },
+    "set3/01044.mp4": {
+        "url": "https://www.youtube.com/watch?v=iLhFAWKCE0M",
+        "source": "youtube",
+        "start_time": "00:02:01.175",
+        "end_time": "00:02:06.786",
+        "duration": "00:00:05.611",
+        "reference_frame_idx": 0
+    },
+    "set3/01045.mp4": {
+        "url": "https://www.youtube.com/watch?v=jc0tTOhRVe0",
+        "source": "youtube",
+        "start_time": "00:01:27.504",
+        "end_time": "00:01:33.259",
+        "duration": "00:00:05.755",
+        "reference_frame_idx": 0
+    },
+    "set3/01046.mp4": {
+        "url": "https://www.youtube.com/watch?v=kAFBhYRlkZc",
+        "source": "youtube",
+        "start_time": "00:36:01.966",
+        "end_time": "00:36:10.066",
+        "duration": "00:00:08.099",
+        "reference_frame_idx": 0
+    },
+    "set3/01047.mp4": {
+        "url": "https://www.youtube.com/watch?v=Ki5AcnSWbSs",
+        "source": "youtube",
+        "start_time": "00:00:48.079",
+        "end_time": "00:00:53.880",
+        "duration": "00:00:05.800",
+        "reference_frame_idx": 0
+    },
+    "set3/01048.mp4": {
+        "url": "https://www.youtube.com/watch?v=K_RSZC0s8a4",
+        "source": "youtube",
+        "start_time": "00:08:27.480",
+        "end_time": "00:08:31.839",
+        "duration": "00:00:04.359",
+        "reference_frame_idx": 0
+    },
+    "set3/01049.mp4": {
+        "url": "https://www.youtube.com/watch?v=lbLVjwq_J3o",
+        "source": "youtube",
+        "start_time": "00:01:58.034",
+        "end_time": "00:02:02.330",
+        "duration": "00:00:04.295",
+        "reference_frame_idx": 0
+    },
+    "set3/01050.mp4": {
+        "url": "https://www.youtube.com/watch?v=lCB-BmRJsLs",
+        "source": "youtube",
+        "start_time": "00:09:54.051",
+        "end_time": "00:09:59.473",
+        "duration": "00:00:05.422",
+        "reference_frame_idx": 0
+    },
+    "set3/01051.mp4": {
+        "url": "https://www.youtube.com/watch?v=leaxVE3qF6g",
+        "source": "youtube",
+        "start_time": "00:17:00.811",
+        "end_time": "00:17:07.276",
+        "duration": "00:00:06.464",
+        "reference_frame_idx": 0
+    },
+    "set3/01052.mp4": {
+        "url": "https://www.youtube.com/watch?v=LKBiHbU63UE",
+        "source": "youtube",
+        "start_time": "00:01:29.508",
+        "end_time": "00:01:34.186",
+        "duration": "00:00:04.677",
+        "reference_frame_idx": 0
+    },
+    "set3/01053.mp4": {
+        "url": "https://www.youtube.com/watch?v=lKsvLGdoIH8",
+        "source": "youtube",
+        "start_time": "00:02:05.583",
+        "end_time": "00:02:09.796",
+        "duration": "00:00:04.212",
+        "reference_frame_idx": 0
+    },
+    "set3/01054.mp4": {
+        "url": "https://www.youtube.com/watch?v=LpSDuDIaBGk",
+        "source": "youtube",
+        "start_time": "00:02:44.956",
+        "end_time": "00:02:51.004",
+        "duration": "00:00:06.047",
+        "reference_frame_idx": 0
+    },
+    "set3/01055.mp4": {
+        "url": "https://www.youtube.com/watch?v=lrUQn26zp_c",
+        "source": "youtube",
+        "start_time": "00:03:49.560",
+        "end_time": "00:03:55.319",
+        "duration": "00:00:05.759",
+        "reference_frame_idx": 0
+    },
+    "set3/01056.mp4": {
+        "url": "https://www.youtube.com/watch?v=L_3KmTevD5o",
+        "source": "youtube",
+        "start_time": "00:10:08.919",
+        "end_time": "00:10:15.080",
+        "duration": "00:00:06.160",
+        "reference_frame_idx": 0
+    },
+    "set3/01057.mp4": {
+        "url": "https://www.youtube.com/watch?v=MeWAG1QH5sg",
+        "source": "youtube",
+        "start_time": "00:09:33.399",
+        "end_time": "00:09:39.899",
+        "duration": "00:00:06.500",
+        "reference_frame_idx": 0
+    },
+    "set3/01058.mp4": {
+        "url": "https://www.youtube.com/watch?v=Mq0_g-vCwb4",
+        "source": "youtube",
+        "start_time": "00:03:21.659",
+        "end_time": "00:03:31.502",
+        "duration": "00:00:09.843",
+        "reference_frame_idx": 0
+    },
+    "set3/01059.mp4": {
+        "url": "https://www.youtube.com/watch?v=MWjm_zvdYdI",
+        "source": "youtube",
+        "start_time": "00:03:09.599",
+        "end_time": "00:03:13.280",
+        "duration": "00:00:03.680",
+        "reference_frame_idx": 0
+    },
+    "set3/01060.mp4": {
+        "url": "https://www.youtube.com/watch?v=noWh8SSeRCo",
+        "source": "youtube",
+        "start_time": "00:02:55.617",
+        "end_time": "00:03:00.494",
+        "duration": "00:00:04.876",
+        "reference_frame_idx": 0
+    },
+    "set3/01061.mp4": {
+        "url": "https://www.youtube.com/watch?v=O29X1Ls8KoA",
+        "source": "youtube",
+        "start_time": "00:08:04.240",
+        "end_time": "00:08:11.319",
+        "duration": "00:00:07.079",
+        "reference_frame_idx": 0
+    },
+    "set3/01062.mp4": {
+        "url": "https://www.youtube.com/watch?v=oBP07G7PL-k",
+        "source": "youtube",
+        "start_time": "00:06:46.479",
+        "end_time": "00:06:49.719",
+        "duration": "00:00:03.239",
+        "reference_frame_idx": 0
+    },
+    "set3/01063.mp4": {
+        "url": "https://www.youtube.com/watch?v=OgK5eQQIUGQ",
+        "source": "youtube",
+        "start_time": "00:08:22.869",
+        "end_time": "00:08:28.040",
+        "duration": "00:00:05.171",
+        "reference_frame_idx": 0
+    },
+    "set3/01064.mp4": {
+        "url": "https://www.youtube.com/watch?v=ooMXEwl7N8Y",
+        "source": "youtube",
+        "start_time": "00:08:37.262",
+        "end_time": "00:08:28.380",
+        "duration": "00:59:51.118",
+        "reference_frame_idx": 0
+    },
+    "set3/01065.mp4": {
+        "url": "https://www.youtube.com/watch?v=OrNqEcNkoF0",
+        "source": "youtube",
+        "start_time": "00:06:56.432",
+        "end_time": "00:07:07.287",
+        "duration": "00:00:10.855",
+        "reference_frame_idx": 0
+    },
+    "set3/01066.mp4": {
+        "url": "https://www.youtube.com/watch?v=OTIx-2udf6Y",
+        "source": "youtube",
+        "start_time": "00:04:05.199",
+        "end_time": "00:04:11.240",
+        "duration": "00:00:06.040",
+        "reference_frame_idx": 0
+    },
+    "set3/01067.mp4": {
+        "url": "https://www.youtube.com/watch?v=p0Nag5w42ys",
+        "source": "youtube",
+        "start_time": "00:02:36.823",
+        "end_time": "00:02:40.994",
+        "duration": "00:00:04.170",
+        "reference_frame_idx": 0
+    },
+    "set3/01068.mp4": {
+        "url": "https://www.youtube.com/watch?v=p3uBMqCPSDk",
+        "source": "youtube",
+        "start_time": "00:06:30.183",
+        "end_time": "00:06:35.626",
+        "duration": "00:00:05.442",
+        "reference_frame_idx": 0
+    },
+    "set3/01069.mp4": {
+        "url": "https://www.youtube.com/watch?v=p7u1n54_yQc",
+        "source": "youtube",
+        "start_time": "00:04:33.189",
+        "end_time": "00:04:38.069",
+        "duration": "00:00:04.879",
+        "reference_frame_idx": 0
+    },
+    "set3/01070.mp4": {
+        "url": "https://www.youtube.com/watch?v=plbqT4dBNwo",
+        "source": "youtube",
+        "start_time": "00:11:31.649",
+        "end_time": "00:11:40.157",
+        "duration": "00:00:08.508",
+        "reference_frame_idx": 0
+    },
+    "set3/01071.mp4": {
+        "url": "https://www.youtube.com/watch?v=PsFlp3u74mI",
+        "source": "youtube",
+        "start_time": "00:02:27.355",
+        "end_time": "00:02:36.030",
+        "duration": "00:00:08.675",
+        "reference_frame_idx": 0
+    },
+    "set3/01072.mp4": {
+        "url": "https://www.youtube.com/watch?v=q5_PrTvNypY",
+        "source": "youtube",
+        "start_time": "00:08:29.218",
+        "end_time": "00:08:34.295",
+        "duration": "00:00:05.076",
+        "reference_frame_idx": 0
+    },
+    "set3/01073.mp4": {
+        "url": "https://www.youtube.com/watch?v=qhuZvtb0cbE",
+        "source": "youtube",
+        "start_time": "00:04:31.008",
+        "end_time": "00:04:38.957",
+        "duration": "00:00:07.949",
+        "reference_frame_idx": 0
+    },
+    "set3/01074.mp4": {
+        "url": "https://www.youtube.com/watch?v=Qvm9k5Wnafs",
+        "source": "youtube",
+        "start_time": "00:05:03.600",
+        "end_time": "00:05:09.160",
+        "duration": "00:00:05.560",
+        "reference_frame_idx": 0
+    },
+    "set3/01075.mp4": {
+        "url": "https://www.youtube.com/watch?v=QXGTNROtJkY",
+        "source": "youtube",
+        "start_time": "00:05:02.271",
+        "end_time": "00:05:13.794",
+        "duration": "00:00:11.523",
+        "reference_frame_idx": 0
+    },
+    "set3/01076.mp4": {
+        "url": "https://www.youtube.com/watch?v=r4n79ZRepi8",
+        "source": "youtube",
+        "start_time": "00:06:31.516",
+        "end_time": "00:06:35.323",
+        "duration": "00:00:03.807",
+        "reference_frame_idx": 0
+    },
+    "set3/01077.mp4": {
+        "url": "https://www.youtube.com/watch?v=rmASLb_Yn5Y",
+        "source": "youtube",
+        "start_time": "00:05:40.434",
+        "end_time": "00:05:44.160",
+        "duration": "00:00:03.725",
+        "reference_frame_idx": 0
+    },
+    "set3/01078.mp4": {
+        "url": "https://www.youtube.com/watch?v=shgYbdOVgpY",
+        "source": "youtube",
+        "start_time": "00:01:12.480",
+        "end_time": "00:01:19.799",
+        "duration": "00:00:07.319",
+        "reference_frame_idx": 0
+    },
+    "set3/01079.mp4": {
+        "url": "https://www.youtube.com/watch?v=ts0Q_HNo_LA",
+        "source": "youtube",
+        "start_time": "00:02:36.159",
+        "end_time": "00:02:41.000",
+        "duration": "00:00:04.840",
+        "reference_frame_idx": 0
+    },
+    "set3/01080.mp4": {
+        "url": "https://www.youtube.com/watch?v=TZOoT8AbkNE",
+        "source": "youtube",
+        "start_time": "00:03:18.864",
+        "end_time": "00:03:25.475",
+        "duration": "00:00:06.611",
+        "reference_frame_idx": 0
+    },
+    "set3/01081.mp4": {
+        "url": "https://www.youtube.com/watch?v=u0fFIJapsRY",
+        "source": "youtube",
+        "start_time": "00:03:43.881",
+        "end_time": "00:03:48.490",
+        "duration": "00:00:04.609",
+        "reference_frame_idx": 0
+    },
+    "set3/01082.mp4": {
+        "url": "https://www.youtube.com/watch?v=U9d0p96N1iw",
+        "source": "youtube",
+        "start_time": "00:03:35.525",
+        "end_time": "00:03:43.038",
+        "duration": "00:00:07.512",
+        "reference_frame_idx": 0
+    },
+    "set3/01083.mp4": {
+        "url": "https://www.youtube.com/watch?v=utTlli1Ett0",
+        "source": "youtube",
+        "start_time": "00:02:28.231",
+        "end_time": "00:02:34.404",
+        "duration": "00:00:06.172",
+        "reference_frame_idx": 0
+    },
+    "set3/01084.mp4": {
+        "url": "https://www.youtube.com/watch?v=v4ThfAHpMTE",
+        "source": "youtube",
+        "start_time": "00:06:53.162",
+        "end_time": "00:06:58.000",
+        "duration": "00:00:04.838",
+        "reference_frame_idx": 0
+    },
+    "set3/01085.mp4": {
+        "url": "https://www.youtube.com/watch?v=vhvyid7vVoQ",
+        "source": "youtube",
+        "start_time": "00:02:30.818",
+        "end_time": "00:02:35.395",
+        "duration": "00:00:04.577",
+        "reference_frame_idx": 0
+    },
+    "set3/01086.mp4": {
+        "url": "https://www.youtube.com/watch?v=VRAlpK8IGLE",
+        "source": "youtube",
+        "start_time": "00:01:41.309",
+        "end_time": "00:01:45.605",
+        "duration": "00:00:04.295",
+        "reference_frame_idx": 0
+    },
+    "set3/01087.mp4": {
+        "url": "https://www.youtube.com/watch?v=vWDrFjKHGMY",
+        "source": "youtube",
+        "start_time": "00:13:39.026",
+        "end_time": "00:13:46.283",
+        "duration": "00:00:07.257",
+        "reference_frame_idx": 0
+    },
+    "set3/01088.mp4": {
+        "url": "https://www.youtube.com/watch?v=vXxBREW8XAI",
+        "source": "youtube",
+        "start_time": "00:07:10.784",
+        "end_time": "00:07:13.756",
+        "duration": "00:00:02.971",
+        "reference_frame_idx": 0
+    },
+    "set3/01089.mp4": {
+        "url": "https://www.youtube.com/watch?v=Vy87Mkix2WY",
+        "source": "youtube",
+        "start_time": "00:03:49.896",
+        "end_time": "00:03:55.610",
+        "duration": "00:00:05.714",
+        "reference_frame_idx": 0
+    },
+    "set3/01090.mp4": {
+        "url": "https://www.youtube.com/watch?v=WknzP23-y_Y",
+        "source": "youtube",
+        "start_time": "00:02:36.573",
+        "end_time": "00:02:41.494",
+        "duration": "00:00:04.921",
+        "reference_frame_idx": 0
+    },
+    "set3/01091.mp4": {
+        "url": "https://www.youtube.com/watch?v=y0xn1C6ALvo",
+        "source": "youtube",
+        "start_time": "00:07:18.040",
+        "end_time": "00:07:22.600",
+        "duration": "00:00:04.560",
+        "reference_frame_idx": 0
+    },
+    "set3/01092.mp4": {
+        "url": "https://www.youtube.com/watch?v=YPQ-jHxcSqc",
+        "source": "youtube",
+        "start_time": "00:04:53.584",
+        "end_time": "00:04:59.257",
+        "duration": "00:00:05.672",
+        "reference_frame_idx": 0
+    },
+    "set3/01093.mp4": {
+        "url": "https://www.youtube.com/watch?v=YPvP_C4qy0E",
+        "source": "youtube",
+        "start_time": "00:04:59.839",
+        "end_time": "00:05:05.800",
+        "duration": "00:00:05.960",
+        "reference_frame_idx": 0
+    },
+    "set3/01094.mp4": {
+        "url": "https://www.youtube.com/watch?v=yvf6xqSkAcY",
+        "source": "youtube",
+        "start_time": "00:04:49.205",
+        "end_time": "00:04:58.298",
+        "duration": "00:00:09.092",
+        "reference_frame_idx": 0
+    },
+    "set3/01095.mp4": {
+        "url": "https://www.youtube.com/watch?v=Z0PeLwgy_Xo",
+        "source": "youtube",
+        "start_time": "00:12:09.019",
+        "end_time": "00:12:12.606",
+        "duration": "00:00:03.586",
+        "reference_frame_idx": 0
+    },
+    "set3/01096.mp4": {
+        "url": "https://www.youtube.com/watch?v=Z9VovH1OWQc",
+        "source": "youtube",
+        "start_time": "00:08:07.479",
+        "end_time": "00:08:12.487",
+        "duration": "00:00:05.008",
+        "reference_frame_idx": 0
+    },
+    "set3/01097.mp4": {
+        "url": "https://www.youtube.com/watch?v=ZhruqkPeJ6o",
+        "source": "youtube",
+        "start_time": "00:06:38.480",
+        "end_time": "00:06:44.920",
+        "duration": "00:00:06.439",
+        "reference_frame_idx": 0
+    },
+    "set3/01098.mp4": {
+        "url": "https://www.youtube.com/watch?v=Ztx0Bch3h9s",
+        "source": "youtube",
+        "start_time": "00:10:51.720",
+        "end_time": "00:10:55.759",
+        "duration": "00:00:04.039",
+        "reference_frame_idx": 0
+    },
+    "set3/01099.mp4": {
+        "url": "https://www.youtube.com/watch?v=ZZ0BOEOtD2U",
+        "source": "youtube",
+        "start_time": "00:05:13.426",
+        "end_time": "00:05:18.436",
+        "duration": "00:00:05.010",
+        "reference_frame_idx": 0
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman in a gray coat holding a camera, standing outdoors with a cloudy sky in the background. She is speaking about the deeper meaning of photography, emphasizing the storytelling aspect of capturing moments. The scene is static, with no significant movement or action, and the ambient sound suggests an urban or semi-urban environment.",
+    "audio_prompt": [
+        "The sound of wind and possibly distant traffic or city noise."
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "Photography isn't merely capturing moments—it's about seeing beyond surfaces, finding stories hidden within everyday life. Each click tells its own tale."
+    }
+}

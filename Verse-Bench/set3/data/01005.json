@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman speaking about her music, which she describes as very westernized despite being a Chinese musician. She is standing in front of a blue curtain, with a traditional Chinese string instrument visible to her left. Her hands are moving as she speaks, indicating an expressive delivery.",
+    "audio_prompt": [
+        "A woman giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "A woman",
+        "text": "However, as a Chinese musician, my music was very westernized."
+    }
+}

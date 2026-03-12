@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a motorcyclist performing a wheelie on a road, with the motorcyclist wearing a black and orange suit and helmet. The background features a clear blue sky, green trees, and a road with white lane markings. The motorcyclist starts by revving the engine, then lifts the front wheel off the ground, balancing on the rear wheel, and continues to ride in a wheelie position. The ambient sounds include the engine revving and tire squealing.",
+    "audio_prompt": [
+        "A motorbike engine is running and squealing tires, and the engine accelerates"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

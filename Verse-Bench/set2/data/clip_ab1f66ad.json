@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a stormy ocean with large waves crashing against a pier, and people standing on the pier with umbrellas. The people are standing still, watching the waves, and there is no speech content. The ambient sound includes the sound of waves crashing and rain.",
+    "audio_prompt": [
+        "Water splashing and wind blowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

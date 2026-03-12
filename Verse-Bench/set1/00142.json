@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures the moment a person strikes a large, ornate bell with a wooden stick. The bell is suspended from a metal chain and is located within a traditional wooden structure with a tiled roof. The background features a small pond with a bridge and lush greenery. The sound of the bell ringing is the primary ambient sound, adding to the serene and traditional atmosphere of the scene.",
+    "audio_prompt": [
+        "Sound of bell ringing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

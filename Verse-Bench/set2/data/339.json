@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a close-up of a baby wearing a pink outfit and a pink hat, lying on a white surface. The baby is crying loudly with its mouth wide open and eyes closed. The background is a white surface, possibly a bed or a blanket. The ambient sound is the baby crying.",
+    "audio_prompt": [
+        "A baby cries loudly"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

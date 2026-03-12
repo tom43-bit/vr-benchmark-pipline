@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is playing the violin in a dimly lit room, focusing on his performance with a bow and his fingers on the strings. The background is quiet with some lights on the ceiling.",
+    "audio_prompt": [
+        "A violin is playing a high-pitched note"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

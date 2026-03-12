@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person is seen pulling a chain in an indoor shooting range, causing a target to swing. The environment is filled with various equipment and boxes, and the sound of gunshots and background noise can be heard.",
+    "audio_prompt": [
+        "A gun is fired several times"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "video_prompt": "The video depicts a dramatic scene of a pilot flying a damaged plane amidst a chaotic battlefield. The pilot, wearing a military flight suit with visible blood stains and injuries, is seen with a determined expression. The background is filled with multiple fighter jets in the sky, explosions, and smoke rising from a warship. The pilot maneuvers the plane, which eventually crashes into the warship, causing further explosions and chaos. The ambient sounds include explosions, crashing, and artillery fire, enhancing the intensity of the scene.",
+    "audio_prompt": [
+        "Explosions",
+        "Crashing",
+        "Artillery fire"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

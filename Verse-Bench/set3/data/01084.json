@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a person speaking about the disconnect from food, set in a cozy room with a bookshelf and a window. The person is wearing headphones and appears to be engaged in a discussion or presentation.",
+    "audio_prompt": [
+        "A man is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "We have become like so disconnected from food that to us"
+    }
+}

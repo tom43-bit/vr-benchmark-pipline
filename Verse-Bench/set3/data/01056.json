@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a woman giving a presentation on a stage with a TEDx logo in the background. She is dressed professionally and is using a remote control, likely to advance slides or control a presentation. The setting is formal, and the woman appears to be discussing language-related topics.",
+    "audio_prompt": [
+        "A woman is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Woman",
+        "text": "From a pure language perspective, if and we're only talking language here."
+    }
+}

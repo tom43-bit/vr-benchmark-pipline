@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video depicts a man sitting in an office or study room, watching a cartoon displayed on a computer screen. The cartoon character on the screen is animated and appears to be in motion, raising one arm. The man seems to be engaged in watching the cartoon, possibly interacting with it or commenting on it. The setting is a typical office or study room with a computer, keyboard, mouse, and bookshelf. The ambient sound includes the sound of the computer fan and the ambient noise of the office.",
+    "audio_prompt": [
+        "The sound of the computer fan",
+        "The ambient noise of the office"
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "Do you want to come watch it together?"
+    }
+}

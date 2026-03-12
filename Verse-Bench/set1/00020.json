@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A girl is dancing in the snow, her movements are graceful and fluid. She is wearing a red sweater with a fur collar, a black and white plaid skirt, and a white hat. The background is a snowy landscape with trees in the background. The sound of snow and wind can be heard in the background.",
+    "audio_prompt": [
+        "Sound of snow and wind"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

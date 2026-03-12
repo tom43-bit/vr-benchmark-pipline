@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A musician is playing a Chinese traditional instrument Erhu outdoors in a field during golden hour lighting. The musician is wearing a black shirt and dark pants, with long hair. He is holding the Erhu and moving the bow across the strings. The background is a field with tall grass and trees in the distance. The camera focuses on the musician and the Erhu, capturing the golden hour lighting and the sound of the Erhu.",
+    "audio_prompt": [
+        "Sound of piano Erhu"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

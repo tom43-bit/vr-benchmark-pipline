@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a stunning view of a powerful waterfall, with water cascading down over a rocky edge and creating a misty atmosphere. The scene is devoid of any human presence, focusing solely on the natural beauty of the waterfall and its surroundings.",
+    "audio_prompt": [
+        "Water is rushing and splashing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

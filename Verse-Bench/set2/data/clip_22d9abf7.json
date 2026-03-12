@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video begins with a serene forested area with a pond and trees. The camera pans to show a white SUV parked near the pond, surrounded by trees. The rain is falling heavily, creating a soothing rhythm as it hits the ground. The overall atmosphere is calm and peaceful, with the sound of rain providing a soothing backdrop.",
+    "audio_prompt": [
+        "Rain falling on a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a man playing the piano in a dimly lit room. He is wearing a white shirt and black pants, and his short, dark hair is neatly styled. The man is focused on his playing, with his hands moving rhythmically over the piano keys. The background features a window and some plants, creating a calm and intimate atmosphere. The camera remains stationary, capturing the man's performance and the ambient sound of the piano music.",
+    "audio_prompt": [
+        "Sound of piano music"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

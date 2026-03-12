@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking about the financial success of selling art for ten years, but then mentioning a change in 2022. The man is dressed in a black sweater and is standing in front of a green hexagonal patterned background. He is using a microphone and is gesturing with his hands as he speaks.",
+    "audio_prompt": [
+        "An adult male is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "For ten years, they made enough money selling their work. The art was their full-time income. But in 2022."
+    }
+}

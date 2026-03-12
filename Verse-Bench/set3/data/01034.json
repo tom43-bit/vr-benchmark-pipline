@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman speaking on a stage, discussing the potential strain on boron supplies due to increased demand for fiberglass. She is dressed in a blue dress and glasses, and the background is a stage with a blue and purple pattern. The camera remains focused on her as she gestures and speaks.",
+    "audio_prompt": [
+        "A woman is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "So, as we increase demand for fiberglass, we may put strain on boron supplies."
+    }
+}

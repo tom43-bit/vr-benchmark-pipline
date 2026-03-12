@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a scene of two palm trees swaying in a strong wind against a cloudy sky. The wind is blowing with great force, causing the palm trees to move vigorously. There are no characters present in the video, and the focus is solely on the natural elements and their interaction with the wind.",
+    "audio_prompt": [
+        "Wind blowing hard"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

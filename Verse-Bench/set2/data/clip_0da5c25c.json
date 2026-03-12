@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person using a metallic object to scrape or smooth a surface covered with a towel. The person's hands are visible, and they are applying pressure to the metallic object as they move it back and forth. The background is a clean, white surface, possibly a countertop or table. There is no speech content in the video.",
+    "audio_prompt": [
+        "A metal object is being rubbed against a surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

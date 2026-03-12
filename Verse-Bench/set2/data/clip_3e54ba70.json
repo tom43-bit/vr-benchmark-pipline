@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person is cooking in a kitchen, stirring food in a wok with a spatula. The kitchen has tiled walls and a stove. The sound of sizzling and cutlery clinking can be heard.",
+    "audio_prompt": [
+        "Food sizzles in a pan"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

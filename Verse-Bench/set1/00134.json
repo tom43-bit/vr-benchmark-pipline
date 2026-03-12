@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a baby wearing a purple helmet, a grey sweater, and brown boots, standing next to a small blue bicycle with training wheels. The baby is holding onto the bicycle with both hands and looking at the viewer with a happy expression. The background consists of a green hedge and a paved path. The ambient sound is the sound of a baby crying.",
+    "audio_prompt": [
+        "Sound of baby crying"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

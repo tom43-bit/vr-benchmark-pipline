@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a female singer performing a song with passion and intensity. She is dressed elegantly in a white dress, and her blonde hair is styled in an updo. The setting is a dark stage with focused lighting, creating a dramatic and intimate atmosphere. The singer uses expressive hand gestures and facial expressions to convey the emotion of the lyrics, which include the phrase 'Give me a million reasons.' The background music adds to the overall mood of the performance.",
+    "audio_prompt": [
+        "A woman sings while music plays"
+    ],
+    "speech_prompt": {
+        "speaker": "Female Singer",
+        "text": "Give me a million reasons, give me a million reasons"
+    }
+}

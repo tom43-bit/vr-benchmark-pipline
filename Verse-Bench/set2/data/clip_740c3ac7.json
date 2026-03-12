@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a man performing on stage, singing into a microphone. The background is a stage with a blurred, out-of-focus light source, creating a dramatic and focused atmosphere. The man's actions and expressions indicate a passionate performance.",
+    "audio_prompt": [
+        "A man is singing a song"
+    ],
+    "speech_prompt": {
+        "speaker": "A man",
+        "text": "Can it used to be so in love"
+    }
+}

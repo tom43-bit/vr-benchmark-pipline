@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a player on a grassy field preparing to kick a red soccer ball. The player, dressed in a blue shirt and black shorts, approaches the ball and kicks it, sending it rolling away. The background features a clear blue sky, power lines, and trees, with a yellow cone placed on the grass. The scene is set in a sunny outdoor environment, with the sound of footsteps and the ball rolling adding to the realism.",
+    "audio_prompt": [
+        "Birds chirp in the distance, followed by a ball being kicked"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

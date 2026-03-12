@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a tennis match between two players, Player 1 and Player 2. The players are actively engaged in the game, with Player 1 hitting the ball and both opponents preparing to return it. The setting is an indoor tennis court with spectators and advertisements in the background. The video captures the dynamic movement of the players and the ball, as well as the ambient sounds of the game.",
+    "audio_prompt": [
+        "A ball is being bounced on a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

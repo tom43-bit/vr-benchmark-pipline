@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man with a beard, wearing glasses and a green shirt, standing in front of a blue curtain. He is speaking and looking around. The background is a blue curtain, and there is no ambient sound. The man is the only character in the video, and he is the main focus of the video.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "I think we all need to start learning how to believe in mass hysteria"
+    }
+}

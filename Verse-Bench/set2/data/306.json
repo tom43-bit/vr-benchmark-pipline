@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a close-up view of a fire burning brightly. The flames are intense and vibrant, illuminating the surrounding area with a warm glow. The wood logs are slowly burning, and the crackling sound of the fire can be heard. The scene is realistic and captures the essence of a cozy fire burning.",
+    "audio_prompt": [
+        "Fire crackling and crackling with wind blowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

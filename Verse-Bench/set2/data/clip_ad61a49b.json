@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene scene of white flowers with green leaves, gently swaying in a natural setting with a blurred background. The ambient sounds of birds chirping and a slight wind add to the peaceful atmosphere.",
+    "audio_prompt": [
+        "Birds chirping and singing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

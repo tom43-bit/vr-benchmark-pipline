@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking into a microphone while wearing headphones. He is dressed in a red sweater and is gesturing with his hands as he speaks. The background includes a window with a view of buildings and a plant in a pot. The man's speech is the main focus of the video.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "Except to say that he grew up under such and I'm not excusing it by any means."
+    }
+}

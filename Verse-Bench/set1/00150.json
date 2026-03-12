@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The woman lights a cigar using a lighter, takes a puff, then blow smokes, finally have a sigh.",
+    "audio_prompt": [
+        "Sound of lighter, smoking, and sigh."
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

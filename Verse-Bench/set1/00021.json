@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man playing the suona in a room with a wooden cabinet and intricate carvings in the background. He is wearing a white t-shirt with a colorful graphic design of two characters, one in red and the other in yellow. The man is actively engaged in playing the suona, moving his hands and body slightly as he blows into the instrument. The sound of the suona is the primary ambient sound in the video.",
+    "audio_prompt": [
+        "sound of suona"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

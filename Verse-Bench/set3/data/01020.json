@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman with blonde hair and wearing a black shirt is standing in front of a blue curtain. She is speaking the phrase 'Your sex robot becomes conscious'. There is no background sound.",
+    "audio_prompt": [
+        "A woman is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Woman",
+        "text": "Your sex robot becomes conscious"
+    }
+}

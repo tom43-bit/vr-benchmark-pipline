@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a boy in a library, deeply engrossed in studying complex mathematical concepts. The setting is a quiet, well-lit library with tall bookshelves filled with books. The boy, dressed in a blue shirt and black pants, is seen squatting in the corner, holding a book and occasionally looking up as if contemplating the difficulty of the material. The ambient sounds of the library, including the sound of pages turning and the quiet hum, add to the studious atmosphere. The boy's focused expression and the complexity of the theorems, axioms, symbols, and derivations he is studying are the central elements of the video.",
+    "audio_prompt": [
+        "The sound of pages turning, the occasional rustling of books, and the quiet hum of the library"
+    ],
+    "speech_prompt": {
+        "speaker": "the boy",
+        "text": "These theorems, axioms, symbols, and derivations are as difficult to control as wild horses galloping on the grassland."
+    }
+}

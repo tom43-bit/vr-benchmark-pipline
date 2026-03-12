@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene moment of a small bird perched on a branch, singing or chirping, with a blurred green background that suggests a natural outdoor setting. The bird's movements are subtle, primarily involving the opening and closing of its beak.",
+    "audio_prompt": [
+        "Birds chirping and singing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

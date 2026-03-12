@@ -1,0 +1,12 @@
+{
+    "video_prompt": "A news anchor is reporting on a traffic accident that occurred in Dexas, where two people were injured but there were no fatalities. The scene is set in a modern news studio with a large screen displaying the accident scene. Paramedics and firefighters are actively working to assist the injured person, who is lying on the ground, partially covered by a blanket. The background is filled with the sounds of emergency vehicle sirens and the chatter of bystanders.",
+    "audio_prompt": [
+        "Ambulance siren",
+        "Emergency vehicle sirens",
+        "Background chatter"
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "There is an accident happens in Dexas, 2 injured, no death."
+    }
+}

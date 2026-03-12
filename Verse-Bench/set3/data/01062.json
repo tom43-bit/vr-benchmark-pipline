@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a woman giving a speech on a stage in front of a large audience. She is wearing a denim jacket and a gold necklace, and she is speaking into a microphone. The audience is seated in a darkened auditorium, and the background features blue curtains. The woman's speech is the main focus of the video, and she appears to be addressing the audience with a serious expression.",
+    "audio_prompt": [
+        "A woman is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "One thing it doesn't mean is meeting in the middle."
+    }
+}

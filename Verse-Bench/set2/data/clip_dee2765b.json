@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A group of people are swimming, surfing and boating in the distance of the sea. Then huge waves are rising on the sea.",
+    "audio_prompt": [
+        "Waves crashing on a shore"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

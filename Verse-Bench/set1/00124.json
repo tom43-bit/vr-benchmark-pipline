@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A serene and contemplative scene of a girl in traditional attire reading a book by a window, with a peaceful and reflective atmosphere",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "If life were always like our first meeting, why would the autumn wind paint the fan with sadness?"
+    }
+}

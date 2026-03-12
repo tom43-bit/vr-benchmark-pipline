@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video showcases a tranquil scene of a waterfall in a dense forest. The waterfall is the central focus, with water cascading down a rocky cliff surrounded by lush greenery. The ambient sound of flowing water adds to the peaceful atmosphere, making it a perfect representation of nature's beauty.",
+    "audio_prompt": [
+        "Sound of flowing spring water"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

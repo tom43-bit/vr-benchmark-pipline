@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a woman enjoying a meal in a cozy indoor setting. She is wearing a black shirt and gloves, and she is eating food from a plate using a spoon and a piece of bread. The background features a sofa and decorative items, creating a warm and inviting atmosphere.",
+    "audio_prompt": [
+        "A woman whispers and then something is rubbed"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

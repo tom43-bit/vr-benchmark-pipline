@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman in a lemon print dress is playing the piano in a bright room with a large window. She is singing along with the music, her hands moving gracefully across the keys. The room is well-lit, and the sound of the piano fills the space.",
+    "audio_prompt": [
+        "The sound of a piano"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

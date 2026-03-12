@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a live performance by a male singer on a large stage in a stadium. The performer is energetic, engaging with the audience, and singing into a microphone. The background is filled with a large crowd and stage lights, creating an atmosphere of excitement and entertainment.",
+    "audio_prompt": [
+        "Music plays as a man sings and a crowd cheers"
+    ],
+    "speech_prompt": {
+        "speaker": "A male performer",
+        "text": "Life is a dream."
+    }
+}

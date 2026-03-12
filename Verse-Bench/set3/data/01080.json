@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman speaking in front of a blue curtain backdrop. She is wearing a black blazer and a necklace with a pendant. She is gesturing with her hands while speaking. The speech content is about a business elite making untold riches in exchange for absolute loyalty.",
+    "audio_prompt": [
+        "A woman giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Woman",
+        "text": "He allows a business elite to make untold riches in exchange for absolute loyalty."
+    }
+}

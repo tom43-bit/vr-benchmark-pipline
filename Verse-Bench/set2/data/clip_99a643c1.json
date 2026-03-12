@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man in a blue shirt is seen aiming and firing a handgun at targets in an indoor shooting range. The camera captures the action from behind the man, showing the targets and the red banner with Chinese characters in the background. The ambient sound includes gunshots.",
+    "audio_prompt": [
+        "A gun is fired several times"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

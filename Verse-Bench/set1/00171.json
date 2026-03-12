@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a girl in an ancient costume standing on a stone bridge by a calm river, holding a flute. She is surrounded by lush greenery and appears to be preparing to play the flute. The scene is serene and picturesque, with the sound of flute music adding to the tranquil atmosphere.",
+    "audio_prompt": [
+        "The sound of flute music"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

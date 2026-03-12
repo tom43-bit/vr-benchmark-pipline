@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a close-up of a sink with water flowing into it. The water creates ripples and bubbles on the surface, and the sound of the water running is audible.",
+    "audio_prompt": [
+        "Water running from a faucet"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

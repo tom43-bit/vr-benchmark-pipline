@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video features a mystical spirit woman in a dense, enchanted forest. She has an ethereal and serene expression, with long dark hair adorned with green leaves. Her eyes glow with a mystical light as she speaks, her words hinting at strength and resolve. The background is filled with glowing blue flowers and ethereal light filtering through the trees, creating a serene and magical atmosphere. The scene remains static, with the gentle rustling of leaves and the glowing blue flowers adding to the mystical ambiance.",
+    "audio_prompt": [
+        "Gentle rustling of leaves",
+        "Glowing blue flowers gently swaying"
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "You look at me and see only steel, don't you? Armor, blade, unyielding resolve."
+    }
+}

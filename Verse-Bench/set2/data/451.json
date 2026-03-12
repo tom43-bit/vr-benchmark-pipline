@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a German Shepherd dog standing on a wooden bridge in a natural outdoor setting. The dog is wearing a black harness with the text 'ONEFURIS' on it. It is standing still, occasionally moving its head and tail, and looking around. The background consists of trees and dry grass, suggesting a forest or park area. The ambient sound includes background noise and the dog barking.",
+    "audio_prompt": [
+        "A dog barks and growls"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

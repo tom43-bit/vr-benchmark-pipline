@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman with curly blonde hair, wearing a green blazer and a necklace, speaking in front of a blue curtain. She appears to be engaged in a conversation or presentation, as she looks around while speaking. The background is simple, with no additional objects or characters present.",
+    "audio_prompt": [
+        "A woman is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Woman",
+        "text": "Think about that. One in five people you encounter may feel like they have no one."
+    }
+}

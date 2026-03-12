@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A porcupine is seen walking on the ground between tree trunks in a dark outdoor setting. The animal moves from left to right, navigating through grass and rocks. The ambient sound of crunching leaves can be heard, suggesting the presence of wind or movement through dry foliage.",
+    "audio_prompt": [
+        "Plastic is being crumpled"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman speaking in a dark, possibly indoor setting with a blurred audience in the background. She is wearing a black jacket with various patches and logos, and she is seated on a chair while speaking into a microphone. Her hands are occasionally moving as she speaks, and the overall style of the video is realistic.",
+    "audio_prompt": [
+        "A woman speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "There is nothing more special in a world than clarity."
+    }
+}

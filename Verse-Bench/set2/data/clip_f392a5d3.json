@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person wearing a blue and green checkered garment is sweeping the floor in a tiled area. The background includes a white wall with a blue metal fence and a water tank. The person is barefoot and moves the broom back and forth while sweeping. The ambient sound is the sound of sweeping.",
+    "audio_prompt": [
+        "Someone is walking on grass and birds are chirping in the background"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

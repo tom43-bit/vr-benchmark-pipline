@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures the audience responding enthusiastically with applause and cheers. The scene is set in a spacious auditorium, with the speaker standing at the front of the stage and the audience seated in rows. The atmosphere is energetic and engaged, reflecting the speaker's impact on the audience.",
+    "audio_prompt": [
+        "A crowd of people applauding"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

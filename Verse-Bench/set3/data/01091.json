@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking about unlocking tremendous renewables. He is wearing glasses and a dark shirt, and is using a microphone. The background is a blue and red abstract design. The man is gesturing with his hands while speaking.",
+    "audio_prompt": [
+        "A man is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "In order to unlock this tremendous renewables"
+    }
+}

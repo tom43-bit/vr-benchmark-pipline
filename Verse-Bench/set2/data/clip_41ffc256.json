@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A construction worker is using a jackhammer to break down a wall at a construction site. The worker is wearing a blue jacket, orange pants, a yellow hard hat, and a face mask. The background is a construction site with debris and exposed wires. The worker is actively breaking down the wall, causing debris to fall and wires to be exposed. The ambient sound includes background noise and hammering sounds.",
+    "audio_prompt": [
+        "Loud hammering and banging"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a bald man in a beige blazer speaking on a stage. He is addressing an unseen audience, discussing the issue of people not listening when others speak. The setting is simple, with a blue background and a circular shadow, indicating a formal presentation or lecture environment.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker",
+        "text": "And yet many people have the experience that when they speak, people don't listen to them. Why is that?"
+    }
+}

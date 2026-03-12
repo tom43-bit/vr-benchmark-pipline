@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video captures a playful scene of a dog chasing a duck on a rural road. The duck, with its distinctive green head and yellow beak, is running away, while the golden Labrador Retriever, full of energy, is chasing it. The background features a serene rural setting with green grass and trees, and the ambient sounds of the duck quacking and the dog barking add to the lively atmosphere.",
+    "audio_prompt": [
+        "Duck quacking",
+        "Dog barking"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

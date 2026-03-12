@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts two trains, Thomas the Tank Engine and another train, moving along a rural railway track. The trains are emitting steam as they approach a station, with the background featuring green fields, trees, and buildings with red roofs. The camera remains stationary, capturing the movement of the trains and the ambient sounds of steam and a train horn.",
+    "audio_prompt": [
+        "A bell rings and a train horn blows"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

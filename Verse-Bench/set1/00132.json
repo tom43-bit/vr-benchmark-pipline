@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a boy in a state of deep depression, as indicated by his serious expression, slumped posture, and the speech content expressing hatred towards his mother, classmates, and the world. The setting is a simple indoor environment with a plain white wall and decorative molding, and the lighting is soft and natural, suggesting a daytime scene. There is no ambient sound described in the provided information.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the boy",
+        "text": "I hate my mother, I hate my classmates, I hate very thing in the world"
+    }
+}

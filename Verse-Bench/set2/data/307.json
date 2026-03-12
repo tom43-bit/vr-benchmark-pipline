@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a tranquil riverside scene with clear, turquoise water flowing over rocks. The surrounding area is lush with green trees and vegetation, creating a peaceful and natural environment. The water flows steadily, creating small rapids and splashes, while the ambient sounds of gurgling water and leaves rustling add to the serene atmosphere.",
+    "audio_prompt": [
+        "A stream of water is flowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

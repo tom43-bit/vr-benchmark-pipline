@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene scene of a river with muddy water, where fish are seen jumping out of the water. The camera pans across the river, showing the surrounding environment, including rocks and vegetation. The atmosphere is calm, with the sound of water flowing and birds chirping in the background.",
+    "audio_prompt": [
+        "A stream of water is flowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

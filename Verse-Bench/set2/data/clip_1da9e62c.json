@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a group of young puppies playing and interacting inside a metal crate. The puppies are light-colored, playful, and energetic. They are moving around, jumping, and playing with each other. The background is an indoor setting with a tiled floor. The ambient sound is the barking of a dog.",
+    "audio_prompt": [
+        "A group of puppies whimpering"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

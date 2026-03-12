@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A little boy is sitting in a black stroller, wearing a red polo shirt with a gold emblem and beige shorts. He is initially calm, but then starts crying loudly. The camera captures his reaction, and the ambient sound is the sound of the boy crying. The background is a paved outdoor area with a light gray and white pattern.",
+    "audio_prompt": [
+        "Sound of the boy crying"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

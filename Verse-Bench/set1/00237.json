@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video captures a man riding a sleek black motorcycle along a road near a picturesque beach. The camera dynamically follows the man as he speeds along, with the ocean waves crashing in the background. The scene is set against a clear sky with a few clouds, creating a serene and dynamic atmosphere.",
+    "audio_prompt": [
+        "The sound of a motorcycle engine",
+        "The sound of waves crashing on the shore"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

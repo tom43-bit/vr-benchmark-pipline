@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man giving a presentation on a stage. He is dressed in a black suit and is using a remote control and a microphone. The background is a geometric pattern in shades of brown and black. The man is speaking about amounts of efficiency that are close to fundamental limits set by the laws of physics itself. He uses hand gestures to emphasize his points and occasionally looks to the side.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "Amounts of efficiency that are close to fundamental limits set by the laws of physics itself."
+    }
+}

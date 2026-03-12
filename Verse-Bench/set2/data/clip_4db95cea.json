@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A close-up view of a fire burning brightly against a dark background. The flames flicker and dance, casting a warm glow. There is no visible movement of characters or objects, and the background is entirely dark, emphasizing the fire as the focal point.",
+    "audio_prompt": [
+        "Fire crackling and crackling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

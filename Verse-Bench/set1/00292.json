@@ -1,0 +1,10 @@
+{
+    "video_prompt": "An old man is kneeling on the ground, holding some money in his hands, and speaking. He is wearing a beige jacket, a red sweater, and brown pants. He has a backpack on his back. The background is a gray stone wall and a paved sidewalk. The ambient sound is the ambient city sounds.",
+    "audio_prompt": [
+        "Ambient city sounds"
+    ],
+    "speech_prompt": {
+        "speaker": "the old man",
+        "text": "Please help me, I only need 100 yuan for a ride home. Please help me."
+    }
+}

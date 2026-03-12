@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man in a brown suit standing on a red circular platform, gesturing with his hands while speaking to an audience. The audience is seated in rows, watching the speaker attentively. The background features a stage with purple curtains and a microphone on a stand. The speaker is discussing the concept of temperature scales, specifically mentioning -40 as the point where Celsius and Fahrenheit meet.",
+    "audio_prompt": [
+        "A man speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "And don't bother asking if that's Celsius or Fahrenheit. -40 is where the two scales meet."
+    }
+}

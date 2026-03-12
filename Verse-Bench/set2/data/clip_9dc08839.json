@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A dolphin is swimming in calm water, its head and mouth moving, creating ripples. The background includes a fence, buildings, and trees. The dolphin's movements and vocalizations are the main focus of the video.",
+    "audio_prompt": [
+        "A bird chirping followed by a person whistling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

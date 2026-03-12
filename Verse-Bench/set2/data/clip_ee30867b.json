@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a gray wolf in a snowy forest environment, sitting in the snow and howling. The wolf's thick fur is covered with snow, and it appears to be communicating or expressing itself through its howl. The background consists of snow-covered ground and trees, creating a serene and cold winter scene.",
+    "audio_prompt": [
+        "A wolf howling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

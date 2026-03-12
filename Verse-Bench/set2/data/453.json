@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a scene of cars driving on a winding road in a scenic area. The road is surrounded by trees, and the sky has a beautiful sunset color. One of the cars makes a sharp turn, creating a cloud of smoke. The ambient sounds include road noise, car engines revving, and tires screeching.",
+    "audio_prompt": [
+        "A car engine revving and accelerating"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

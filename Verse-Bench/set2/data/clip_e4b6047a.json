@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person is chopping onions on a wooden table outdoors. The person is wearing a dark hoodie and is focused on chopping the onions with a knife. The background shows greenery, indicating an outdoor setting. The sound of chopping onions is prominent throughout the video.",
+    "audio_prompt": [
+        "Someone is chopping on a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

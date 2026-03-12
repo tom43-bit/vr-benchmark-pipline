@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a pack of wolves howling in a forest. Four white wolves stand on the forest floor, surrounded by bare trees and fallen leaves. Several of the wolves begin to howl, and one of them raises its front legs, as if signaling. The background is a bare forest with sparse trees and fallen leaves covering the ground. The howling of the wolves can be heard in the video.",
+    "audio_prompt": [
+        "A dog howls and howls"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

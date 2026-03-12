@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A biker is riding a mountain bike across a wooden bridge in a forest. The biker is wearing casual attire and is riding the bike with both hands on the handlebars. The bridge is made of wooden planks and is surrounded by trees and rocks. The biker is riding the bike at a moderate speed and is able to maintain balance on the bridge. The wind is blowing and the sound of the bicycle wheels can be heard. The forest is quiet and peaceful, with only the sound of the biker and the wind. The biker is able to successfully cross the bridge and continue riding on the forest trail.",
+    "audio_prompt": [
+        "A bike is being moved around and wind is blowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

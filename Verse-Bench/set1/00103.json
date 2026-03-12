@@ -1,0 +1,10 @@
+{
+    "video_prompt": "In a modern studio setting, an e-commerce anchor is live streaming and selling makeup products. She is seated at a table filled with various makeup items, pointing at a lipstick in shade 95 and explaining its features. The background includes a large screen displaying live chat messages and a clean, organized makeup table. The overall style is realistic, with a focus on the anchor's interaction with the products and the camera interface.",
+    "audio_prompt": [
+        "Ambient studio sounds, occasional clicks from the camera interface"
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "Today we are going to try the lipstick in shade 95."
+    }
+}

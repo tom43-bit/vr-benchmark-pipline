@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is giving a speech in a well-furnished room, discussing the sudden increase in prices of goods. He is wearing glasses, a white shirt, and a checkered blazer, and is using a microphone. The background includes wooden furniture, a lamp, and a colorful painting on the wall.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Man",
+        "text": "When Americans see that suddenly prices of goods have gone way up"
+    }
+}

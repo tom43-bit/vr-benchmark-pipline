@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is seen in a cave, initially holding onto a large rock, then moving his hands to a smaller rock, and finally sitting down on the smaller rock. The cave has a moss-covered rocky environment with a dark, narrow opening.",
+    "audio_prompt": [
+        "Dishes are shuffling and a person is breathing heavily"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

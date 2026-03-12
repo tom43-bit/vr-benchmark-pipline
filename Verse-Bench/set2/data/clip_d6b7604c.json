@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a light-colored cat standing on a carpeted floor, looking around curiously. The cat moves around, and the camera follows its movements. The background includes a cat tree, and the cat meows throughout the video.",
+    "audio_prompt": [
+        "A cat meows multiple times"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

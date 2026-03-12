@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a poignant moment where a man, who has been away from his hometown for a long time, expresses his longing for his family. He takes off his sunglasses, revealing a tearful face, while a woman speaks in the background, possibly offering words of comfort. The setting is a brick wall adorned with colorful graffiti, adding a vibrant backdrop to the emotional scene.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "I have been a long time far from my home town. I miss my parents and my son."
+    }
+}

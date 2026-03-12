@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a close-up of a fluffy white kitten being held by a person. The kitten has large, expressive eyes and a pink nose. The person is gently holding the kitten, and the kitten appears to be meowing. The background is an outdoor setting with greenery and trees, suggesting a natural environment.",
+    "audio_prompt": [
+        "A kitten is crying"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

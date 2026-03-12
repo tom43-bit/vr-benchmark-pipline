@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking about the evolution of methane monitoring tools. He is dressed in a light purple shirt and beige pants, and he is holding a small object in his hand. The background is colorful and abstract, with a large circular design in shades of yellow, orange, and blue. The man is gesturing with his hands while speaking, and the camera remains stationary throughout the video.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "But the good news is that methane monitoring tools have significantly evolved."
+    }
+}

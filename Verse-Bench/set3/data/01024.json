@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking about the interaction between plants and beneficial microorganisms in nature. He is holding a plant and a microphone, and the background is a colorful, abstract design with leaf patterns. The man is actively gesturing as he speaks, indicating an engaging presentation style.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "And out in nature, most plants are engaging with one or more of these beneficial microorganisms."
+    }
+}

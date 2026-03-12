@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A white rooster with a red comb and wattle is standing on a wooden fence in a grassy field. A brown chicken is walking on the ground nearby. The rooster is crowing, and the background is a grassy field with trees in the distance.",
+    "audio_prompt": [
+        "A rooster crows and a chicken crows"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

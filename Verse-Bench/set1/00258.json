@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a tense and dramatic scene where a woman, looking scared and determined, is holding a gun in a dimly lit, industrial-looking room with bloodstains on the walls. The scene suggests a high-stakes situation, possibly involving danger or conflict. The ambient sound of a gunshot adds to the intensity of the moment.",
+    "audio_prompt": [
+        "Sound of gunshot"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

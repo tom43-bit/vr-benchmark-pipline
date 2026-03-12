@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a person working in a workshop, using a tool to shape a circular object. Wood shavings are flying off as the object is being worked on, and the person is wearing gloves. The background shows a workshop setting with various tools and equipment.",
+    "audio_prompt": [
+        "A power tool works"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

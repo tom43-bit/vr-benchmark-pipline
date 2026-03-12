@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man with long hair, glasses, and a beard wearing a floral shirt is speaking in front of a blue curtain. He is talking about ethical norms and mentions that others won't be concerned with them.",
+    "audio_prompt": [
+        "A man is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "And they won't be concerned with our ethical norms"
+    }
+}

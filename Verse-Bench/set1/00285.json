@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man standing outdoors in a scenic mountainous area. He is wearing a green polo shirt with 'GANT N.H. CT' printed on it, sunglasses, and has a tattoo on his left arm. The man speaks about the prey in the mountains, which only come out at dusk. He then picks up his shotgun and starts walking up the mountain. The background is a beautiful outdoor setting with mountains, trees, and a clear sky. The sun is setting, casting a warm glow over the landscape. The ambient sound includes the sound of birds chirping and the wind blowing through the trees.",
+    "audio_prompt": [
+        "The sound of birds chirping and the wind blowing through the trees"
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "There are many prey in the mountains behind, and they only come out at dusk."
+    }
+}

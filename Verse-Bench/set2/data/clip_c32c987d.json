@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video starts with a person cutting onions on a wooden cutting board in an outdoor setting. The person is using a knife to chop the onions, and there is a bowl of mashed vegetables and some tomatoes nearby. The scene then transitions to a different setting where a wooden surface is shown with a bowl of mashed vegetables, suggesting a change in the cooking process or a different part of the meal preparation.",
+    "audio_prompt": [
+        "Someone is tapping on a wooden surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

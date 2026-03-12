@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking passionately in a studio setting, using hand gestures to emphasize his points. The background is colorful and abstract, adding a dynamic element to the scene.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "And the arguments about this are so persistent."
+    }
+}

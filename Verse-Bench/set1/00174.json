@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video showcases a tranquil coastal scene with a large rocky hill covered in lush green vegetation. The ocean waves gently crash against the rocks, creating a peaceful and serene atmosphere. The clear blue sky and calm waters contribute to the overall sense of tranquility and natural beauty.",
+    "audio_prompt": [
+        "Sound of waves"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a host in a suit and tie, seated at a desk in a studio with a cityscape backdrop. The host is speaking directly to the camera, likely introducing a segment or topic for the show. The setting is professional and well-lit, with a mug and notebook on the desk, suggesting a late-night talk show format.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Host",
+        "text": "The show I want to let you know something that I found out just last night next year will be"
+    }
+}

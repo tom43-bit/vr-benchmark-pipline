@@ -1,0 +1,10 @@
+{
+    "video_prompt": "Man is demonstrating how to pierce a red balloon with a needle and then picks up a small red object. The action takes place on a carpet with a pattern of dark and light stripes. There is no ambient sound detected.",
+    "audio_prompt": [
+        "A loud pop followed by a thump"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

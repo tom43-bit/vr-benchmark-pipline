@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a group of bees and wasps interacting with each other and a beehive. The bees are small with black and yellow stripes, while the wasps are larger with orange and black stripes. The video is shot in a realistic style, with a focus on the natural behavior of the insects. The background is a green leafy area with a wooden beehive. The video captures the movement and interaction of the bees and wasps, as well as the ambient sounds of the environment.",
+    "audio_prompt": [
+        "Insects are buzzing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

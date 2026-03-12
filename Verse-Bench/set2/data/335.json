@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a pair of hands tearing a piece of white paper into two pieces. The hands are visible, with fingers and nails clearly shown. The background is a dark surface, possibly a table or desk. The action is simple and straightforward, with no additional characters or objects present.",
+    "audio_prompt": [
+        "Paper is being torn and crumpled"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

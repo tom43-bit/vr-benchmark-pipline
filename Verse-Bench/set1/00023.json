@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a young princess in a beautiful forest, dancing and singing with excitement. The camera captures her joyful movements, with the ambient sound of forest music adding to the enchanting atmosphere.",
+    "audio_prompt": [
+        "Sound of forest music"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person is walking on a tightrope over a body of water, with waves crashing against a rocky cliffside. The person is carefully balancing on the tightrope, and the wind is blowing strongly. The scene is set in a natural environment with a dramatic and adventurous atmosphere.",
+    "audio_prompt": [
+        "Wind blowing hard"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

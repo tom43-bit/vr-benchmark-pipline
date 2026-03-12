@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A forestry worker in an orange safety vest and helmet is cutting a tree with a chainsaw in a forest setting. The worker bends down and starts cutting the tree, and the chainsaw engine revs up as the tree is being cut.",
+    "audio_prompt": [
+        "A chainsaw is being used"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

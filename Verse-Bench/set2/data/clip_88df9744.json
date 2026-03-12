@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person is cutting a red pepper on a wooden cutting board outdoors. The person holds the pepper and uses a knife to cut it into smaller pieces. The background features greenery and rocks, and birds can be heard chirping. The scene is calm and focused on the task of preparing the pepper.",
+    "audio_prompt": [
+        "A metal object is moved"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

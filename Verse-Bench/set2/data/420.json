@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman in a red dress speaking on a stage, likely delivering a speech or presentation. She is using hand gestures to emphasize her points, and the setting is a formal stage with a dark blue curtain in the background. The audio includes her speech about doctors not being trained in routine screening or treatment.",
+    "audio_prompt": [
+        "A woman giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "And yet doctors today are not trained in routine screening or treatment."
+    }
+}

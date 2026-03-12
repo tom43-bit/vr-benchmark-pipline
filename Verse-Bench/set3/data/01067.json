@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a man giving a presentation on a stage with a TED logo, discussing the variability of biological processes. The setting is formal, with a focus on the speaker and his speech.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker",
+        "text": "Also biological processes are very variable."
+    }
+}

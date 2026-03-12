@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man in a suit giving a presentation or lecture in an indoor setting. He is standing in front of a whiteboard and a projector screen, gesturing with his hands as he speaks about the location of the diaphragm in the body. The background is a simple indoor environment with no additional characters or objects present.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "Where is the diaphragm live in the body? Where is my diaphragm right?"
+    }
+}

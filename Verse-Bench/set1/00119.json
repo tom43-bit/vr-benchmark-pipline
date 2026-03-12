@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman is playing the violin in a room with a beige wall and a framed painting of a night sky. She is wearing a white shirt and blue pants, and her long, wavy brown hair is visible. The video captures her playing the violin with a bow, moving her hands along the strings and the neck of the violin. The sound of the violin is the only ambient sound present.",
+    "audio_prompt": [
+        "Sound of the violin"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

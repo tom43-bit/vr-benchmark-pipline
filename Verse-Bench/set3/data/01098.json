@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features an older man speaking in front of a blue and red abstract background. He is wearing a black shirt and is gesturing with his hands while speaking. The speech content is about taking action and mentioning an event that just happened in Switzerland.",
+    "audio_prompt": [
+        "A man speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "We can act now. Here's this just happened in Switzerland."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is seen in a forest setting, crouching on the ground and arranging wooden planks. The forest is filled with tall trees and the sky is clear. The man is wearing a black jacket and blue jeans. There is no speech in the video, but the ambient sounds of nature, birds chirping, and wind can be heard. The man's actions are focused on arranging the wooden planks, suggesting he might be preparing for some outdoor activity or construction.",
+    "audio_prompt": [
+        "A man is hitting wood"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

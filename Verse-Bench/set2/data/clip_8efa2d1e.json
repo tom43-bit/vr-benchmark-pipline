@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman is giving a speech in a formal setting, likely a conference or seminar. She is wearing a red blazer and is using a microphone. The background includes a projector screen with text and a blue banner. The woman is gesturing with her hands as she speaks.",
+    "audio_prompt": [
+        "A woman is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Woman",
+        "text": "It will be missed. Sea levels will be higher. Small"
+    }
+}

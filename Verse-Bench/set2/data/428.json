@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person playing a snare drum in a relaxed indoor setting. The person is seated on a chair, wearing casual clothing, and is focused on playing the drum. The rhythmic sound of the drumsticks hitting the drumhead is the primary audio element, creating a musical atmosphere.",
+    "audio_prompt": [
+        "A drum is being played"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

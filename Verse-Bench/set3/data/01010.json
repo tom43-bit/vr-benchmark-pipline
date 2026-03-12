@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking about the transition from the real world to the virtual world, specifically mentioning iPhones and personal computers. He is dressed in a dark checkered shirt and is holding a small object and a microphone. The background is a simple blue curtain, and the man is actively gesturing as he speaks.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "We retreated into the virtual world, a world of iPhones and personal computers"
+    }
+}

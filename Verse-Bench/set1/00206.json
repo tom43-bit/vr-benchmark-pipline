@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman with a striking, artistic appearance, speaking directly to the camera with a serious and determined expression. She is adorned with vibrant flowers and feathers, and her bold makeup complements her unique headpiece. The solid, dark teal background provides a stark contrast to her colorful attire, emphasizing her presence and the importance of her message. The video captures a moment of resolve and determination, as the woman speaks about facing challenges and making important decisions.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "I won't forsake my professor, nor do I intend to run from a problem that I must face sooner or later. Give me one night to make my decision."
+    }
+}

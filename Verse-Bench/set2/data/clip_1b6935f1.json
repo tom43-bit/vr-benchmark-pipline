@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A group of chickens of various colors and patterns are gathered around a yellow container, pecking at it. The scene takes place in a fenced area with grass and some wooden posts. The chickens are actively moving around the container, creating a lively and dynamic scene.",
+    "audio_prompt": [
+        "A rooster crows and a chicken crows"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

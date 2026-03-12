@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a close-up of a cat with a light brown and white coat and striking green eyes. The cat is in a relaxed state, with its mouth slightly open, showing its teeth. The background is a plain, light-colored wall, and the cat's head moves slightly, indicating a change in its focus or attention. The ambient sound is the cat meowing.",
+    "audio_prompt": [
+        "A cat is meowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

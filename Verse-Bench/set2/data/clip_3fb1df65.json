@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A rooster is standing on a wooden fence in a grassy area with a tree in the background. The rooster is crowing and moving its head. The background includes birds chirping and the rooster crowing.",
+    "audio_prompt": [
+        "Birds chirp and a rooster crows"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

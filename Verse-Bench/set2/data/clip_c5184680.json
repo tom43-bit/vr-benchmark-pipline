@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The player is navigating through an industrial area, aiming and firing a firearm. The environment is characterized by metal structures and concrete walls, with the sound of gunfire and metallic clanking indicating a tense combat situation.",
+    "audio_prompt": [
+        "Rapid gunfire followed by a man yelling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features three birds—a Crow, a Green Parrot, and a Colorful Parrot—perched on a branch in a grassy field. The Crow opens its beak wide, the Green Parrot looks up, and the Colorful Parrot looks to the side. The background is a grassy field with trees in the distance and a clear blue sky. The ambient sound includes birds chirping.",
+    "audio_prompt": [
+        "Birds chirping and tweeting"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

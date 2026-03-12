@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a scene inside a rustic wooden cabin where two individuals are engaged in wood chopping activities. Person A is chopping wood with a chopping block, while Person B assists by holding the wood steady. The setting includes a wooden stove, a kettle, a cutting board, and a backpack, creating a cozy and functional atmosphere. The audio includes the sound of wood chopping and background cabin noise, adding to the realism of the scene.",
+    "audio_prompt": [
+        "Wood is being moved around"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

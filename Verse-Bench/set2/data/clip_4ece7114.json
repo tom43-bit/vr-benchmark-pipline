@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person dialing a rotary phone on a cluttered desk. The hand moves the dial to input a number, and the phone rings. The background includes books and wires, suggesting a busy office environment.",
+    "audio_prompt": [
+        "A telephone is being dialed"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

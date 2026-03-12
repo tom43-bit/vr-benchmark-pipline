@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a small, white, fluffy puppy playing with a leash on a red tiled floor. The puppy is wearing a collar and is seen pulling the leash with its mouth and paws. The background includes some furniture and a blue bag, indicating an indoor setting. The puppy's actions are lively and playful, with the sound of barking adding to the scene.",
+    "audio_prompt": [
+        "A small dog barks several times"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

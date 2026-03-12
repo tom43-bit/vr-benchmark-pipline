@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a girl in traditional Hanfu recording a scene of Qin Shi Huang ascending the throne. She is holding a phone and appears excited. The background features ancient Chinese architecture, a red carpet leading to steps, and a statue of Qin Shi Huang. Courtiers in traditional attire are standing in formation. The girl moves closer to the camera while recording, and the scene remains static with the statue and courtiers in place.",
+    "audio_prompt": [
+        "Ambient sounds of the palace"
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "King Ying Zheng of Qin would soon become Emperor Ying Zheng of Qin. I had witnessed history."
+    }
+}

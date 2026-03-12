@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a boxing match between RODTANG and SUPERLEK in a dark arena. RODTANG lands a powerful punch on SUPERLEK's head, causing him to stumble back. The Referee closely monitors the situation, and the audience cheers and reacts to the match.",
+    "audio_prompt": [
+        "A crowd is cheering and a man speaks"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

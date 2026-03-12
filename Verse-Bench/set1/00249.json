@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a girl on a wooden stage, wearing a black blazer, white shirt, and a red and white striped tie. She is holding a small object in her hands and speaking, possibly explaining or demonstrating something. The background is a wooden stage with a polished wooden floor and a dark background. The girl is the main focus of the video, and there is no ambient sound provided.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "So for lots of people this could be simple for a question. But suddenly this question is complicated and can be the rule of identical cases."
+    }
+}

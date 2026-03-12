@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man in an orange robe standing in a room with ornate decorations. He is holding a mallet and appears to be about to strike a large wooden gong. The background features a room with various decorative items, including vases and sculptures.",
+    "audio_prompt": [
+        "A drum is being played"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

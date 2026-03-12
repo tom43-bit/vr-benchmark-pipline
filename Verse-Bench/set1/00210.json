@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a girl speaking into a microphone, likely addressing an audience or camera. She is wearing a light blue blouse with black suspenders and glasses. The background is a blurred, colorful grid pattern, suggesting a stage or studio setting. The girl is speaking about her appearance and talent, emphasizing that her inner qualities are the key to her success.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "People always make fun of my appearance, and I want to tell them that my appearance is given by my parents and cannot be changed. But my talent and inner qualities are the key to my success."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a man performing a barbell lift in a gym environment. He is dressed in athletic attire and is focused on his exercise. The gym is well-equipped with various fitness machines and other individuals engaged in their workouts. The ambient sounds suggest a typical gym atmosphere with the occasional clanking of weights or other exercises being performed.",
+    "audio_prompt": [
+        "A person is talking in the background, followed by a loud bang"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

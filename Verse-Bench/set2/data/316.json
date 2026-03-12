@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a small, fluffy dog with white and brown fur sitting on a red cushion. The dog looks around and then starts barking. The setting is an indoor environment with a gray couch and a red cushion. The dog's actions are the main focus of the video, with no other characters or significant background elements present.",
+    "audio_prompt": [
+        "A dog barks and barks"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

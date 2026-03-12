@@ -1,0 +1,10 @@
+{
+    "video_prompt": "Donald Trump is playing the piano in a formal setting with red flags and a large window in the background. He is wearing a red suit and white shirt, and his hands are on the keys of the grand piano. The music sheet is visible on the piano, and the sound of the piano can be heard",
+    "audio_prompt": [
+        "Sound of piano"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

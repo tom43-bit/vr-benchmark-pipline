@@ -1,0 +1,11 @@
+{
+    "video_prompt": "A sports car is seen performing a drift maneuver on a racing track. The driver, dressed in a racing suit, is focused on controlling the car. The car's sleek design and powerful engine are evident as it completes the drift, raising dust from the track. The background features a clear sky, a racing track with barriers, and a grandstand in the distance. The ambient sounds include the car drift sounds and engine noises, adding to the intensity of the scene.",
+    "audio_prompt": [
+        "Car drift sounds",
+        "Engine sounds"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

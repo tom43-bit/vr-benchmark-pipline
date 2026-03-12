@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A young girl is sitting by a campfire, roasting marshmallows. She is wearing a light-colored shirt with a pattern of small shapes. The background is a natural outdoor setting with grass, rocks, and trees. The girl is holding marshmallows over the campfire, and the flames are flickering. The ambient sound includes the crackling of the campfire and the rustling of leaves in the background. The speech content is 'Later on, she probably got sick of answering those questions and decided to stick to just two. The protector of justice and the protector of order.'",
+    "audio_prompt": [
+        "The crackling of the campfire, the rustling of leaves in the background"
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "Later on, she probably got sick of answering those questions and decided to stick to just two. The protector of justice and the protector of order."
+    }
+}

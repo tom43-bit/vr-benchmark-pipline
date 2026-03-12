@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is playing a traditional Chinese wind instrument in a music store. He is wearing a striped polo shirt and is focused on playing the instrument. The background shows various traditional Chinese musical instruments displayed on the wall. The man moves his fingers and blows into the instrument while looking around. The store has a potted plant and other musical instruments on display. The ambient sound includes music and the noise of the store.",
+    "audio_prompt": [
+        "A saxophone is playing a note"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a classroom scene where a girl is teaching students about solving a system of two quadratic equations. She writes the equations on the blackboard and then turns to the camera to explain the concept. The setting is a typical classroom with a blackboard and a window, and the girl is dressed casually in a white t-shirt and blue denim overalls.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "Today I will explain to students how to solve a system of two quadratic equations."
+    }
+}

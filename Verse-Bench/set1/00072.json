@@ -1,0 +1,10 @@
+{
+    "video_prompt": "In a rustic countryside setting, a woman is holding a child and looking towards the camera. The woman is wearing a red long-sleeved shirt and has long black hair. The child, wearing an orange and gray striped shirt and gray pants, is being held by the woman. The background features a wooden house with a rustic appearance, surrounded by green plants and trees. The ground is covered with dirt and some scattered leaves. The woman says: 'Look, is daddy back?' The scene remains static with no significant movement, and the ambient sounds of nature, such as birds chirping and leaves rustling, can be heard.",
+    "audio_prompt": [
+        "Ambient sounds of nature, such as birds chirping and leaves rustling."
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "Look, is daddy back?"
+    }
+}

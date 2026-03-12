@@ -1,0 +1,10 @@
+{
+    "video_prompt": "In a public square, a little girl is sitting on a seesaw while a little boy pushes her. The seesaw moves up and down as the boy pushes. An older woman is sitting on a bench nearby, watching the children play. Other children and adults are in the background, some playing and some watching. The scene is lively and colorful, with buildings, trees, and colorful balloons in the background.",
+    "audio_prompt": [
+        "No specific ambient sounds mentioned"
+    ],
+    "speech_prompt": {
+        "speaker": "the boy",
+        "text": "Go down quickly, it’s my turn, it’s my turn."
+    }
+}

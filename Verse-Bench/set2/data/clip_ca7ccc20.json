@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a white pickup truck driving through a desert landscape, navigating steep sand dunes and leaving tracks in the sand. The scene is set in a vast desert with large sand dunes and sparse vegetation. The truck's movement is the main focus, with the sound of the car accelerating and skidding adding to the dynamic nature of the scene.",
+    "audio_prompt": [
+        "A vehicle revving its engine and accelerating away"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

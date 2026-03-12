@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a peaceful beach scene with gentle waves and a calm sky. The camera remains stationary, focusing on the tranquil environment with the sound of water splashing and waves. There are no characters present in the video.",
+    "audio_prompt": [
+        "Water is splashing and gurgling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a cartoon-style girl standing in front of a green chalkboard, holding a test paper and speaking to the class. She is wearing a blue jacket with white sleeves and yellow stars on the shoulders. The background includes a wooden desk with a few items on it, including a box and a book. The girl is speaking about the test paper, saying that it is not difficult and hoping that everyone can get a good score.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "The test paper this time is not difficult, I hope everyone can get a good score."
+    }
+}

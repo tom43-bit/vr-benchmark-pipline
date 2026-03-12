@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a live performance of a female singer, who is the central figure, singing with emotion into a microphone. A male singer is present beside her, contributing to the performance. The stage is dimly lit with blue and purple lights, creating a dramatic and intimate setting. The background includes subtle crowd noise and music, enhancing the live performance atmosphere.",
+    "audio_prompt": [
+        "A woman sings while music plays"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

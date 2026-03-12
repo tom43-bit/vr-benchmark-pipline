@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video begins with a serene view of a beach, where the waves are crashing against the shore. The sound of the waves and the ocean can be heard, creating a peaceful atmosphere. There are no characters present in the scene, and the focus is solely on the natural beauty of the beach and the rhythmic sound of the waves.",
+    "audio_prompt": [
+        "Waves crash against a shoreline"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "video_prompt": "In a traditional martial arts arena, two skilled duelists are engaged in a fierce battle. Suddenly, a giant sword falls from the sky, striking them in the middle and causing them to separate. The scene is tense and dramatic, with the sound of fighting and the sword falling adding to the intensity of the moment.",
+    "audio_prompt": [
+        "Sound of fighting",
+        "Sound of sword falling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

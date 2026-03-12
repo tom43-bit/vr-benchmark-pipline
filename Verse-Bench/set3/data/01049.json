@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking against a pink background, likely delivering a TED talk. He is dressed in a gray blazer and black shirt, and he is gesturing with his right hand while speaking. The background is simple and uncluttered, focusing attention on the speaker.",
+    "audio_prompt": [
+        "A man speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "A man",
+        "text": "Let's just say imitation was the sincerest form of flattery."
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video depicts a woman playing a Chinese traditional lute (pipa) on a rocky beach. She is dressed in a traditional Chinese outfit with a gradient of red and white colors, and her hair is styled in an intricate updo with traditional accessories. The background features crashing ocean waves and a clear sky, creating a serene and picturesque setting. The sound of the pipa and the tide adds to the ambiance of the scene.",
+    "audio_prompt": [
+        "Sound of Chinese traditional lute (pipa)",
+        "Sound of tide"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

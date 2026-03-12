@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a young girl standing on a train station platform, looking into the distance, waiting for the next train to arrive. The station is surrounded by cherry blossom trees in full bloom, and the sky is clear with a few clouds. The overall atmosphere is serene and peaceful, with the sound of the train passing by adding to the ambiance.",
+    "audio_prompt": [
+        "Sound of train passing by"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

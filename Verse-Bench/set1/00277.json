@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A young man is sitting on a step, playing a guitar and singing. He is wearing a gray t-shirt and dark pants with red sneakers. The background features a yellow wall with peeling paint and a window. The camera remains stationary, focusing on the young man and his guitar. The ambient sound is the sound of the guitar and singing.",
+    "audio_prompt": [
+        "Guitar music and singing"
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "When I was young, I'd listen to the radio Waitin' for my favorite songs"
+    }
+}

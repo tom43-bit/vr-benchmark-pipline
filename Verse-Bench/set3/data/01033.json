@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman is speaking on a stage, wearing a black sleeveless dress with a belt. She has blonde hair and is using hand gestures while speaking. The background is a dark curtain, indicating a stage setting. The speech content is 'But silence seems safer'.",
+    "audio_prompt": [
+        "A woman speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "But silence seems safer"
+    }
+}

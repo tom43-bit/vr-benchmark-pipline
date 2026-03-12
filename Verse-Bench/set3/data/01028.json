@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking on a stage with a blue curtain backdrop. He is wearing a beige jacket over a dark blue shirt and black pants. The man is gesturing with his hands while speaking. The background is a simple stage setting with a blue curtain. There are no other characters or objects present in the video.",
+    "audio_prompt": [
+        "An adult male is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "I know not all families look like this, but but ours did."
+    }
+}

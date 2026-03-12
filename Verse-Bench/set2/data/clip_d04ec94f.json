@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is chopping a tree in a forest. He is wearing a white shirt and blue jeans. He swings an ax at the tree, causing wood chips to fly off. The background is a forest with green trees and bushes.",
+    "audio_prompt": [
+        "Wood is being hit on a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

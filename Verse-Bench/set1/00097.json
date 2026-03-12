@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features an elderly man in a checkered cap and red and white striped shirt, seated outdoors in a relaxed setting. He speaks directly to the camera, admitting he is in Spain but only speaks Chinese. The background includes a canopy, plants, and a casual outdoor atmosphere, with ambient sounds of the outdoors.",
+    "audio_prompt": [
+        "Ambient outdoor sounds, possibly including wind and distant chatter"
+    ],
+    "speech_prompt": {
+        "speaker": "the old man",
+        "text": "Now we are here, we are in Spain. Unfortunately I don't speak Spanish, only Chinese."
+    }
+}

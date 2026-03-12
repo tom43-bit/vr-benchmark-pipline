@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a green M&M's character standing on a wooden floor, speaking with expressive hand gestures. The character is the main focus, and the background is dark and out of focus, suggesting an indoor setting with minimal lighting. The character's speech content is 'You want a real piece of advice? Instead of hating your job, try loving the fact.'",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the green ball",
+        "text": "You want a real piece of advice? Instead of hating your job, try loving the fact."
+    }
+}

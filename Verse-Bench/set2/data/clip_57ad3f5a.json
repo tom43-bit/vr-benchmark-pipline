@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is sitting by a fire with a large fish on a log, cutting the fish with a knife. The background is a serene lake with mountains in the background, and the fire is burning brightly. The man is wearing a green hoodie and a brown hat. The ambient sounds of nature, such as wind and water, can be heard.",
+    "audio_prompt": [
+        "Wood is being tapped"
+    ],
+    "speech_prompt": {
+        "speaker": "man",
+        "text": "And then, I'm going to go ahead and click on the."
+    }
+}

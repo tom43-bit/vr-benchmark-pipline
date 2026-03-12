@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a realistic and intense scene of a Tyrannosaurus Rex roaring and running towards the camera in a dense, prehistoric forest. The dinosaur's fierce expression and the surrounding lush forest create a sense of danger and excitement. The camera remains stationary, allowing the viewer to fully appreciate the dinosaur's movement and the detailed environment. The ambient sounds of dinosaurs roaring and the ground shaking add to the immersive experience, making the viewer feel as if they are in the midst of a prehistoric scene.",
+    "audio_prompt": [
+        "The sound of dinosaurs roaring, the ground shaking, and the rustling of leaves"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a peaceful lakeside scene with rocks along the shore and a calm body of water. The sky is overcast, and the water gently laps against the rocks, creating a soothing sound. The camera remains stationary, emphasizing the tranquility of the scene.",
+    "audio_prompt": [
+        "Water is splashing and gurgling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a chef in a white uniform slicing a white vegetable on a wooden cutting board. The chef's hands are visible, holding a large knife and manipulating the vegetable. The background is a dark kitchen with a curtain and a red object. The chef's movements are precise and deliberate as they slice the vegetable into thin pieces. The sound of the knife slicing through the vegetable is audible, along with background music.",
+    "audio_prompt": [
+        "Music plays as a person cuts a surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

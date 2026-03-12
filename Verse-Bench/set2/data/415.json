@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man with glasses, gray hair, and a beard wearing a gray shirt is speaking in an indoor setting with a brick wall and a black screen. He is looking around and reacting to something, possibly talking about the idea of treating AI like a person.",
+    "audio_prompt": [
+        "A man is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Man",
+        "text": "Really, you think about talking to AI like it's a person."
+    }
+}

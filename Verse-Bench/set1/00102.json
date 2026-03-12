@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a girl standing by a large window, smiling and leaning slightly forward, as if she is about to speak or is in the middle of speaking. The background shows a panoramic view of a city with a river running through it, and a distant view of mountains or hills. The camera remains stationary, focusing on the girl and the view outside the window. The ambient sound includes ambient city sounds, possibly including distant traffic and the occasional bird call.",
+    "audio_prompt": [
+        "Ambient city sounds, possibly including distant traffic and the occasional bird call"
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "This is our new home. It not only has a river view, but also a view of faraway places."
+    }
+}

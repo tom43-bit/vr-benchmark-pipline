@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a large bell hanging from a metal frame inside a building with wooden beams and stone walls. The bell is swinging back and forth, creating a rhythmic metallic clanking sound. The ambient sound includes the bell ringing and metallic clanking.",
+    "audio_prompt": [
+        "A large bell rings several times"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

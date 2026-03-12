@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person preparing food outdoors, specifically spreading a mixture of ground meat and herbs onto a round dough. The person is wearing a dark blue long-sleeve shirt and is focused on evenly distributing the mixture. The background is a natural outdoor setting with trees and greenery, and the sound of rubbing can be heard, likely from the person's hands working on the dough.",
+    "audio_prompt": [
+        "Something is being rubbed on a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman is standing on a stage, holding a card and speaking into a microphone. The background features large screens displaying faces and awards statues, indicating a formal awards ceremony setting. The woman is dressed in a black dress and appears to be delivering a speech or presentation.",
+    "audio_prompt": [
+        "A woman is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "woman",
+        "text": "larger than life the blacklisted screenwriter Dalton Trumbo"
+    }
+}

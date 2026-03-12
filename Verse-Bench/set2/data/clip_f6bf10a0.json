@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person is typing on a keyboard placed on a dark wooden desk. The person's hands are visible, moving quickly across the keys. A laptop is positioned next to the keyboard. The background is simple, with no additional objects or distractions. The ambient sound is the sound of typing on a keyboard.",
+    "audio_prompt": [
+        "Typing on a keyboard"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

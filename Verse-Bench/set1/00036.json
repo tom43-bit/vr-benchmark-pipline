@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a woman standing on a stormy beach, her hair and dress moving with the wind. The dark, wavy hair and delicate necklace suggest a sense of elegance and resilience. The background is a dark, stormy sea with waves crashing against the shore, creating a dramatic and intense atmosphere. The woman's serious and contemplative expression adds to the overall mood of the scene.",
+    "audio_prompt": [
+        "Sound of tide"
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "The Qising is comprised of mere mortals. Rex Lapis is a god. Mondstadt's god is nowhere to be seen, whilst our god is forever with us."
+    }
+}

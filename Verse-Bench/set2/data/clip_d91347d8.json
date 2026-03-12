@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a man sitting by a campfire in a dark, rocky environment. He is wearing a white t-shirt and black shorts, and is using a stick to manipulate something over the fire. The man appears to be speaking, possibly explaining something, but the content of his speech is not clear. The background is dark, with rocks surrounding the fire, and the only sounds are the crackling of the fire and occasional rustling.",
+    "audio_prompt": [
+        "Light rustling and rustling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

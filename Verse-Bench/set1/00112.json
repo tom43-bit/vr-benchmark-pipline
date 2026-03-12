@@ -1,0 +1,12 @@
+{
+    "video_prompt": "The video depicts two elephants, one larger and one smaller, moving across a grassland in a natural savanna environment. The elephants are interacting closely, with the larger one leading and the smaller one following. The background features a vast open landscape with scattered trees and a clear sky, creating a serene and natural setting. The ambient sounds include the rustling of grass, birds chirping, and the gentle breeze, enhancing the peaceful atmosphere of the scene.",
+    "audio_prompt": [
+        "Sound of grass rustling",
+        "Birds chirping",
+        "Wind blowing"
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "I'm not bragging, I've been playing games since I was 7. This level of difficulty is nothing to me."
+    }
+}

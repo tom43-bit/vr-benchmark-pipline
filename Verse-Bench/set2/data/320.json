@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is playing the violin in a simple indoor setting. He is seated on a chair, holding the violin and bow, and playing the instrument with focused movements. The background is a white wall with a glass door, and there is background music playing.",
+    "audio_prompt": [
+        "A music is playing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

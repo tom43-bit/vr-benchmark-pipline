@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man in a floral shirt is playing a saxophone in a music studio. The studio is filled with shelves of CDs, framed pictures, and various musical equipment. The man is focused on his performance, moving his fingers on the keys of the saxophone. The background music adds to the ambiance of the scene.",
+    "audio_prompt": [
+        "A saxophone is playing a melody"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

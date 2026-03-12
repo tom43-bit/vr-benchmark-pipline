@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a close-up of a wooden bowl containing a white creamy substance and green herbs. A wooden spoon is used to mix the contents, blending the ingredients together. The setting is an outdoor natural environment with grass and rocks surrounding the bowl. There is background noise and crunching sounds, suggesting some form of activity or movement in the environment.",
+    "audio_prompt": [
+        "Tapping and clanking"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

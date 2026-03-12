@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person outdoors, engaged in the process of rolling out dough on a wooden surface. The person is wearing a dark blue sweater and is using a wooden rolling pin to flatten the dough. The setting is a natural environment with trees and greenery in the background. The person's hands are visible as they work the dough, and the rolling pin is moved back and forth to achieve the desired thickness. The ambient sounds of nature can be heard, adding to the peaceful and rustic atmosphere of the scene.",
+    "audio_prompt": [
+        "Rubbing and scraping on a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

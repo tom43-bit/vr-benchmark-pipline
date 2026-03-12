@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man in a green uniform squatting on rocks by a river, cutting a piece of bamboo with a knife. The background features a natural setting with grass, rocks, and distant hills. The man's actions are focused on cutting the bamboo, and the ambient sounds of nature add to the serene atmosphere.",
+    "audio_prompt": [
+        "A thud is followed by a thud and more thumping"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

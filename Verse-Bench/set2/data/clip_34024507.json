@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene and focused moment of a woman playing the violin. She is dressed in a strapless pink dress, and her dark hair is neatly tied in a bun. The background is a plain, light-colored wall, which keeps the focus on her and her instrument. The music playing in the background adds to the tranquil and artistic atmosphere of the scene.",
+    "audio_prompt": [
+        "A violin is playing a melody"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

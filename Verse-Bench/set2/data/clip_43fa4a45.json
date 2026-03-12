@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man actively digging a hole in a dry, rocky landscape. He is wearing a black shirt, beige pants, and gloves. The background features a clear blue sky and sparse vegetation. The man is focused on his task, and the video captures the action of him digging with a shovel.",
+    "audio_prompt": [
+        "Someone is digging a hole"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

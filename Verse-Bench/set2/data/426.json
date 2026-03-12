@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a close-up view of a fire burning with intense flames and crackling wood. The fire is the central focus, with the flames dancing and the wood burning brightly. The background is dark, suggesting it is nighttime. There are no characters present, and the only sounds are the crackling of the wood and the flames.",
+    "audio_prompt": [
+        "Rattling and rustling with light wind"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

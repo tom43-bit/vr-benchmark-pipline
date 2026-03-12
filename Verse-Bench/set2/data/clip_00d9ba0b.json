@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features three musicians playing their instruments in a dark, neon-lit environment with a garden scene in the background. The camera focuses on each musician as they play, creating a dynamic and engaging visual experience.",
+    "audio_prompt": [
+        "Music is playing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

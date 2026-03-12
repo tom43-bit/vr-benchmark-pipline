@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video begins with a smartphone displaying an incoming call screen. The smartphone screen lights up and the phone vibrates with a humming sound. The setting is a dark, indoor environment.",
+    "audio_prompt": [
+        "High pitched vibrating"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

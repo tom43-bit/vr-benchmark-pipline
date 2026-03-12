@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a woman in a dramatic and emotional performance, singing or speaking into a vintage microphone. Her attire and makeup, along with her expressive gestures, suggest a powerful and heartfelt delivery. The dark background and the focus on her and the microphone create a sense of intimacy and intensity, highlighting the emotional depth of her performance.",
+    "audio_prompt": [
+        "Sound of singing"
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "Whenever sing my song, on the stage, on my own. Whenever say my words, wishing they would be heard."
+    }
+}

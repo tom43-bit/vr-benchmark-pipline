@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features Lisa of Blackpink speaking into a microphone, wearing headphones and a blue top with a cat design. She is in a setting with a brick wall background. The video captures her speaking and occasionally touching her face.",
+    "audio_prompt": [
+        "A woman speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Lisa of Blackpink",
+        "text": "Like people know me as Lisa of Blackpink"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman in a white shirt and glasses, speaking passionately in an indoor setting. She appears to be discussing a conflict involving Samsung and someone named D, expressing frustration and anger. The background is minimal, with a plain wall and a thermostat, focusing attention on her emotional delivery.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "a woman",
+        "text": "He said he wanted to pursue Samsung, so we had a big fight and started working from 4-2, and D couldn't produce a single one."
+    }
+}

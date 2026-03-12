@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a scene of a flooded area caused by heavy waves crashing against the shore. Trees and buildings are partially submerged in water, and the sky is cloudy, indicating a severe weather event. The waves continue to crash, and the water level rises, submerging more of the area.",
+    "audio_prompt": [
+        "Waves crash against the shore as a man yells and the wind blows"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

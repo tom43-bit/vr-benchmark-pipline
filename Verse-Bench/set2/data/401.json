@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a train moving along a railway track in a rural setting. The train horn sounds as it passes by, and the surrounding environment includes greenery, overhead electric lines, and a distant mountain. The sky is overcast, adding to the serene atmosphere of the scene.",
+    "audio_prompt": [
+        "A train horn blows several times"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

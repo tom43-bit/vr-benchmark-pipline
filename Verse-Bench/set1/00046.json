@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures a serene moment between a male and female lion in their natural habitat. The male lion, with his thick mane and piercing eyes, stands close to the female lion, who has a sleek mane and an attentive expression. The background is a natural, grassy environment with blurred greenery, and the ambient sound is the roar of a lion, adding to the authenticity of the scene.",
+    "audio_prompt": [
+        "Sound of lion's roar"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

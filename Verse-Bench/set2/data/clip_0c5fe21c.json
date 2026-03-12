@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features three owls perched on a textured surface against a plain, light-colored wall. The central owl is the most prominent, with its round face and large eyes clearly visible. The other two owls are partially visible and facing away from the camera. The video does not contain any speech or ambient sounds, and the owls remain stationary throughout the duration of the clip.",
+    "audio_prompt": [
+        "An owl hoots and a bird chirps"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

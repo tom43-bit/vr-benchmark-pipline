@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a woman dressed in traditional Chinese attire, wearing an ornate headdress adorned with flowers and jewels. She is speaking, expressing sadness. The background is a blurred indoor setting with traditional Chinese architectural elements. The woman's facial expression and body language convey a sense of sorrow and resignation.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "No, I cannot finish it."
+    }
+}

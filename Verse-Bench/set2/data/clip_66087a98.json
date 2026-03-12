@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video captures the serene and dynamic movement of water on a sunny day, with sunlight creating beautiful reflections and ripples on the water surface. The ambient sounds of flowing water add to the peaceful atmosphere.",
+    "audio_prompt": [
+        "Water is splashing and gurgling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

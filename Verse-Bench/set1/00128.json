@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman taking a selfie in the back seat of a car while announcing the premiere of a new chapter in a TV series. The camera focuses on her face, capturing her expression and the details of her surroundings. The background shows the car interior and a glimpse of the street outside, with ambient sounds of the car and city noises",
+    "audio_prompt": [
+        "The sound of the car engine, occasional car doors opening and closing, and distant city noises"
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "Hey guys, great news! There's a new chapter in Mao Pian, \"The Edge of the City,\" which premieres tonight at 8 PM on Tencent Video."
+    }
+}

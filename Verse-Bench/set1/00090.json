@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features Chibi Maruko-chan, a beloved animated character, expressing her excitement about going to school and asking her mom to pick her up after school. The scene is set in a bright, sunny park with a clear blue sky, fluffy white clouds, green trees, and a distant mountain range. The character is cheerful and happy, with a small brown bag slung over her shoulder. The video captures a moment of joy and anticipation as Chibi Maruko-chan prepares for her school day.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "Chibi Maruko-chan",
+        "text": "I'm going to school. Mom, remember to pick me up after school."
+    }
+}

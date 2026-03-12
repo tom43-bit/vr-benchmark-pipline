@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A person wearing a blue jacket with white stripes is sitting on the snow and playing a guitar while a dog with light brown and white fur is sitting on the snow and looking at the person playing the guitar. The background is a snowy landscape with trees in the background. The person is playing the guitar and the dog is sitting on the snow and looking at the person playing the guitar. The ambient sound is music.",
+    "audio_prompt": [
+        "A guitar is being played"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

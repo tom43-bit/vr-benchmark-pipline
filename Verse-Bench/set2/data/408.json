@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person holding a large, metallic bell and ringing it. The background is a lush green landscape with some buildings and trees in the distance. The person is the only character in the video, and the focus is on the action of ringing the bell.",
+    "audio_prompt": [
+        "A bell is ringing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

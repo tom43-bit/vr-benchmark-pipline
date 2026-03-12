@@ -1,0 +1,11 @@
+{
+    "video_prompt": "A young girl is riding a light brown horse in a rural setting. She is wearing a black helmet, a red and white plaid shirt, a black vest, and brown riding boots. The horse is calm and well-trained, with its ears perked up. The camera follows the horse as it walks slowly, and the background features green grass, a wooden fence, and trees. The sky is clear and blue, indicating a sunny day. The ambient sounds include the sound of the horse walking and the wind blowing.",
+    "audio_prompt": [
+        "Sound of the horse walking",
+        "Wind blowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

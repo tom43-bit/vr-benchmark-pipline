@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man delivering a speech on a stage, emphasizing his points through expressive hand gestures and a confident posture. The setting is minimalistic, with the focus entirely on the speaker and his message.",
+    "audio_prompt": [
+        "A man is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "You had to win in the name of being loved"
+    }
+}

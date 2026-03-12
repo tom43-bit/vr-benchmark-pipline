@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman is giving a speech on a stage with a blue curtain background. She is wearing a black blazer and a necklace. She is speaking and gesturing with her hands. The stage has a red light at the bottom. There is no ambient sound.",
+    "audio_prompt": [
+        "A woman speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "Pushing yourself to the point of unsustainability is an extremely toxic cycle"
+    }
+}

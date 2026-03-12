@@ -1,0 +1,10 @@
+{
+    "video_prompt": "An anime-style girl with long brown hair and blue eyes is sitting on a suitcase on a stone pavement. She is wearing a school uniform consisting of a white blouse, blue skirt, and knee-high socks. The background features a brick wall and a street lamp. The girl is looking around and speaking, asking if there is any kind-hearted young man who can take her away. The scene is static with no significant changes in the background or the girl's position.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "Is there any kind-hearted young man who can take me away?"
+    }
+}

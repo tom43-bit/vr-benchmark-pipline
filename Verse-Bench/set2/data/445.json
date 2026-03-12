@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a cozy, rustic bedroom with a cave-like ceiling. The room is warmly lit, featuring a bed with a yellow blanket and patterned pillows, a television showing animated characters, a fireplace with flames, a bookshelf with books and decorations, a window with frosted glass, and a rug with intricate patterns. The fire is burning inside, and the wind and snow are blowing outside.",
+    "audio_prompt": [
+        "Rattling on a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

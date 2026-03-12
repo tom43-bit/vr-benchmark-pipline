@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video depicts an old man in a small, rustic workshop, repairing shoes. He is skilled and has been doing this for over 30 years. A customer approaches and asks if he needs his shoes repaired, to which the old man responds with pride in his craft. The setting is filled with the sounds of tools and the ambient noise of the workshop, creating a sense of authenticity and dedication to the trade.",
+    "audio_prompt": [
+        "The sound of the old man's tools and the occasional creak of the chair",
+        "The ambient noise of the workshop"
+    ],
+    "speech_prompt": {
+        "speaker": "the old man",
+        "text": "Hello sir, do you need your shoes repaired? I have been here doing this for over 30 years."
+    }
+}

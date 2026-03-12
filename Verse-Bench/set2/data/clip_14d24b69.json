@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a man playing timpani drums in a music room. He is wearing a white and blue gradient t-shirt and blue jeans, holding drumsticks. The room is filled with various musical instruments and equipment, including a red drum set and a xylophone. The man is focused on playing the drums, creating a rhythmic sound.",
+    "audio_prompt": [
+        "Music is playing with a long, continuous beep"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

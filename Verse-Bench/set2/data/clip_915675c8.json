@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a baby with a round face, small eyes, and a big smile. The baby is wearing a white outfit with a blue design. The baby is looking at the camera and smiling. The background is an indoor setting with a glass door and some objects in the background. The baby is laughing.",
+    "audio_prompt": [
+        "A baby is laughing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

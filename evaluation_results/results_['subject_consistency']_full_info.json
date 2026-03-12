@@ -1,0 +1,38 @@
+[
+    {
+        "prompt_en": "row_4_A_dim,_cluttered_storage_space_lined_with_weathere_704x1280_42_3_20260209_090804",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/nfs/xtjin/eval_pipline/datas/outputs/row_4_A_dim,_cluttered_storage_space_lined_with_weathere_704x1280_42_3_20260209_090804.mp4"
+        ]
+    },
+    {
+        "prompt_en": "row_1_A_dim,_cluttered_storage_space_lined_with_weathere_704x1280_42_0_20260209_090759",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/nfs/xtjin/eval_pipline/datas/outputs/row_1_A_dim,_cluttered_storage_space_lined_with_weathere_704x1280_42_0_20260209_090759.mp4"
+        ]
+    },
+    {
+        "prompt_en": "row_3_A_dim,_cluttered_storage_space_lined_with_weathere_704x1280_42_2_20260209_090804",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/nfs/xtjin/eval_pipline/datas/outputs/row_3_A_dim,_cluttered_storage_space_lined_with_weathere_704x1280_42_2_20260209_090804.mp4"
+        ]
+    },
+    {
+        "prompt_en": "row_2_A_dim,_cluttered_storage_space_lined_with_weathere_704x1280_42_1_20260209_090757",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/nfs/xtjin/eval_pipline/datas/outputs/row_2_A_dim,_cluttered_storage_space_lined_with_weathere_704x1280_42_1_20260209_090757.mp4"
+        ]
+    }
+]

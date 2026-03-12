@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a tree being cut down in a forest. The tree is cut at the base with a saw, and as the sawing continues, the tree begins to fall. The forest around the tree is filled with tall trees, some of which appear to be dead or damaged. The sound of the saw and the crashing of the tree can be heard throughout the video.",
+    "audio_prompt": [
+        "Cracking and cracking"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

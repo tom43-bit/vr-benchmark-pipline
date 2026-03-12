@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a young girl singing into a microphone in a simple indoor setting. She is wearing a white shirt and a white headband, with her long dark hair tied back. The camera focuses on her face, capturing her singing and the subtle movements of her mouth and head. The background is minimal, with a light-colored wall and some blurred lights, suggesting a studio or recording environment. The ambient sound is the girl's singing, adding to the intimate and focused atmosphere of the video.",
+    "audio_prompt": [
+        "Sound of singing"
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "Baby come down, come down."
+    }
+}

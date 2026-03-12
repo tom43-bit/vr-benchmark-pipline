@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A news broadcast featuring a female anchor reporting on a traffic accident that occurred at an intersection in the city center. The anchor is seated at a desk in a news studio, with a large screen behind her displaying a replay of the accident. The scene is realistic, with the anchor providing details about the incident, including the time of occurrence and the absence of casualties. The background includes emergency vehicles and personnel, adding to the authenticity of the report.",
+    "audio_prompt": [
+        "Ambient studio sounds, possibly including the sound of the news anchor's voice"
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "At nine o'clock this morning, a traffic accident occurred at an intersection in the city center. No casualties were reported."
+    }
+}

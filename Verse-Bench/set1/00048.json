@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man is meticulously drilling a hole into a piece of wood in a well-lit workshop. He is wearing a black t-shirt, a black cap, and safety goggles. The workshop is equipped with various wooden planks and tools, and the sound of the electric drill is prominent throughout the scene.",
+    "audio_prompt": [
+        "Sound of electric drill"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

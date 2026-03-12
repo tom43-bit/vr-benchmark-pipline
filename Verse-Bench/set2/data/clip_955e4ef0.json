@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person working on a wooden board in a forest setting. The person is hammering nails into the board and then lifting it to check the nails. The background is a forest with tall trees and sunlight filtering through the leaves. The ambient sound includes hammering and birds chirping.",
+    "audio_prompt": [
+        "Wood is being tapped on"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

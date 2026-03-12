@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a man playing the piano in a studio setting. He is seated on a brown leather bench, wearing a white t-shirt, black pants, and a black hat. The background features a brick wall and a white brick wall, with microphones, a lamp, and some studio equipment visible. The man is playing the piano with his hands and feet, and the camera remains stationary throughout the video.",
+    "audio_prompt": [
+        "Sound of piano"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

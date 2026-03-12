@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A man in a gray suit is playing a flute in an indoor setting. He is seated and appears to be focused on his performance. Other musicians are visible in the background, suggesting a group performance or rehearsal. The atmosphere is calm and focused, with the sound of the flute being the primary audio element.",
+    "audio_prompt": [
+        "A flute is playing a melody"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

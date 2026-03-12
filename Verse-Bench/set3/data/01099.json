@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man in a black shirt and glasses standing in front of a blue background. He is holding a remote control and appears to be speaking about using AI to create a new instrument sound. The setting suggests a presentation or lecture environment.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "What if I used AI to create a new instrument sound that's never existed?"
+    }
+}

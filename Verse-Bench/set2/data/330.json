@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a close-up of a hand typing on a keyboard with colorful keys. The hand moves across the keyboard, pressing different keys in sequence. The background is a dark surface, likely a desk or table.",
+    "audio_prompt": [
+        "Typing on a keyboard"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

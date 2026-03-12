@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a tense scene where a man in a brown shirt raises his pistol and fires a shot into the air, declaring his authority. He speaks to the others, emphasizing his rule and fairness. The other men, including one in a red shirt and another in a black shirt with a gun, stand nearby, observing the man in brown shirt. The setting is an outdoor area with a building and trees in the background, and the sound of a gunshot is heard.",
+    "audio_prompt": [
+        "Sound of gunshot"
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "Here, I am the rule, I am the law. As long as you listen to me, I will not treat you unfairly."
+    }
+}

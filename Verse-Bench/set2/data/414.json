@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a snowy landscape with a wooden house. Snow is falling and the wind is blowing. There are no characters present in the video.",
+    "audio_prompt": [
+        "Wind blows hard"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

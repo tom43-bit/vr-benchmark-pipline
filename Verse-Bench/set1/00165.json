@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video begins with a woman standing in front of an orange and white van, set against a picturesque backdrop of hot air balloons floating in the sky during a sunset. The woman, dressed in a white crop top and floral pants, opens her arms and turns around, speaking the words 'Welcome to Cappadocia. The most beautiful land in Asia.' The camera then zooms out and pans up to reveal the stunning landscape, including the hot air balloons and the sunset, creating a serene and inviting atmosphere.",
+    "audio_prompt": [
+        "sounds of nature, possibly wind and distant bird calls"
+    ],
+    "speech_prompt": {
+        "speaker": "the woman",
+        "text": "Welcome to Cappadocia. The most beatiful land in Asia."
+    }
+}

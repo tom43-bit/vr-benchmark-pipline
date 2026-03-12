@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A drag queen is performing on a colorful stage, singing and dancing while holding a microphone. The background features abstract shapes in various colors, and the character is wearing a pink dress with text on it and has long curly hair and makeup. The speech content is about people not feeling like they can be themselves and holding back their best ideas.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": " drag queen",
+        "text": "who don't feel like they can be themselves and therefore are holding back their best ideas"
+    }
+}

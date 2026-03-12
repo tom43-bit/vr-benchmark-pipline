@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a serene outdoor scene with trees, grass, and a road in the distance. The wind is blowing, causing the trees and grass to sway. The sky is clear and blue, creating a peaceful atmosphere.",
+    "audio_prompt": [
+        "The wind is blowing and leaves are rustling"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

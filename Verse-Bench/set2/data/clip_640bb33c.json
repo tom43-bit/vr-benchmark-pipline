@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a person outdoors, mixing ground meat and spices in a wooden bowl. The person is wearing a dark long-sleeve shirt and is actively engaged in the task. The setting is a natural outdoor environment with grass and plants visible in the background.",
+    "audio_prompt": [
+        "Someone is walking on a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

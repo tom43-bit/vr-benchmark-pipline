@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A pianist dressed in a black suit is playing a grand piano in a dimly lit environment, likely a concert hall. The focus is on the pianist's hands as they move gracefully across the keys, creating a melodic tune. The background is dark, emphasizing the piano and the pianist's hands.",
+    "audio_prompt": [
+        "A piano is playing a melody"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

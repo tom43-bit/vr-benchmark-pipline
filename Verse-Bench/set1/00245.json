@@ -1,0 +1,10 @@
+{
+    "video_prompt": "In this video, Man 2, dressed in a dark suit, points a gun at Man 1's head, creating a tense and threatening situation. Despite the danger, Man 1, wearing a light blue shirt, maintains a calm and confident demeanor, smiling and speaking to Man 2. The scene takes place in a plain, dimly lit room, emphasizing the seriousness of the interaction. The speech content, 'I bet there's no bullet in your gun,' adds to the tension and intrigue of the scene.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "I bet there's no bullet in your gun."
+    }
+}

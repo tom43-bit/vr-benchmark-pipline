@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a man singing in a karaoke room, with a focus on his performance. The setting is a dimly lit karaoke room with green lighting, a large karaoke screen, and a black leather couch. The man is wearing a black shirt and holding a microphone, and the camera remains stationary throughout the video, capturing his singing. The ambient sound includes the music and songs playing in the background.",
+    "audio_prompt": [
+        "Sound of music and songs"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman speaking and gesturing, likely in a presentation or lecture setting. She is wearing a blue patterned blouse and a black belt, and she is holding a small object in her right hand while using her left hand to gesture. The background is a blue, abstract design with wavy patterns and blurred shapes. The woman appears to be explaining something, possibly related to electricity, as indicated by her speech.",
+    "audio_prompt": [
+        "A woman speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "Unless you're a child without access to electricity."
+    }
+}

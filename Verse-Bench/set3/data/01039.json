@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features an older man with curly gray hair, dressed in a blue shirt and red tie, speaking into a microphone while gesturing with his hands. The setting is a simple indoor stage with a blue curtain backdrop. The man appears to be delivering a speech or presentation, with his hands moving to emphasize his points. There are no ambient sounds described in the audio description.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "For no other reason than they have agreed to do it that way, which is reason enough."
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video features a man in elaborate armor standing confidently in a dramatic stadium setting. He speaks with a confident and assertive tone, emphasizing his power and authority. The background is filled with a cloudy sky and lightning, adding to the intense and dramatic atmosphere. The overall style is cartoonish, with detailed and expressive character design.",
+    "audio_prompt": [
+        "Noisy background sound",
+        "The sound of thunder and lightning"
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "You think you've seen pain? You think you know suffering? Try beat it."
+    }
+}

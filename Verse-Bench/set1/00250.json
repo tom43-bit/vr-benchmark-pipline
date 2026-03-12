@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video features The Crow, a character with long, dark, wavy hair, pale skin, and dramatic black and white makeup. He is wearing a black leather jacket and a black shirt underneath. The scene is set in a dimly lit room with a large, circular object in the background. The Crow is speaking excitedly, gesturing with his hand raised, as if he is encouraging someone to try something. The camera zooms in on him, focusing on his face and upper body, creating a dramatic and intense atmosphere.",
+    "audio_prompt": [
+        "The ambient sound is quiet, with no distinct background noise or music.",
+        "The ambient sound is quiet, with no distinct background noise or music."
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "Come on. Try out to see if you have more chances."
+    }
+}

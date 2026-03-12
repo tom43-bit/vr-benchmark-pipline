@@ -1,0 +1,11 @@
+{
+    "video_prompt": "In a cyberpunk world, a motorcyclist speeds past a passing car on a city street illuminated by neon lights and towering buildings. The motorcyclist, wearing a futuristic helmet and black suit, rides a sleek, glowing motorcycle. The scene captures the essence of a high-tech, fast-paced urban environment with the sound of the motorcycle and city noise adding to the immersive experience.",
+    "audio_prompt": [
+        "Sound of motorcycle",
+        "City noise"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

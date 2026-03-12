@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man in a black polo shirt and dark blue jeans holding two cymbals labeled 'PAISTE'. He appears to be demonstrating or explaining something related to the cymbals. The background is a white wall with horizontal lines, and the man makes a drum roll sound with the cymbals.",
+    "audio_prompt": [
+        "A loud crash followed by a loud crash"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

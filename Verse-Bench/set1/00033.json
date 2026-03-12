@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a man in a workshop setting, holding an acoustic guitar and using a pen to point at its strings while speaking. The background includes various tools and guitars hanging on the wall, and the ambient sound is the music of the guitar being played.",
+    "audio_prompt": [
+        "Sound of guitar music"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

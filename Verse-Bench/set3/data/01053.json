@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A woman is standing on a stage, speaking to an audience. She is wearing a beige blazer over a black top and has long brown hair. She is gesturing with her hands as she speaks. The background is a blue curtain. The woman is talking about a personal experience involving her mother when she was nine years old.",
+    "audio_prompt": [
+        "A woman is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Woman",
+        "text": "So when my mom came to me at the age of nine, I didn't cry."
+    }
+}

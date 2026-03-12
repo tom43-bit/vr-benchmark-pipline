@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows people playing the piano together in a dimly lit room. Their hands move across the keys in a coordinated manner, creating a musical performance. The background includes a piano and a logo in the top right corner.",
+    "audio_prompt": [
+        "A piano is playing a song"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

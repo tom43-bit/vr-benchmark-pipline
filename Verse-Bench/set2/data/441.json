@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a woman playing a grand piano in an indoor setting. She is focused on the music, and her hands move gracefully across the keys. The background is simple, with a glass wall or window behind her. The overall style is realistic, capturing a moment of musical performance.",
+    "audio_prompt": [
+        "A piano is playing a melody"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

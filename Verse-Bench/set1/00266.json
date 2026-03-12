@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man sitting on a chair, wearing a black turtleneck sweater and glasses. He raises his left hand to show a watch on his wrist while speaking to the camera. The background is a plain, light gray wall, and there is no ambient sound described.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "A man can be without a home, but he cannot be without money."
+    }
+}

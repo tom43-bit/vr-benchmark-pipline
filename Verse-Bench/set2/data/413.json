@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a player dribbling a basketball on the ground, which producing the sound of a basketball hitting the ground. The player is moving the basketball with their hands, and the camera focuses on the basketball and the player's hands.",
+    "audio_prompt": [
+        "A ball bouncing on a hard surface"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

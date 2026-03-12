@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A girl wearing a white dress with a bow tie is playing the violin with a bow. She is standing in front of a wooden fence and a wooden building. The sound of violin music can be heard in the background. The girl is moving her hands and fingers to play the instrument.",
+    "audio_prompt": [
+        "Sound of violin music"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

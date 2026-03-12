@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman in a modern indoor setting, speaking and occasionally moving her head and mouth. The background includes a white wall, a black refrigerator, a white shelf with drawers, and a framed picture on the wall. There is no ambient sound detected.",
+    "audio_prompt": [
+        "A woman sneezing several times"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

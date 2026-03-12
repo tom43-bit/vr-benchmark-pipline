@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a cute cat sitting on a beige carpet in a cozy indoor setting. The cat looks up with a curious expression, meows loudly, and then turns its head to the right. The background includes a brown couch, a wooden floor, and a white wall with a shadow of the couch. The ambient sound is the cat meowing.",
+    "audio_prompt": [
+        "A cat meowing several times"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

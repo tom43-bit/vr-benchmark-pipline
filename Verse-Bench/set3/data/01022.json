@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man speaking about integrating self-compassion or self-love into his life. He is seated in front of a microphone, with a bookshelf and various items in the background. The man is gesturing with his hands while speaking, and the camera remains focused on him throughout the video.",
+    "audio_prompt": [
+        "A man is speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "Start integrating self-compassion or self-love into my life"
+    }
+}

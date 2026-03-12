@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man in a black T-shirt standing against a dark background, speaking about the imperfections of text as a technology. He is holding a small object in his hands and occasionally gestures with his hands while speaking. The background is dark with faint, colorful lights visible in the distance.",
+    "audio_prompt": [
+        "A man speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "But it's great as text is, is an imperfect technology"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a woman speaking on a stage or in a conference room setting. She is wearing a white blouse with black polka dots and is using hand gestures to emphasize her speech. The background is a dark blue curtain, and the woman appears to be delivering a speech or presentation.",
+    "audio_prompt": [
+        "A man speaking followed by a woman speaking"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "I play games to not feel alone in some of the happiest moments of my life."
+    }
+}

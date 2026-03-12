@@ -1,0 +1,10 @@
+{
+    "video_prompt": "An anime-style girl is sitting on a chair, looking at a laptop with a cold expression. She is wearing a white cap, a white top with floral patterns, and a white jacket. The background is blurred, suggesting an outdoor setting. The girl's expression and the laptop remain unchanged throughout the video.",
+    "audio_prompt": [
+        ""
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "If there's a fool trying to chase me, don't blame me for not giving him a chance"
+    }
+}

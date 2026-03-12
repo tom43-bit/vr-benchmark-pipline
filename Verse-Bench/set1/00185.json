@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a woman in a white dress playing the piano and singing into a microphone in a well-lit room. The scene is intimate and focused, with the woman's hands moving gracefully over the piano keys as she sings. The ambient sounds of the piano and her singing create a serene and emotional atmosphere.",
+    "audio_prompt": [
+        "Sound of piano, sound of singing"
+    ],
+    "speech_prompt": {
+        "speaker": "the man",
+        "text": "When I am alone I sit and dream. And when I dream the words are missing. Yes, I know that in a room so full of light. That all the light is missing. But I don't see you with me, with me"
+    }
+}

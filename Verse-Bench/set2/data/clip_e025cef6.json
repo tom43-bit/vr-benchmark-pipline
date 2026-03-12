@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A black steam train is moving forward through a forested area, emitting smoke. The train is surrounded by trees on both sides of the railway track. The steam whistle and train horn can be heard in the background.",
+    "audio_prompt": [
+        "A train horn blows followed by a train running on railroad tracks"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

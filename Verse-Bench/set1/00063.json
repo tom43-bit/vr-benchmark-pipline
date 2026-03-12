@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features Hatsune Miku, an anime character, playing the guitar and singing in a recording studio. She is seated on a chair, with her feet resting on a cushioned surface. The background includes various musical equipment and a cozy, modern studio setting. The character is singing and playing the guitar, with the camera capturing her from different angles. The ambient sound is the sound of singing.",
+    "audio_prompt": [
+        "Sound of singing"
+    ],
+    "speech_prompt": {
+        "speaker": "Hatsune Miku",
+        "text": "Look over here, girl, look over here, look over here, the show here is really great. Don't pretend to ignore it."
+    }
+}

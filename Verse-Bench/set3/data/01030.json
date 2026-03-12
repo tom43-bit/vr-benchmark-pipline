@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a man in a blue shirt speaking and gesturing in front of a blue curtain. He is holding a small object and appears to be explaining something, possibly during a presentation or speech. The setting is indoors, with no visible background elements other than the curtain.",
+    "audio_prompt": [
+        "A man is giving a speech"
+    ],
+    "speech_prompt": {
+        "speaker": "Speaker1",
+        "text": "And then just notice something, like maybe it's a moth on your balcony."
+    }
+}

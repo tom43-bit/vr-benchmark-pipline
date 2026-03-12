@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video shows a close-up of a white glove holding and moving a bell around against a plain white background. The bell rings.",
+    "audio_prompt": [
+        "A bell rings multiple times"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

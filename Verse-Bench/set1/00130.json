@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video features a girl standing on a busy street, facing the camera. She is wearing a black dress with white puffed sleeves and a gold necklace. Her long black hair is tied into two ponytails with pink hair ties. The camera zooms out and straightens the whole body, capturing the girl's neutral expression as she looks directly at the camera. The background shows a bustling street with people walking and buildings, as well as trees and a blue sign. The ambient sound includes the sound of people walking and talking, the hum of traffic, and the occasional car horn.",
+    "audio_prompt": [
+        "The sound of people walking and talking, the hum of traffic, and the occasional car horn."
+    ],
+    "speech_prompt": {
+        "speaker": "the girl",
+        "text": "Although I am in your imaginary world, how do you know that you are not living in my imaginary world?"
+    }
+}

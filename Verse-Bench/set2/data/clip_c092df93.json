@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a scene of destruction caused by a severe storm. A house is shown with significant damage, including a torn-off roof and broken windows. Debris is scattered around the yard, and palm trees are bent by the strong winds. The sound of ocean waves crashing and wind howling adds to the chaotic atmosphere.",
+    "audio_prompt": [
+        "Water splashing and wind blowing"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "video_prompt": "The video depicts a woman preparing a tent in a grassy field with mountains in the background. She is seen placing a bag on the ground, crouching down to adjust the tent, and then sitting inside the tent. The setting is outdoors with a clear sky and birds chirping in the background. The overall style of the video is realistic, capturing the natural environment and the woman's actions in a detailed manner.",
+    "audio_prompt": [
+        "Birds are chirping in the background"
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}

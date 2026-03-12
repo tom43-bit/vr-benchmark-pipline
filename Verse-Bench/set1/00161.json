@@ -1,0 +1,11 @@
+{
+    "video_prompt": "The video captures a tender moment between an adult and a baby, with the baby making happy sounds and the adult gently interacting. The close-up shot emphasizes the intimacy and warmth of the interaction, while the soft lighting and ambient sounds create a soothing and joyful atmosphere.",
+    "audio_prompt": [
+        "The sound of a baby making happy sounds.",
+        "The soft, gentle ambiance of the room."
+    ],
+    "speech_prompt": {
+        "speaker": "",
+        "text": ""
+    }
+}
