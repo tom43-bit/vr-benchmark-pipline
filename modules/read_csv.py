@@ -16,16 +16,28 @@ def extract_words(text):
     
     return matches
 
+def extract_number(filename):
+
+    # 匹配 row_ 或 row- 后面的第一个数字
+    match = re.search(r'row[_-](\d+)', filename, re.IGNORECASE)
+    
+    if match:
+        return int(match.group(1))
+    
+    # 如果没有找到 row_ 模式，返回0
+    print(f"警告: {filename} 中没有找到 row_ 模式")
+    return 0
 
 def video_info(video_path,prompt_path):
     video_list = os.listdir(video_path)
-    idx_prompt = pd.read_csv(prompt_path)
+    video_list.sort(key=extract_number)
+    idx_prompt = pd.read_csv(prompt_path,dtype=str)
     col_name = idx_prompt.columns
-    idx_prompt['dialogue'] = idx_prompt['text_prompt'].apply(extract_words)
+    #idx_prompt['dialogue'] = idx_prompt['text_prompt'].apply(extract_words)
 
     video_dict = {}
     for file in video_list:
-        video_dict[file] = idx_prompt.iloc[int(file[4])-1]
+        video_dict[file] = idx_prompt.iloc[extract_number(file)-1]
 
     return video_list, video_dict
 

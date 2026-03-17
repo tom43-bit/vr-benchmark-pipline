@@ -115,21 +115,37 @@ def process_one(hypo, truth):
     """
     truth = truth.lower()
     hypo = hypo.lower()
-
-    measures = compute_measures(truth, hypo)
-    ref_list = truth.split(" ")
-    wer = measures["wer"]
-    subs = measures["substitutions"] / len(ref_list)
-    dele = measures["deletions"] / len(ref_list)
-    inse = measures["insertions"] / len(ref_list)
-    return (raw_truth, raw_hypo, wer, subs, dele, inse)
+    print(truth)
+    print(hypo)
+    if truth and hypo:
+        measures = compute_measures(truth, hypo)
+        ref_list = truth.split(" ")
+        wer = measures["wer"]
+        subs = measures["substitutions"] / len(ref_list)
+        dele = measures["deletions"] / len(ref_list)
+        inse = measures["insertions"] / len(ref_list)
+        return (raw_truth, raw_hypo, wer, subs, dele, inse)
+    elif truth and not hypo:
+        return (raw_truth, raw_hypo, 1, 0, 1, 0)
+    elif not truth and hypo:
+        return (raw_truth, raw_hypo, 1, 0, 0, 1)
+    else:
+        return (raw_truth, raw_hypo, 0, 0, 0, 0)
 
 def calculate_wer(video_path,video_list,dialogue_dict,result_csv):
     processor, model = load_en_model()
     for video in tqdm(video_list):
         #计算wer一系参数
-        dialogue = ' '.join(dialogue_dict[video]['dialogue'])
-        #print(dialogue)
+        if isinstance(dialogue_dict[video]['dialogue'], list):
+            dialogue = ' '.join(dialogue_dict[video]['dialogue'])
+
+        elif isinstance(dialogue_dict[video]['dialogue'], str):
+            dialogue = dialogue_dict[video]['dialogue']
+        else:
+            dialogue = ''
+
+        print(dialogue)
+        print('-'*10)
         total_path = os.path.join(video_path,video)
         #wav, sr = extract_audio_from_mp4(mp4_path = total_path)
         wav, sr = extract_audio_with_tempfile(mp4_path = total_path)
@@ -143,10 +159,88 @@ def calculate_wer(video_path,video_list,dialogue_dict,result_csv):
         predicted_ids = model.generate(input_features, forced_decoder_ids=forced_decoder_ids)
         transcription = processor.batch_decode(predicted_ids, skip_special_tokens=True)[0]
         #print(f"+++++++++++++++++++++transcription++++++++++++++++++++++\n{transcription}\n+++++++++++++++++++++dialogue++++++++++++++++++++++\n{dialogue}")
+        print(video)
         raw_truth, raw_hypo, wer, subs, dele, inse = process_one(transcription, dialogue)
         result_csv.loc[result_csv['video_name'] == video,'wer'] = wer 
         result_csv.loc[result_csv['video_name'] == video,'subs'] = subs
         result_csv.loc[result_csv['video_name'] == video,'dele'] = dele
         result_csv.loc[result_csv['video_name'] == video,'inse'] = inse  
+        del dialogue
+
+def process_one_tts(hypo, truth):
+    raw_truth = truth
+    raw_hypo = hypo
+
+    for x in punctuation_all:
+        if x == '\'':
+            continue
+        truth = truth.replace(x, '')
+        hypo = hypo.replace(x, '')
+
+    truth = truth.replace('  ', ' ')
+    hypo = hypo.replace('  ', ' ')
+
+    """
+    if lang == "zh":
+        truth = " ".join([x for x in truth])
+        hypo = " ".join([x for x in hypo])
+    elif lang == "en":
+        truth = truth.lower()
+        hypo = hypo.lower()
+    else:
+        raise NotImplementedError
+    """
+    truth = truth.lower()
+    hypo = hypo.lower()
+    print(truth)
+    print(hypo)
+    if truth:
+        measures = compute_measures(truth, hypo)
+        ref_list = truth.split(" ")
+        wer = measures["wer"]
+        subs = measures["substitutions"] / len(ref_list)
+        dele = measures["deletions"] / len(ref_list)
+        inse = measures["insertions"] / len(ref_list)
+        return (raw_truth, raw_hypo, wer, subs, dele, inse)
+    else:
+        return (raw_truth, raw_hypo, np.nan, np.nan, np.nan, np.nan)
+
+def calculate_wer_tts(video_path,video_list,dialogue_dict,result_csv):
+    processor, model = load_en_model()
+    for video in tqdm(video_list):
+        #计算wer一系参数
+        if isinstance(dialogue_dict[video]['dialogue'], list):
+            dialogue = ' '.join(dialogue_dict[video]['dialogue'])
+
+        elif isinstance(dialogue_dict[video]['dialogue'], str):
+            dialogue = dialogue_dict[video]['dialogue']
+        else:
+            dialogue = ''
+
+        print(dialogue)
+        print('-'*10)
+        total_path = os.path.join(video_path,video)
+        #wav, sr = extract_audio_from_mp4(mp4_path = total_path)
+        wav, sr = extract_audio_with_tempfile(mp4_path = total_path)
+        print("wav is extracted")
+        print_memory()
+        if sr != 16000:
+                wav = scipy.signal.resample(wav, int(len(wav) * 16000 / sr))
+        input_features = processor(wav, sampling_rate=16000, return_tensors="pt").input_features
+        input_features = input_features.to(dtype=torch.float16,device=device)
+        forced_decoder_ids = processor.get_decoder_prompt_ids(language="english", task="transcribe")
+        predicted_ids = model.generate(input_features, forced_decoder_ids=forced_decoder_ids)
+        transcription = processor.batch_decode(predicted_ids, skip_special_tokens=True)[0]
+        #print(f"+++++++++++++++++++++transcription++++++++++++++++++++++\n{transcription}\n+++++++++++++++++++++dialogue++++++++++++++++++++++\n{dialogue}")
+        print(video)
+        raw_truth, raw_hypo, wer, subs, dele, inse = process_one_tts(transcription, dialogue)
+        if video == "row_23_00163.mp4" or video == "row_23_163.mp4":
+            wer, subs, dele, inse = np.nan, np.nan, np.nan, np.nan
+
+        result_csv.loc[result_csv['video_name'] == video,'wer'] = wer 
+        result_csv.loc[result_csv['video_name'] == video,'subs'] = subs
+        result_csv.loc[result_csv['video_name'] == video,'dele'] = dele
+        result_csv.loc[result_csv['video_name'] == video,'inse'] = inse  
+        del dialogue
 
         

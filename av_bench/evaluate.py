@@ -26,7 +26,8 @@ def evaluate(gt_audio_cache: Path, #视频路径
              skip_clap: bool = False,
              if_ref_audio: bool = False, #有无参考音频
              splits=1,
-             _syncformer_ckpt_path=None
+             _syncformer_ckpt_path=None,
+             no_audio=False
                 ) -> Dict[str, float]:
 
     _syncformer_ckpt_path = os.path.join(_syncformer_ckpt_path,"synchformer_state_dict.pth")

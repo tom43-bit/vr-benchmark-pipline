@@ -163,10 +163,12 @@ def parse_args():
 
 def video_eval(args):
 
+    """
     if dist.is_initialized():
         pass
     else:
         dist_init()
+    """
 
     print0(f'args: {args}')
     device = torch.device("cuda")
@@ -200,7 +202,7 @@ def video_eval(args):
 
     my_VBench.evaluate(
         videos_path = args.videos_path,
-        name = f'results_{args.dimension}',
+        name = f'results_{args.dimension}_{args.model_name}',
         prompt_list=prompt, # pass in [] to read prompt from filename
         dimension_list = args.dimension,
         local=args.video_load_ckpt_from_local,
@@ -210,4 +212,4 @@ def video_eval(args):
     )
     print0('done')
 
-    return f'results_{args.dimension}_eval_results.json'
+    return f'results_{args.dimension}_{args.model_name}_eval_results.json'

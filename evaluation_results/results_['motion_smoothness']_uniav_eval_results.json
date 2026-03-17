@@ -1,0 +1,823 @@
+{
+    "motion_smoothness": [
+        0.9927128045716337,
+        [
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_84_00019.mp4",
+                "video_results": 0.9972541513818872
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_64_00048.mp4",
+                "video_results": 0.9973565826329163
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_202_00242.mp4",
+                "video_results": 0.9967266805115577
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_87_00140.mp4",
+                "video_results": 0.9876570076386182
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_170_00206.mp4",
+                "video_results": 0.9944131729676342
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_11_00006.mp4",
+                "video_results": 0.9930524390997522
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_46_00074.mp4",
+                "video_results": 0.9963646785065924
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_101_00149.mp4",
+                "video_results": 0.9875323095625758
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_53_00270.mp4",
+                "video_results": 0.9918304370468168
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_74_00089.mp4",
+                "video_results": 0.9969082640897406
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_149_00045.mp4",
+                "video_results": 0.9960932607395764
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_155_00121.mp4",
+                "video_results": 0.9934649331207487
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_131_00051.mp4",
+                "video_results": 0.9940613302622581
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_13_00180.mp4",
+                "video_results": 0.9965775946647021
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_156_00238.mp4",
+                "video_results": 0.9967696541302462
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_98_00114.mp4",
+                "video_results": 0.9963772817308347
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_195_00183.mp4",
+                "video_results": 0.994972961853455
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_75_00217.mp4",
+                "video_results": 0.9947596661844781
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_174_00261.mp4",
+                "video_results": 0.9957646899979807
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_199_00224.mp4",
+                "video_results": 0.996242345848091
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_161_00128.mp4",
+                "video_results": 0.9888747582529105
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_117_00150.mp4",
+                "video_results": 0.9970846080929754
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_135_00247.mp4",
+                "video_results": 0.9541630006043315
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_121_00013.mp4",
+                "video_results": 0.9968301033469706
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_14_00088.mp4",
+                "video_results": 0.9622243241453483
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_136_00291.mp4",
+                "video_results": 0.9957007641398475
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_104_00175.mp4",
+                "video_results": 0.996226090937031
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_83_00072.mp4",
+                "video_results": 0.9955338417557416
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_115_00169.mp4",
+                "video_results": 0.9953166460995118
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_188_00220.mp4",
+                "video_results": 0.9603320158733475
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_7_00225.mp4",
+                "video_results": 0.9944265215794073
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_123_00055.mp4",
+                "video_results": 0.9957208481866971
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_30_00296.mp4",
+                "video_results": 0.9943693256076811
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_182_00272.mp4",
+                "video_results": 0.9918083138596815
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_20_00205.mp4",
+                "video_results": 0.9928772287721238
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_187_00018.mp4",
+                "video_results": 0.9964614843563094
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_141_00112.mp4",
+                "video_results": 0.9952557352617203
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_118_00189.mp4",
+                "video_results": 0.985291204980256
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_28_00109.mp4",
+                "video_results": 0.9972871033065412
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_42_00113.mp4",
+                "video_results": 0.9812418666830157
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_31_00276.mp4",
+                "video_results": 0.9969324110890583
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_120_00077.mp4",
+                "video_results": 0.9917644927304973
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_150_00017.mp4",
+                "video_results": 0.9956405715673707
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_163_00167.mp4",
+                "video_results": 0.9970477217681212
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_57_00256.mp4",
+                "video_results": 0.9876598515913406
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_24_00266.mp4",
+                "video_results": 0.995810475146562
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_93_00004.mp4",
+                "video_results": 0.9776304592151719
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_90_00110.mp4",
+                "video_results": 0.9973248096509149
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_162_00100.mp4",
+                "video_results": 0.9941803040274753
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_70_00162.mp4",
+                "video_results": 0.9887573507536911
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_26_00200.mp4",
+                "video_results": 0.9947815419871586
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_78_00172.mp4",
+                "video_results": 0.9964575384955523
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_196_00084.mp4",
+                "video_results": 0.9971975797718674
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_173_00020.mp4",
+                "video_results": 0.9935576549046604
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_159_00241.mp4",
+                "video_results": 0.9916984092030909
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_177_00011.mp4",
+                "video_results": 0.9945490456372427
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_151_00023.mp4",
+                "video_results": 0.9952028810286149
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_153_00058.mp4",
+                "video_results": 0.9956126499128496
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_96_00230.mp4",
+                "video_results": 0.9952968072837888
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_48_00290.mp4",
+                "video_results": 0.9953909846952019
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_144_00210.mp4",
+                "video_results": 0.9951398985246377
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_184_00255.mp4",
+                "video_results": 0.9959221418516594
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_100_00193.mp4",
+                "video_results": 0.9956549138982733
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_44_00198.mp4",
+                "video_results": 0.9967947494074669
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_92_00062.mp4",
+                "video_results": 0.9939681132349266
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_185_00054.mp4",
+                "video_results": 0.997264250428385
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_137_00251.mp4",
+                "video_results": 0.994122910165706
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_33_00159.mp4",
+                "video_results": 0.9906991773950248
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_106_00103.mp4",
+                "video_results": 0.9959743155987341
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_194_00278.mp4",
+                "video_results": 0.9969437863188796
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_63_00284.mp4",
+                "video_results": 0.9955058151077701
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_36_00123.mp4",
+                "video_results": 0.9962493908315484
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_66_00239.mp4",
+                "video_results": 0.9844772366732669
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_139_00010.mp4",
+                "video_results": 0.9951651215065018
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_122_00201.mp4",
+                "video_results": 0.9910666665046799
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_10_00191.mp4",
+                "video_results": 0.994903723415612
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_60_00263.mp4",
+                "video_results": 0.9912748717655947
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_183_00234.mp4",
+                "video_results": 0.989389583654889
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_108_00099.mp4",
+                "video_results": 0.9940588340222848
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_80_00094.mp4",
+                "video_results": 0.9851850939353365
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_55_00091.mp4",
+                "video_results": 0.9949808669714532
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_15_00231.mp4",
+                "video_results": 0.9965028902571513
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_138_00165.mp4",
+                "video_results": 0.975604240474009
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_35_00257.mp4",
+                "video_results": 0.9909702683640672
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_160_00069.mp4",
+                "video_results": 0.9957901299283975
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_190_00040.mp4",
+                "video_results": 0.995885231005937
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_192_00133.mp4",
+                "video_results": 0.9970632060834004
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_91_00182.mp4",
+                "video_results": 0.9955189936957658
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_59_00106.mp4",
+                "video_results": 0.9949322153217479
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_152_00177.mp4",
+                "video_results": 0.9912125900998392
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_124_00292.mp4",
+                "video_results": 0.99528970573093
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_72_00265.mp4",
+                "video_results": 0.9943569348356448
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_142_00033.mp4",
+                "video_results": 0.9952746342919467
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_58_00269.mp4",
+                "video_results": 0.9940415580769827
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_171_00197.mp4",
+                "video_results": 0.9947047353054325
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_201_00146.mp4",
+                "video_results": 0.9969375243584552
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_40_00132.mp4",
+                "video_results": 0.9966469766613975
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_65_00213.mp4",
+                "video_results": 0.9958937479196925
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_12_00249.mp4",
+                "video_results": 0.9964087308028778
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_147_00097.mp4",
+                "video_results": 0.9925589905329142
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_200_00286.mp4",
+                "video_results": 0.9945871049725312
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_125_00275.mp4",
+                "video_results": 0.9509123982452696
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_134_00179.mp4",
+                "video_results": 0.993125959518163
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_197_00171.mp4",
+                "video_results": 0.9972344451988753
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_157_00008.mp4",
+                "video_results": 0.9970905452614186
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_61_00057.mp4",
+                "video_results": 0.9936202979399037
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_37_00044.mp4",
+                "video_results": 0.9953321782831959
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_113_00186.mp4",
+                "video_results": 0.9879020129101989
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_89_00184.mp4",
+                "video_results": 0.9921144263183603
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_178_00253.mp4",
+                "video_results": 0.9898871333707329
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_179_00059.mp4",
+                "video_results": 0.9962767895648718
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_126_00025.mp4",
+                "video_results": 0.9939716776293949
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_186_00130.mp4",
+                "video_results": 0.9868599388058499
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_67_00050.mp4",
+                "video_results": 0.9949160861660143
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_16_00036.mp4",
+                "video_results": 0.9897157333887452
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_99_00002.mp4",
+                "video_results": 0.9941846943019537
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_193_00267.mp4",
+                "video_results": 0.9763601889122963
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_85_00134.mp4",
+                "video_results": 0.9962290002133
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_198_00035.mp4",
+                "video_results": 0.9754199645465396
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_3_00161.mp4",
+                "video_results": 0.9945860978185269
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_47_00287.mp4",
+                "video_results": 0.9965196285177341
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_68_00009.mp4",
+                "video_results": 0.9950260001550774
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_52_00289.mp4",
+                "video_results": 0.9960090159890108
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_77_00212.mp4",
+                "video_results": 0.9931838355817094
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_81_00229.mp4",
+                "video_results": 0.9963674755583756
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_146_00030.mp4",
+                "video_results": 0.9969011848798764
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_189_00299.mp4",
+                "video_results": 0.9933959640144638
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_172_00264.mp4",
+                "video_results": 0.9951656754044736
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_51_00145.mp4",
+                "video_results": 0.9946628349668367
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_148_00073.mp4",
+                "video_results": 0.9964785215357629
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_164_00119.mp4",
+                "video_results": 0.9930287647001765
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_41_00188.mp4",
+                "video_results": 0.9949971305796624
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_114_00245.mp4",
+                "video_results": 0.9957611717787751
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_19_00124.mp4",
+                "video_results": 0.9972783671831033
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_110_00116.mp4",
+                "video_results": 0.993197962083399
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_25_00297.mp4",
+                "video_results": 0.9930497194322131
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_154_00098.mp4",
+                "video_results": 0.996370996767486
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_69_00061.mp4",
+                "video_results": 0.9920059401386916
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_4_00295.mp4",
+                "video_results": 0.9949411038115705
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_107_00060.mp4",
+                "video_results": 0.995942506910162
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_97_00041.mp4",
+                "video_results": 0.996003674430859
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_18_00147.mp4",
+                "video_results": 0.9969822398322871
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_8_00174.mp4",
+                "video_results": 0.9939398414096542
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_145_00064.mp4",
+                "video_results": 0.9969833012465135
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_116_00227.mp4",
+                "video_results": 0.9950839304784975
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_54_00092.mp4",
+                "video_results": 0.9907587618632324
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_130_00070.mp4",
+                "video_results": 0.9968898745283232
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_62_00153.mp4",
+                "video_results": 0.9972572329570814
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_34_00022.mp4",
+                "video_results": 0.995411859395599
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_191_00086.mp4",
+                "video_results": 0.9926122676864882
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_86_00156.mp4",
+                "video_results": 0.9961678038499077
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_21_00181.mp4",
+                "video_results": 0.9971977081046761
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_165_00021.mp4",
+                "video_results": 0.9903229342676149
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_39_00226.mp4",
+                "video_results": 0.9964510367968561
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_9_00216.mp4",
+                "video_results": 0.968914713614198
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_22_00131.mp4",
+                "video_results": 0.9948660483705004
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_119_00007.mp4",
+                "video_results": 0.9822027326847502
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_129_00049.mp4",
+                "video_results": 0.9928368218906969
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_169_00042.mp4",
+                "video_results": 0.9967750477449897
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_112_00219.mp4",
+                "video_results": 0.9955377306400304
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_102_00046.mp4",
+                "video_results": 0.9851538434813438
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_79_00235.mp4",
+                "video_results": 0.9970055846140441
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_132_00090.mp4",
+                "video_results": 0.9970158957475529
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_6_00185.mp4",
+                "video_results": 0.9956280656779478
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_204_00027.mp4",
+                "video_results": 0.9933521855763545
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_140_00237.mp4",
+                "video_results": 0.988820441424528
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_56_00240.mp4",
+                "video_results": 0.9925219001400297
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_5_00015.mp4",
+                "video_results": 0.9955989785220312
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_111_00243.mp4",
+                "video_results": 0.9946769927454007
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_17_00032.mp4",
+                "video_results": 0.9937731498161578
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_143_00254.mp4",
+                "video_results": 0.9971544728482428
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_203_00101.mp4",
+                "video_results": 0.9870115585460422
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_94_00203.mp4",
+                "video_results": 0.996240066854867
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_82_00285.mp4",
+                "video_results": 0.979962365707167
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_1_00102.mp4",
+                "video_results": 0.9954884431306306
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_76_00043.mp4",
+                "video_results": 0.9919582682847741
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_181_00014.mp4",
+                "video_results": 0.9968311420394587
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_176_00250.mp4",
+                "video_results": 0.9860865518649655
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_109_00271.mp4",
+                "video_results": 0.9932709556648024
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_50_00170.mp4",
+                "video_results": 0.980929291199568
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_167_00141.mp4",
+                "video_results": 0.9959558486815621
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_95_00056.mp4",
+                "video_results": 0.9957527479190795
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_38_00190.mp4",
+                "video_results": 0.9949611727756785
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_175_00063.mp4",
+                "video_results": 0.9943207304151386
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_23_00163.mp4",
+                "video_results": 0.9918056251502992
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_27_00127.mp4",
+                "video_results": 0.9972055342023173
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_88_00129.mp4",
+                "video_results": 0.9952289492670066
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_127_00047.mp4",
+                "video_results": 0.9970799300564351
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_29_00142.mp4",
+                "video_results": 0.9955200111261118
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_180_00039.mp4",
+                "video_results": 0.9948043407879151
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_166_00152.mp4",
+                "video_results": 0.9952567261306339
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_103_00000.mp4",
+                "video_results": 0.9969391156412808
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_73_00259.mp4",
+                "video_results": 0.9963783629030569
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_32_00258.mp4",
+                "video_results": 0.989669498376361
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_105_00078.mp4",
+                "video_results": 0.9965267353643698
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_133_00252.mp4",
+                "video_results": 0.9950770829574133
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_45_00204.mp4",
+                "video_results": 0.9895447241134622
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_158_00085.mp4",
+                "video_results": 0.9967551470942834
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_71_00246.mp4",
+                "video_results": 0.9947022467793059
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_43_00277.mp4",
+                "video_results": 0.9933658561156857
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_2_00122.mp4",
+                "video_results": 0.9696203220424149
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_49_00223.mp4",
+                "video_results": 0.9785397572738471
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_128_00192.mp4",
+                "video_results": 0.9966172397467707
+            },
+            {
+                "video_path": "/nfs/xtjin/UniAV/outputs/row_168_00012.mp4",
+                "video_results": 0.9954647054280843
+            }
+        ]
+    ]
+}

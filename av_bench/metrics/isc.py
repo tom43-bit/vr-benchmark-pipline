@@ -27,7 +27,7 @@ def compute_isc(featuresdict, feat_layer_name, rng_seed, samples_shuffle, splits
 
         log_p_chunk = log_p[(i * N // splits):((i + 1) * N // splits), :]
 
-        q_chunk = p_chunk.mean(dim=0, keepdim=True) + eps
+        q_chunk = p_chunk.mean(dim=0, keepdim=True)
 
         kl = p_chunk * (log_p_chunk - q_chunk.log())
 

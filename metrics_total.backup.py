@@ -30,23 +30,11 @@ pd.set_option('display.max_colwidth', None)  # 显示完整单元格内容
 
 torch.serialization.add_safe_globals([OrderedDict])
 
-def run_av_bench_in_base(video_list, video_dict, video_path, output_cache_path, unpaired=False, if_ref_video=False, if_ref_audio=False, splits=1, _syncformer_ckpt_path=None, no_audio=False):
-    """在 base 环境中启动子进程执行（使用文件共享大数据）"""
+def run_av_bench_in_base(video_list, video_dict, video_path, output_cache_path, unpaired=False, if_ref_video=False, if_ref_audio=False, splits=1,_syncformer_ckpt_path=None):
+    """在 base 环境中启动子进程执行（只传字典）"""
     print("正在 base 环境中启动子进程...")
     
-    import uuid
-    import os
-    import subprocess
-    import base64
-    import cloudpickle
-    from pathlib import Path
-    
-    # 生成唯一ID
-    job_id = str(uuid.uuid4())
-    data_file = f"/tmp/job_data_{job_id}.pkl"
-    result_file = f"/tmp/job_result_{job_id}.pkl"
-    
-    # 保存数据到文件
+    # 只打包数据字典
     data = {
         'video_list': video_list,
         'video_dict': video_dict,
@@ -56,165 +44,99 @@ def run_av_bench_in_base(video_list, video_dict, video_path, output_cache_path, 
         'if_ref_video': if_ref_video,
         'if_ref_audio': if_ref_audio,
         'splits': splits,
-        '_syncformer_ckpt_path': _syncformer_ckpt_path,
-        'result_file': result_file,
-        'no_audio': no_audio
+        '_syncformer_ckpt_path': _syncformer_ckpt_path
     }
     
-    try:
-        with open(data_file, 'wb') as f:
-            cloudpickle.dump(data, f)
-        print(f"数据已保存到临时文件: {data_file}")
-    except Exception as e:
-        print(f"保存数据文件失败: {e}")
-        return None
+    # 序列化字典
+    serialized_data = base64.b64encode(cloudpickle.dumps(data)).decode()
     
-    # 子进程脚本
+    # 在子进程中重新定义函数
     script = f"""
 import base64
 import cloudpickle
 import sys
 import os
-import traceback
 from pathlib import Path
 
 # 添加项目路径
 sys.path.append('/nfs/xtjin/eval_pipline')
 
-try:
-    print("[base环境子进程] 开始执行...")
-    print(f"当前工作目录: {{os.getcwd()}}")
-    
-    # 从文件读取数据
-    data_file = '{data_file}'
-    print(f"读取数据文件: {{data_file}}")
-    
-    with open(data_file, 'rb') as f:
-        data = cloudpickle.load(f)
-    
-    print(f"成功加载数据，视频列表: {{data['video_list']}}")
-    
-    # 导入必要的模块
-    import modules.extract_modality as extract
-    from av_bench.evaluate import evaluate
-    
-    # 构建视频路径
-    video_paths = [os.path.join(data['video_path'], f) for f in data['video_list'] if f.endswith('.mp4')]
-    print(f"视频文件路径: {{video_paths}}")
-    
-    # 检查目录是否存在
-    os.makedirs(data['output_cache_path'], exist_ok=True)
-    os.makedirs(os.path.join(data['output_cache_path'], 'gt_cache'), exist_ok=True)
-    os.makedirs(os.path.join(data['output_cache_path'], 'pred_cache'), exist_ok=True)
-    
-    # 提取特征
-    print("开始提取特征...")
-    extract.extract_all_features(
-        video_list=data['video_list'],
-        video_dict=data['video_dict'],
-        video_path=data['video_path'],
-        output_cache_path=data['output_cache_path'],
-        if_ref_video=data['if_ref_video'],
-        if_ref_audio=data['if_ref_audio'],
-        _syncformer_ckpt_path=data['_syncformer_ckpt_path'],
-        no_audio=data['no_audio']
-    )
-    print("特征提取完成")
-    
-    num_samples = 1
-    gt_cache = Path(os.path.join(data['output_cache_path'], 'gt_cache'))
-    pred_cache = Path(os.path.join(data['output_cache_path'], 'pred_cache'))
-    
-    # 评估，返回字典
-    print("开始评估...")
-    output_metrics = evaluate(
-        gt_audio_cache=gt_cache,
-        pred_audio_cache=pred_cache,
-        num_samples=num_samples,
-        is_paired=not data['unpaired'],
-        splits=data['splits'],
-        _syncformer_ckpt_path=data['_syncformer_ckpt_path'],
-        no_audio=data['no_audio']
-    )
-    print(f"评估完成: {{output_metrics}}")
-    
-    # 保存结果到文件
-    result_file = data['result_file']
-    print(f"保存结果到: {{result_file}}")
-    
-    with open(result_file, 'wb') as f:
-        cloudpickle.dump(output_metrics, f)
-    
-    print("子进程执行成功")
-    
-except Exception as e:
-    print(f"子进程执行出错: {{e}}")
-    traceback.print_exc()
-    
-    # 保存错误信息到结果文件
-    try:
-        with open('{result_file}', 'wb') as f:
-            cloudpickle.dump({{'error': str(e), 'traceback': traceback.format_exc()}}, f)
-    except:
-        pass
-    
-    sys.exit(1)
+# 反序列化数据字典
+serialized_data = base64.b64decode({repr(serialized_data)})
+data = cloudpickle.loads(serialized_data)
+
+print("[base环境子进程] 开始执行...")
+
+# 导入必要的模块
+import modules.extract_modality as extract
+from av_bench.evaluate import evaluate
+
+print(data['video_list'])
+video_paths = [os.path.join(data['video_path'],f) for f in data['video_list'] if f.endswith('.mp4')]
+print(video_paths)
+# 提取特征
+extract.extract_all_features(
+    video_list=data['video_list'],
+    video_dict=data['video_dict'],
+    video_path=data['video_path'],
+    output_cache_path=data['output_cache_path'],
+    if_ref_video=data['if_ref_video'],
+    if_ref_audio=data['if_ref_audio'],
+    _syncformer_ckpt_path=data['_syncformer_ckpt_path']
+)
+
+num_samples = 1
+gt_cache = Path(os.path.join(data['output_cache_path'],'gt_cache'))
+pred_cache = Path(os.path.join(data['output_cache_path'],'pred_cache'))
+
+# 评估，返回字典
+output_metrics = evaluate(
+    gt_audio_cache=gt_cache,
+    pred_audio_cache=pred_cache,
+    num_samples=num_samples,
+    is_paired=not data['unpaired'],
+    splits=data['splits'],
+    _syncformer_ckpt_path=data['_syncformer_ckpt_path']
+)
+
+# 直接序列化结果字典
+result_bytes = base64.b64encode(cloudpickle.dumps(output_metrics)).decode()
+print("__RESULT__:" + result_bytes)
 """
     
     # 在 base 环境中执行
     cmd = ['conda', 'run', '-n', 'base', 'python', '-c', script]
-    print(f"执行命令: {' '.join(cmd)}")
     
     try:
-        # 增加超时时间
+        
         proc = subprocess.run(cmd, capture_output=True, text=True, timeout=7200)
 
         # 打印子进程的所有输出
         if proc.stdout:
-            print("子进程标准输出:")
+            print("子进程输出:")
             print(proc.stdout)
         
-        if proc.stderr:
-            print("子进程错误输出:")
-            print(proc.stderr)
-        
         if proc.returncode != 0:
-            print(f"子进程执行失败，错误码: {proc.returncode}")
-            
-        # 读取结果文件
-        if os.path.exists(result_file):
-            print(f"读取结果文件: {result_file}")
-            with open(result_file, 'rb') as f:
-                result = cloudpickle.load(f)
-            
-            # 检查是否是错误信息
-            if isinstance(result, dict) and 'error' in result:
-                print(f"子进程报告错误: {result['error']}")
-                print(f"详细错误: {result.get('traceback', '无')}")
-                return None
-            
-            print(f"成功获取结果")
-            return result
-        else:
-            print(f"结果文件不存在: {result_file}")
+            print(f" 子进程执行失败，错误码: {proc.returncode}")
+            print(f"错误输出: {proc.stderr}")
             return None
         
+        # 解析结果
+        for line in proc.stdout.split('\n'):
+            if line.startswith('__RESULT__:'):
+                result_data = line[11:]
+                return cloudpickle.loads(base64.b64decode(result_data))
+        
+        print("子进程输出:")
+        print(proc.stdout)
+        return None
+        
     except subprocess.TimeoutExpired:
-        print("子进程执行超时")
+        print(" 子进程执行超时")
         return None
     except Exception as e:
-        print(f"执行出错: {e}")
-        import traceback
-        traceback.print_exc()
+        print(f" 执行出错: {e}")
         return None
-    finally:
-        # 清理临时文件
-        try:
-            if os.path.exists(data_file):
-                os.unlink(data_file)
-                print(f"已清理数据文件: {data_file}")
-        except Exception as e:
-            print(f"清理数据文件失败: {e}")
 
 def calculate_wer_average_exclude_total(df, metrics, total_identifier='total_datas', video_col='video_name'):
     
@@ -331,14 +253,13 @@ if __name__ == '__main__':
     new_row_tuple = tuple(new_row_list)
     result_csv.loc[len(result_csv)] = new_row_tuple
 
-    if not total_args.no_audio:
-        metrics_dict = run_av_bench_in_base(video_list = video_list, video_dict = video_dict, video_path = video_path, output_cache_path = output_cache_path, unpaired=False,
-                                        if_ref_video=if_ref_video,if_ref_audio=if_ref_video,splits=splits,_syncformer_ckpt_path=_syncformer_ckpt_path,no_audio=total_args.no_audio)
-    if if_ref_audio and not total_args.no_audio:
+    metrics_dict = run_av_bench_in_base(video_list = video_list, video_dict = video_dict, video_path = video_path, output_cache_path = output_cache_path, unpaired=False,
+                                        if_ref_video=if_ref_video,if_ref_audio=if_ref_video,splits=splits,_syncformer_ckpt_path=_syncformer_ckpt_path)
+    if if_ref_audio:
         for i in ['FD_VGG','FD_PANN','FD_PASST','KL-PANNS-softmax','KL-PASST-softmax','ISC-PANNS-mean/std',
                     'ISC-PASST-mean/std','IB-Score','DeSync','LAION-CLAP-Score','MS-CLAP-Score']:
             result_csv.iloc[-1, result_csv.columns.get_loc(i)] = metrics_dict[i]
-    elif not total_args.no_audio:
+    else:
         for i in ['ISC-PANNS-mean','ISC-PANNS-std','ISC-PASST-mean','ISC-PASST-std','IB-Score','DeSync','LAION-CLAP-Score','MS-CLAP-Score']:
             result_csv.iloc[-1, result_csv.columns.get_loc(i)] = metrics_dict[i]
 
@@ -350,14 +271,13 @@ if __name__ == '__main__':
         args_list = [
                 '--dimension', mode,
                 '--videos_path', video_path,
-                '--video_mode', 'custom_input',
-                '--model_name', total_args.model_name
+                '--video_mode', 'custom_input'
         ]
 
         args = parser_eval.parse_args(args_list)
         result_name = run_with_subprocess(args)
 
-        with open(f'/nfs/xtjin/eval_pipline/evaluation_results/{result_name}', 'r') as f:
+        with open(f'/nfs/xtjin/benchmark/evaluation_results/{result_name}', 'r') as f:
             data = json.load(f)
 
         video_mode_result = data[mode][1]
@@ -381,15 +301,15 @@ if __name__ == '__main__':
         print(result_csv.iloc[-1])  
         print(df)
         """
-    if not total_args.no_audio:
-        wer.calculate_wer(video_path,video_list,video_dict,result_csv) #这里可以使用calculate wer tts函数自动剔除空gt的视频
 
-        wer_means = result_csv.iloc[:-1][['wer','subs','dele','inse']].mean()
-        result_csv.loc[result_csv.index[-1],['wer','subs','dele','inse']] = wer_means
-        result_csv['dynamic_degree'] = result_csv['dynamic_degree'].astype(float)
+    wer.calculate_wer(video_path,video_list,video_dict,result_csv)
+
+    wer_means = result_csv.iloc[:-1][['wer','subs','dele','inse']].mean()
+    result_csv.loc[result_csv.index[-1],['wer','subs','dele','inse']] = wer_means
+    result_csv['dynamic_degree'] = result_csv['dynamic_degree'].astype(float)
     if not if_ref_audio:
         result_csv.drop(columns=['FD_VGG','FD_PANN','FD_PASST','KL-PANNS-softmax','KL-PASST-softmax'],inplace=True)
-    result_csv.to_csv(total_args.eval_name, index=False)
+    result_csv.to_csv('eval_results.csv', index=False)
     print(result_csv)
 
 

@@ -104,7 +104,8 @@ def encode_audio_with_sync(synchformer: Synchformer, x: torch.Tensor,
 @torch.inference_mode()
 def extract_all_features(video_list,video_dict,video_path,output_cache_path,
                             skip_video_related = False,skip_clap = False,
-                            if_ref_video=False,if_ref_audio=False,ref_video_path=None,ref_audio_path=None,_syncformer_ckpt_path = "./weight"):
+                            if_ref_video=False,if_ref_audio=False,ref_video_path=None,ref_audio_path=None,_syncformer_ckpt_path = "./weight",
+                            no_audio = False):
     _clap_ckpt_path = os.path.join(_syncformer_ckpt_path,"music_speech_audioset_epoch_15_esc_89.98.pt")
     _syncformer_ckpt_path = os.path.join(_syncformer_ckpt_path,'synchformer_state_dict.pth')
     gt_cache = os.path.join(output_cache_path,'gt_cache')
@@ -197,82 +198,83 @@ def extract_all_features(video_list,video_dict,video_path,output_cache_path,
 
 
 
-    models = ExtractionModels().to(device).eval() #音频特征提取模型
+    if not no_audio:
+        models = ExtractionModels().to(device).eval() #音频特征提取模型
 
-    a_dataset = AudioDataset(video_paths, audio_length=audio_length, sr=16000)
-    a_loader = DataLoader(a_dataset, batch_size=batch_size, num_workers=num_workers, pin_memory=True)
+        a_dataset = AudioDataset(video_paths, audio_length=audio_length, sr=16000)
+        a_loader = DataLoader(a_dataset, batch_size=batch_size, num_workers=num_workers, pin_memory=True)
 
-    # extract features with PANN
-    out_dict = {}
-    for wav, filename in tqdm(a_loader):
-        wav = wav.squeeze(1).float().to(device)
+        # extract features with PANN
+        out_dict = {}
+        for wav, filename in tqdm(a_loader):
+            wav = wav.squeeze(1).float().to(device)
 
-        features = models.panns(wav)
-        features = {k: v.cpu() for k, v in features.items()}
-        for i, f_name in enumerate(filename):
-            out_dict[f_name] = {k: v[i] for k, v in features.items()}
-
-    
-    pann_feature_path = os.path.join(pred_cache, 'pann_features.pth')
-    log.info(f'Saving {len(out_dict)} features to {pann_feature_path}')
-    torch.save(out_dict, pann_feature_path)
-    del out_dict
-
-    # extract features with VGGish
-    out_dict = {}
-    for wav, filename in tqdm(a_loader):
-        wav = wav.squeeze(1).float()
-        features = models.vggish(wav).cpu()
-        for i, f_name in enumerate(filename):
-            out_dict[f_name] = features[i]
+            features = models.panns(wav)
+            features = {k: v.cpu() for k, v in features.items()}
+            for i, f_name in enumerate(filename):
+                out_dict[f_name] = {k: v[i] for k, v in features.items()}
 
     
-    vggish_feature_path = os.path.join(pred_cache, 'vggish_features.pth')
-    log.info(f'Saving {len(out_dict)} features to {vggish_feature_path}')
-    torch.save(out_dict, vggish_feature_path)
-    del out_dict
+        pann_feature_path = os.path.join(pred_cache, 'pann_features.pth')
+        log.info(f'Saving {len(out_dict)} features to {pann_feature_path}')
+        torch.save(out_dict, pann_feature_path)
+        del out_dict
 
-    video_path = Path(video_path)
-    audios = sorted(list(video_path.glob('*.wav')) + list(video_path.glob('*.flac')) + list(video_path.glob('*.mp4')),
+        # extract features with VGGish
+        out_dict = {}
+        for wav, filename in tqdm(a_loader):
+            wav = wav.squeeze(1).float()
+            features = models.vggish(wav).cpu()
+            for i, f_name in enumerate(filename):
+                out_dict[f_name] = features[i]
+
+    
+        vggish_feature_path = os.path.join(pred_cache, 'vggish_features.pth')
+        log.info(f'Saving {len(out_dict)} features to {vggish_feature_path}')
+        torch.save(out_dict, vggish_feature_path)
+        del out_dict
+
+        video_path = Path(video_path)
+        audios = sorted(list(video_path.glob('*.wav')) + list(video_path.glob('*.flac')) + list(video_path.glob('*.mp4')),
                     key=lambda x: x.stem)
 
-    if not skip_video_related:
-        # extract features with ImageBind
-        dataset = ImageBindAudioDataset(audios)
-        loader = DataLoader(dataset,
+        if not skip_video_related and not no_audio:
+            # extract features with ImageBind
+            dataset = ImageBindAudioDataset(audios)
+            loader = DataLoader(dataset,
                             batch_size=batch_size,
                             num_workers=num_workers,
                             pin_memory=True)
-        out_dict = {}
-        for wav, filename in tqdm(loader):
-            wav = wav.squeeze(1).to(device)
-            features = models.imagebind({ModalityType.AUDIO: wav})[ModalityType.AUDIO].cpu()
-            for i, f_name in enumerate(filename):
-                out_dict[f_name] = features[i]
+            out_dict = {}
+            for wav, filename in tqdm(loader):
+                wav = wav.squeeze(1).to(device)
+                features = models.imagebind({ModalityType.AUDIO: wav})[ModalityType.AUDIO].cpu()
+                for i, f_name in enumerate(filename):
+                    out_dict[f_name] = features[i]
         
-        imagebind_feature_path = os.path.join(pred_cache, 'imagebind_audio.pth')
-        log.info(f'Saving {len(out_dict)} features to {imagebind_feature_path}')
-        torch.save(out_dict, imagebind_feature_path)
+            imagebind_feature_path = os.path.join(pred_cache, 'imagebind_audio.pth')
+            log.info(f'Saving {len(out_dict)} features to {imagebind_feature_path}')
+            torch.save(out_dict, imagebind_feature_path)
 
-        # extract features with Synchformer
-        dataset = SynchformerAudioDataset(audios, duration=audio_length)
-        loader = DataLoader(dataset,
+            # extract features with Synchformer
+            dataset = SynchformerAudioDataset(audios, duration=audio_length)
+            loader = DataLoader(dataset,
                             batch_size=batch_size,
                             num_workers=num_workers,
                             pin_memory=True)
-        out_dict = {}
-        for wav, filename in tqdm(loader):
-            wav = wav.to(device)
-            features = encode_audio_with_sync(models.synchformer, wav,
+            out_dict = {}
+            for wav, filename in tqdm(loader):
+                wav = wav.to(device)
+                features = encode_audio_with_sync(models.synchformer, wav,
                                               models.sync_mel_spectrogram).cpu()
-            for i, f_name in enumerate(filename):
-                out_dict[f_name] = features[i]
+                for i, f_name in enumerate(filename):
+                    out_dict[f_name] = features[i]
         
-        synchformer_feature_path = os.path.join(pred_cache, 'synchformer_audio.pth')
-        log.info(f'Saving {len(out_dict)} features to {synchformer_feature_path}')
-        torch.save(out_dict, synchformer_feature_path)
+            synchformer_feature_path = os.path.join(pred_cache, 'synchformer_audio.pth')
+            log.info(f'Saving {len(out_dict)} features to {synchformer_feature_path}')
+            torch.save(out_dict, synchformer_feature_path)
 
-    if not skip_clap:
+    if not skip_clap and not no_audio:
         # extract features with CLAP
         dataset = AudioDataset(audios, audio_length=audio_length, sr=48_000)
         loader = DataLoader(dataset,
@@ -304,35 +306,36 @@ def extract_all_features(video_list,video_dict,video_path,output_cache_path,
         log.info(f'Saving {len(out_dict)} features to {ms_feature_path}')
         torch.save(out_dict, ms_feature_path)
 
-    # PassT, need 32K sampling rate
-    dataset = AudioDataset(audios, audio_length=audio_length, sr=32_000)
-    loader = DataLoader(dataset, batch_size=batch_size, num_workers=num_workers, pin_memory=True)
-    out_features = {}
-    out_logits = {}
-    for wav, filename in tqdm(loader):
-        wav = wav.squeeze(1).float().to(device)
+    if not no_audio:
+        # PassT, need 32K sampling rate
+        dataset = AudioDataset(audios, audio_length=audio_length, sr=32_000)
+        loader = DataLoader(dataset, batch_size=batch_size, num_workers=num_workers, pin_memory=True)
+        out_features = {}
+        out_logits = {}
+        for wav, filename in tqdm(loader):
+            wav = wav.squeeze(1).float().to(device)
 
-        if (wav.size(-1) >= 320000):
-            wav = wav[..., :320000]
-        else:
-            wav = torch.nn.functional.pad(wav, (0, 320000 - wav.size(-1)))
+            if (wav.size(-1) >= 320000):
+                wav = wav[..., :320000]
+            else:
+                wav = torch.nn.functional.pad(wav, (0, 320000 - wav.size(-1)))
 
-        features = models.passt_model(wav).cpu()
-        # see https://github.com/kkoutini/passt_hear21/blob/5f1cce6a54b88faf0abad82ed428355e7931213a/hear21passt/wrapper.py#L40
-        # logits is 527 dim; features is 768
-        logits = features[:, :527]
-        features = features[:, 527:]
-        for i, f_name in enumerate(filename):
-            out_features[f_name] = features[i]
-            out_logits[f_name] = logits[i]
+            features = models.passt_model(wav).cpu()
+            # see https://github.com/kkoutini/passt_hear21/blob/5f1cce6a54b88faf0abad82ed428355e7931213a/hear21passt/wrapper.py#L40
+            # logits is 527 dim; features is 768
+            logits = features[:, :527]
+            features = features[:, 527:]
+            for i, f_name in enumerate(filename):
+                out_features[f_name] = features[i]
+                out_logits[f_name] = logits[i]
     
-    passt_feature_path = os.path.join(pred_cache, 'passt_features_embed.pth')
-    log.info(f'Saving {len(out_features)} features to {passt_feature_path}')
-    torch.save(out_features, passt_feature_path)
+        passt_feature_path = os.path.join(pred_cache, 'passt_features_embed.pth')
+        log.info(f'Saving {len(out_features)} features to {passt_feature_path}')
+        torch.save(out_features, passt_feature_path)
 
-    passt_feature_path = os.path.join(pred_cache, 'passt_logits.pth')
-    log.info(f'Saving {len(out_logits)} features to {passt_feature_path}')
-    torch.save(out_logits, passt_feature_path)
+        passt_feature_path = os.path.join(pred_cache, 'passt_logits.pth')
+        log.info(f'Saving {len(out_logits)} features to {passt_feature_path}')
+        torch.save(out_logits, passt_feature_path)
 
 
     if if_ref_video:

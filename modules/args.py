@@ -104,6 +104,14 @@ def parse_args():
         4. 'None': no preprocessing
         """,
     )
+
+    parser.add_argument(
+        "--model_name",
+        type=str,
+        required=False,
+        default="unknow",
+        help="For unique feature name",
+    )
     
     return parser
 
@@ -158,6 +166,29 @@ def total_args():
         type=int,
         required=False,
         help="flag of ref audio",
+    )
+
+    parser1.add_argument(
+        "--eval_name",
+        type=str,
+        required=False,
+        default="eval_result.csv",
+        help="eval_result csv",
+    )
+
+    parser1.add_argument(
+        "--no_audio",
+        action='store_true',
+        required=False,
+        help="Does video has audio?",
+    )
+
+    parser1.add_argument(
+        "--model_name",
+        type=str,
+        required=False,
+        default="unknow",
+        help="For unique feature name",
     )
 
     return parser1.parse_args()
