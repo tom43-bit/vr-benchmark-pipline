@@ -1,8 +1,19 @@
-from torchvision.transforms import Compose
+from torchvision.transforms import Compose, Resize, CenterCrop, ToTensor, Normalize, ToPILImage
 import torch
 from transformers import AutoImageProcessor, AutoModel
 from PIL import Image
 import requests
+import pandas as pd
+import numpy as np
+from tqdm import tqdm
+
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+import torchvision.transforms as transforms
+import os
+
+from decord import VideoReader
 
 def dino_transform(n_px):
     return Compose([
@@ -89,15 +100,16 @@ def load_video(video_path, data_transform=None, num_frames=None, return_tensor=T
 
     return frames
 
-def identity_consistency(model, video_dict, video_list, device, read_frame=False):
+def identity_consistency(model, video_dict, video_list, base_path, result_csv, device, read_frame=False):
     sim = 0.0
     cnt = 0
-    video_results = []
+    #video_results = []
     if read_frame:
         image_transform = dino_transform_Image(224)
     else:
         image_transform = dino_transform(224)
-    for video_path in tqdm(video_list, disable=get_rank() > 0):
+    for video_n in tqdm(video_list, False):
+        video_path = os.path.join(base_path,video_n)
         video_sim = 0.0
         if read_frame:
             video_path = video_path[:-4].replace('videos', 'frames').replace(' ', '_')
@@ -108,32 +120,37 @@ def identity_consistency(model, video_dict, video_list, device, read_frame=False
         else:
             images = load_video(video_path)
             images = image_transform(images)
+        ref_image_transform = dino_transform_Image(224)
+        ref_image = ref_image_transform(Image.open(video_dict[video_n]['image_path']))
+        ref_image = ref_image.unsqueeze(0).to(device)
+        output = model(ref_image)
+        ref_features = output.pooler_output
+        ref_features = F.normalize(ref_features, dim=-1, p=2)
         for i in range(len(images)):
             with torch.no_grad():
-                ref_image = 
                 image = images[i].unsqueeze(0)
                 image = image.to(device)
-                image_features = model(image)
+                output = model(image)
+                image_features = output.pooler_output
                 image_features = F.normalize(image_features, dim=-1, p=2)
-                if i == 0:
-                    first_image_features = image_features
-                else:
-                    sim_pre = max(0.0, F.cosine_similarity(former_image_features, image_features).item())
-                    sim_fir = max(0.0, F.cosine_similarity(first_image_features, image_features).item())
-                    cur_sim = (sim_pre + sim_fir) / 2
-                    video_sim += cur_sim
-                    cnt += 1
-            former_image_features = image_features
-        sim_per_images = video_sim / (len(images) - 1)
+                sim_pre = max(0.0, F.cosine_similarity(ref_features, image_features).item())
+                video_sim += sim_pre
+                cnt += 1
+        sim_per_images = video_sim / len(images)
+        result_csv.loc[result_csv['video_name'] == video_n, 'ID'] = sim_per_images
         sim += video_sim
-        video_results.append({'video_path': video_path, 'video_results': sim_per_images})
+        #video_results.append({'video_path': video_path, 'video_results': sim_per_images})
     # sim_per_video = sim / (len(video_list) - 1)
     sim_per_frame = sim / cnt
-    return sim_per_frame, video_results
+    print(sim_per_frame)
+    result_csv.loc[result_csv.index[-1], 'ID'] = sim_per_frame
 
-def compute_ID(video_list,video_dict,device):
-    model_name = 'facebook/dinov3-base' 
+def compute_ID(video_list,video_dict, base_path, result_csv, device):
+
+    os.environ['HF_TOKEN'] = "your_hf_token" 
+
+    model_name = 'facebook/dinov3-vitb16-pretrain-lvd1689m' 
     processor = AutoImageProcessor.from_pretrained(model_name)
-    model = AutoModel.from_pretrained(model_name)
+    model = AutoModel.from_pretrained(model_name).to(device)
 
-    identity_consistency(model, video_dict, video_list, device, read_frame=False)
+    identity_consistency(model, video_dict, video_list, base_path, result_csv, device)
